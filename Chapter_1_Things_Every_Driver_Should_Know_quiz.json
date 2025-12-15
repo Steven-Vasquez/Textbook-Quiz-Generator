@@ -1,0 +1,2357 @@
+{
+  "chapter_key": "Chapter_1_Things_Every_Driver_Should_Know",
+  "title": "Chapter 1 Things Every Driver Should Know",
+  "quiz": {
+    "mcq": [
+      {
+        "q": "According to the excerpt, why might someone without mechanical skills feel exasperated watching others work on cars?",
+        "options": [
+          "A. Others charge more for repairs",
+          "B. Others understand how things work and fit together",
+          "C. Others use expensive tools",
+          "D. Others refuse to help"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the author's main argument about learning car maintenance?",
+        "options": [
+          "A. It requires innate mechanical talent",
+          "B. It is only for professional mechanics",
+          "C. It can be learned without being 'born with a wrench'",
+          "D. It is too dangerous for beginners"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "Why does the author recommend learning to fill the fuel tank yourself?",
+        "options": [
+          "A. To avoid paying for professional service",
+          "B. To save money compared to full-service",
+          "C. To prevent fuel leaks",
+          "D. To learn about fuel types"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the first question the author suggests asking before tackling a car maintenance job?",
+        "options": [
+          "A. Do I have the correct tools?",
+          "B. Do I really want to do this?",
+          "C. Can I afford to pay a mechanic?",
+          "D. Is it safe to start?"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "According to the excerpt, what is a key reason to know how to open the hood of a car?",
+        "options": [
+          "A. To check the oil or coolant level",
+          "B. To avoid lockouts",
+          "C. To replace the windshield",
+          "D. To install a new radio"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "What does the excerpt state about the simplest car tasks?",
+        "options": [
+          "A. They require specialized tools",
+          "B. They can be the biggest hurdles to overcome",
+          "C. They should always be done by professionals",
+          "D. They are unnecessary for new drivers"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does the author mention as a necessary step before changing a tire?",
+        "options": [
+          "A. Checking the tire pressure",
+          "B. Jacking up the vehicle safely",
+          "C. Removing the hubcap",
+          "D. Cleaning the wheel"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does the excerpt say about terms in a specific font?",
+        "options": [
+          "A. They refer to common car models",
+          "B. They are defined in Appendix A",
+          "C. They indicate safety warnings",
+          "D. They are technical jargon"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why does the author include instructions for 'taking things apart and putting them back together'?",
+        "options": [
+          "A. To teach advanced engineering",
+          "B. To provide a surefire method for disassembly",
+          "C. To replace professional mechanics",
+          "D. To avoid using safety gear"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does the excerpt imply about the cost of tools for self-repair?",
+        "options": [
+          "A. Always buy new expensive tools",
+          "B. Borrow or rent tools if possible",
+          "C. Only use tools from dealerships",
+          "D. Avoid tools to save money"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "According to the excerpt, what should you consider before attempting a vehicle repair yourself?",
+        "options": [
+          "A) Whether your vehicle is currently insured",
+          "B) Whether the job passes the test of time, cost, and safety",
+          "C) Whether your mechanic is available",
+          "D) Whether the part is on sale"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What key lesson did the author learn from 'the big guys' about loosening stuck bolts?",
+        "options": [
+          "A) Strength is determined by size and gender",
+          "B) Longer handles provide more leverage",
+          "C) Professionals always have the right tools",
+          "D) Patience is unnecessary for quick fixes"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if a repair job doesn't pass the self-repair cost\/benefit test?",
+        "options": [
+          "A) Rush to complete it before it gets harder",
+          "B) Turn it over to a professional after verifying necessity",
+          "C) Skip the repair entirely",
+          "D) Buy cheaper parts to save money"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the most annoying part of automotive repairs mentioned in the excerpt?",
+        "options": [
+          "A) Finding the right tools",
+          "B) Disabling the vehicle to work on it",
+          "C) Returning to the store for incorrect parts",
+          "D) Explaining the problem to a mechanic"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "How often did the author experience needing to return to the store for incorrect parts before learning proper buying tips?",
+        "options": [
+          "A) Once every three jobs",
+          "B) One out of every three times",
+          "C) Two out of every three times",
+          "D) Almost never"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What does the excerpt say about focusing strength when using tools?",
+        "options": [
+          "A) It should be directed upward",
+          "B) It depends on size or sex",
+          "C) It should be poured down arms into hands",
+          "D) It requires shouting to be effective"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you verify before trusting a professional for a vehicle repair?",
+        "options": [
+          "A) Their hourly rate",
+          "B) Whether the job is necessary and properly done",
+          "C) Their availability for weekend work",
+          "D) The color of their uniform"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does the excerpt warn against when buying replacement parts?",
+        "options": [
+          "A) Buying parts online",
+          "B) Not reading the section on buying parts",
+          "C) Using generic parts",
+          "D) Buying parts without a diagram"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does the excerpt state is the primary factor in loosening stuck bolts, not strength?",
+        "options": [
+          "A) Using a larger hammer",
+          "B) The way strength is focused",
+          "C) Having a mechanic present",
+          "D) The time of day"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the main purpose of Chapter 3 as mentioned in the excerpt?",
+        "options": [
+          "A) To teach driving safety",
+          "B) To explain how to buy specific tools",
+          "C) To cover advanced engine repairs",
+          "D) To discuss insurance claims"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where are vehicle specifications often printed besides the owner's manual?",
+        "options": [
+          "A. On the dashboard display",
+          "B. On metal tags or decals inside the hood",
+          "C. On the vehicle's license plate",
+          "D. On the fuel pump nozzle"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does OEM stand for in the context of vehicle parts?",
+        "options": [
+          "A. Original Equipment Manufacturer",
+          "B. Original Engine Model",
+          "C. Over-the-Counter Mechanic",
+          "D. Engine Optimization Method"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Where should you record vehicle specifications for future reference?",
+        "options": [
+          "A. In the vehicle's service manual",
+          "B. In Appendix B of the textbook",
+          "C. On the vehicle's VIN plate",
+          "D. On the dealership's invoice"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where can you find spark plug specifications if not in the owner's manual?",
+        "options": [
+          "A. On the vehicle's tire pressure label",
+          "B. In a 'Tune-Up Specification Guide' at an auto supply store",
+          "C. In the vehicle's warranty booklet",
+          "D. On the manufacturer's website homepage"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is a recommended strategy when buying parts to avoid labor charges?",
+        "options": [
+          "A. Always buy parts online without consulting a store",
+          "B. Ask for a discount as a DIY installer",
+          "C. Purchase only aftermarket parts for lower cost",
+          "D. Buy all parts at dealership without asking for discounts"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why should you prefer OEM parts over aftermarket parts?",
+        "options": [
+          "A. OEM parts are always cheaper",
+          "B. OEM parts match the vehicle's original specifications",
+          "C. Aftermarket parts are harder to find",
+          "D. OEM parts include labor discounts"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where might a vehicle's ID decal be located according to the text?",
+        "options": [
+          "A. Under the driver's seat",
+          "B. Inside the glove compartment lid",
+          "C. On the rear bumper",
+          "D. On the vehicle's tire sidewall"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if you cannot find spark plug specs in your vehicle's documentation?",
+        "options": [
+          "A. Assume standard plug size for all vehicles",
+          "B. Consult a 'Tune-Up Specification Guide' at an auto supply store",
+          "C. Use the same plugs as your neighbor's car",
+          "D. Ignore the specification and install any plugs"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What information do vehicle ID tags typically provide besides specs?",
+        "options": [
+          "A. Fuel efficiency ratings",
+          "B. Manufacturing location and paint type",
+          "C. Current odometer reading",
+          "D. Warranty expiration date"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is a common misconception about vehicle maintenance mentioned in the text?",
+        "options": [
+          "A. Maintenance causes engine explosions",
+          "B. Safety rules are unnecessary for DIY work",
+          "C. Making a small mistake will cause an explosion",
+          "D. Parts must always be bought new"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you do before working on a vehicle's engine to avoid burns?",
+        "options": [
+          "A) Run the engine for 10 minutes",
+          "B) Ensure parts are cool or follow warm engine precautions",
+          "C) Use gasoline to clean the engine",
+          "D) Work with the parking brake off"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why is it dangerous to store gasoline in a regular can?",
+        "options": [
+          "A) It evaporates too quickly",
+          "B) Gasoline vapor can form an explosive mixture with air",
+          "C) It causes rust on the can",
+          "D) It makes the car harder to start"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How should you safely dispose of an empty gasoline can?",
+        "options": [
+          "A) Pour it down a drain",
+          "B) Fill with water and recycle at a toxic waste center",
+          "C) Burn it in a controlled fire",
+          "D) Store it under the car"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What must be done before jacking a vehicle?",
+        "options": [
+          "A) Turn on the engine",
+          "B) Block the wheels properly",
+          "C) Remove the parking brake",
+          "D) Use unblocked wheels"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why should you avoid using gasoline to clean parts?",
+        "options": [
+          "A) It is more expensive than solvent",
+          "B) Mechanic's solvent is safer and flame-retardant",
+          "C) It leaves residue on parts",
+          "D) It requires special tools"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What safety rule applies to electrical work on a vehicle?",
+        "options": [
+          "A) Always use bare hands",
+          "B) Use insulated tools",
+          "C) Work with the engine running",
+          "D) Wear metal jewelry"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do to prevent injury when using a wrench on a stuck part?",
+        "options": [
+          "A) Push the wrench forcefully",
+          "B) Pull the wrench instead of pushing",
+          "C) Wear gloves only",
+          "D) Work with one hand"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why should you remove jewelry before working on a car?",
+        "options": [
+          "A) It prevents rust on the jewelry",
+          "B) It could get caught on parts and cause injury",
+          "C) It makes the car look cleaner",
+          "D) It reduces tool weight"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the correct parking procedure before working on a vehicle?",
+        "options": [
+          "A) Park in Drive with engine running",
+          "B) Parking brake off, gear in Reverse",
+          "C) Parking brake on, gear in Park or Neutral, engine off",
+          "D) Engine on, gear in Drive"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you never do while working on a vehicle?",
+        "options": [
+          "A) Use a flashlight",
+          "B) Smoke",
+          "C) Wear safety glasses",
+          "D) Check engine temperature"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do after using toxic chemicals?",
+        "options": [
+          "Store them in a regular container.",
+          "Wash your hands thoroughly and store safely away from pets and children or dispose safely.",
+          "Dispose of them in the sink.",
+          "Keep them near children for safety."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why is gasoline considered extremely dangerous?",
+        "options": [
+          "It is only flammable.",
+          "It is toxic, flammable, and its vapor in an empty can is explosive.",
+          "It is only toxic.",
+          "It is not dangerous if stored in a plastic bottle."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How should you store a small amount of gasoline for a lawn mower?",
+        "options": [
+          "In any container.",
+          "In a ventilated gasoline can designed specifically for that purpose.",
+          "In a plastic bottle.",
+          "In an empty water bottle."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where is the best place to work on your vehicle to avoid breathing toxic fumes?",
+        "options": [
+          "In a closed garage.",
+          "In a well-ventilated area, preferably outdoors.",
+          "In a basement.",
+          "In a room with no windows."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you use in dark areas during auto repair?",
+        "options": [
+          "A regular flashlight.",
+          "A work light.",
+          "Your phone's flashlight.",
+          "Work without any light."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why is it recommended to fill up gasoline in the morning?",
+        "options": [
+          "Because gas stations are less crowded.",
+          "Because gasoline expands with heat, so cooler fuel has more energy per gallon.",
+          "Because the owner of the gas station is more likely to be there.",
+          "Because the price is lower in the morning."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you avoid doing with a gasoline can in your vehicle?",
+        "options": [
+          "Storing it in the trunk.",
+          "Carrying it in or on your vehicle (unless going far into the wilds).",
+          "Using it to clean the engine.",
+          "Leaving it in the sun."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the danger of gasoline vapor in an empty can?",
+        "options": [
+          "It is not dangerous.",
+          "It is explosive enough to take out a city block.",
+          "It is non-flammable.",
+          "It is only dangerous if the can is full."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do with your hands after handling toxic chemicals?",
+        "options": [
+          "Wipe them on your clothes.",
+          "Wash them thoroughly.",
+          "Use hand sanitizer.",
+          "Leave them without washing."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why should you keep a fire extinguisher handy?",
+        "options": [
+          "Because auto repair is always dangerous.",
+          "Chapter 3 contains reasons for this precaution that may surprise you.",
+          "To put out fires from the engine.",
+          "To put out fires from the garage."
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why should you avoid flames near the fuel pump?",
+        "options": [
+          "A. Flames make fuel flow faster",
+          "B. Flames can ignite gasoline fumes causing an explosion",
+          "C. Flames cool the gasoline",
+          "D. Flames prevent automatic shut-off"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if the price window shows a previous sale?",
+        "options": [
+          "A. Ignore it and start pumping immediately",
+          "B. Reset it by inserting a credit card or having an attendant clear the machine",
+          "C. Wait for the price to disappear on its own",
+          "D. Select the fuel grade before resetting"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the purpose of depressing the rubber vapor-recovery sleeve on some nozzles?",
+        "options": [
+          "A. To prevent automatic shut-off",
+          "B. To allow fuel to flow into the tank",
+          "C. To measure fuel volume accurately",
+          "D. To cool the fuel before pumping"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What happens when the pump automatically shuts off?",
+        "options": [
+          "A. The trigger latch releases immediately",
+          "B. The numbers in the pump window stop moving and the trigger clicks closed",
+          "C. You must manually stop the flow",
+          "D. The credit card receipt prints automatically"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why should you never 'top off' a tank after the pump shuts off?",
+        "options": [
+          "A. It reduces fuel efficiency",
+          "B. It causes the pump to malfunction",
+          "C. Fuel may overflow, ruining asphalt and creating a fire hazard",
+          "D. It prevents automatic shut-off from working"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you do after removing the nozzle from the fuel tank?",
+        "options": [
+          "A. Immediately replace the fuel cap while the receipt prints",
+          "B. Check tire pressure before hanging the nozzle",
+          "C. Wash the windows while the pump is still running",
+          "D. Press 'Yes' for a receipt before hanging the nozzle"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "What is the correct step before selecting the fuel grade?",
+        "options": [
+          "A. Unscrew the fuel tank cap",
+          "B. Insert the credit card into the slot",
+          "C. Move the pump lever to ON",
+          "D. Reset the price window if necessary"
+        ],
+        "answer": "D"
+      },
+      {
+        "q": "What is the purpose of the trigger latch on the pump nozzle?",
+        "options": [
+          "A. To increase fuel flow speed",
+          "B. To prevent automatic shut-off",
+          "C. To allow you to step away from the pump and avoid fumes",
+          "D. To measure the exact amount of fuel"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you do if the price window does not reset to $0.00?",
+        "options": [
+          "A. Proceed to select fuel grade immediately",
+          "B. Try inserting your credit card or have the attendant clear the machine",
+          "C. Wait for the pump to start automatically",
+          "D. Skip the credit card step and use cash"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why is overfilling a tank especially dangerous on hot days?",
+        "options": [
+          "A. Heat makes fuel less flammable",
+          "B. Heat causes fuel to expand, increasing overflow risk",
+          "C. Heat makes the pump shut off too early",
+          "D. Heat reduces vapor-recovery sleeve effectiveness"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where is the hood release typically located in newer vehicle models?",
+        "options": [
+          "Behind the front grill",
+          "Near the steering column or driver's seat",
+          "Under the dashboard",
+          "On the passenger side door"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the purpose of the safety catch after popping the hood open?",
+        "options": [
+          "To prevent the hood from opening while driving",
+          "To secure the hood during high-speed driving",
+          "To hold the hood closed during rain",
+          "To make the hood easier to close"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "If you cannot locate the hood release, what should you do according to the text?",
+        "options": [
+          "Use a screwdriver to pry it open",
+          "Ask a gas station attendant for assistance",
+          "Wait until the next mechanic visit",
+          "Check the owner's manual online"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the recommended alternative to paying for full service when asking for hood assistance?",
+        "options": [
+          "Request only a tire pressure check",
+          "Ask for $5 worth of gasoline",
+          "Get a free oil change",
+          "Skip the tip entirely"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How should you operate the hood release if it is located at the front of the vehicle?",
+        "options": [
+          "Push it forward only",
+          "Press, push, or pull it from front to back and side to side",
+          "Twist it clockwise",
+          "Pull it upward firmly"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does the text say about checking oil yourself instead of having an attendant do it?",
+        "options": [
+          "It is more expensive",
+          "It is covered by a sidebar in Chapter 2",
+          "It requires special tools",
+          "It is only for older vehicles"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do after the hood pops open but is stopped by the safety catch?",
+        "options": [
+          "Ignore it and drive away",
+          "Press the safety catch one way or the other",
+          "Call roadside assistance",
+          "Use a hammer to release it"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where is the hood release typically located in older vehicle models?",
+        "options": [
+          "Near the steering column",
+          "Inside the glove compartment",
+          "Behind the grill or bumper",
+          "On the roof of the car"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you do if you still cannot open the hood after reading the instructions?",
+        "options": [
+          "Try jiggling the steering wheel",
+          "Consult the owner's manual again",
+          "Head to the full-service bay for help",
+          "Use the emergency brake"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is mentioned as a benefit of getting your windows washed and tire pressure checked when asking for hood help?",
+        "options": [
+          "It is free",
+          "It saves money on oil changes",
+          "It is only available at night",
+          "It requires no additional payment"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "What should you do if the hood doesn't stay up securely after release?",
+        "options": [
+          "A. Ignore it and drive away",
+          "B. Secure it with a broom handle or similar object",
+          "C. Immediately replace the entire hood",
+          "D. Apply adhesive to the hinges"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where is a hood prop typically attached?",
+        "options": [
+          "A. To the car's dashboard",
+          "B. To the engine block",
+          "C. To the underside of the hood or bottom edge of the hood opening",
+          "D. To the windshield wipers"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What danger is associated with gas-pressurized hood shocks?",
+        "options": [
+          "A. They can overheat while driving",
+          "B. Gas may leak, causing the hood to fall",
+          "C. They require frequent oiling",
+          "D. They emit toxic fumes"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do before removing any part of a vehicle?",
+        "options": [
+          "A. Check the owner's manual for part numbers",
+          "B. Ask yourself four specific questions",
+          "C. Clean the part with solvent",
+          "D. Take a photo of the assembly"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "According to the text, what is the first step when taking something apart?",
+        "options": [
+          "A. Remove all screws immediately",
+          "B. Lay a clean, lint-free rag on a flat surface",
+          "C. Turn off the car engine",
+          "D. Gather all tools in one place"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why should you avoid distractions while taking something apart?",
+        "options": [
+          "A. To prevent noise complaints",
+          "B. To reduce the risk of dropping parts",
+          "C. To maintain focus and avoid panic",
+          "D. To comply with safety regulations"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you NOT do when taking something apart?",
+        "options": [
+          "A. Take your time",
+          "B. Drink coffee to relax",
+          "C. Work in a hurry",
+          "D. Make notes of answers to key questions"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is the purpose of the rag mentioned in the disassembly instructions?",
+        "options": [
+          "A. To absorb oil spills",
+          "B. To prevent parts from falling",
+          "C. To provide a clean surface for parts",
+          "D. To clean the work area"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "Which question is NOT listed as one to ask before disassembly?",
+        "options": [
+          "A. What is this thing?",
+          "B. How tightly is it screwed?",
+          "C. What does it do?",
+          "D. Why is it made the way it is?"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the recommended action if hood shocks feel insecure?",
+        "options": [
+          "A. Tighten the hood screws",
+          "B. Secure with a broom handle and have them checked",
+          "C. Replace the hood immediately",
+          "D. Apply lubricant to the shocks"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why shouldn't bolts holding gaskets be tightened too securely?",
+        "options": [
+          "A. It prevents the gasket from being visible",
+          "B. It avoids stripped threads or deformed gaskets",
+          "C. It makes removal easier later",
+          "D. It reduces the need for torque specifications"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "When removing parts, how should they be placed on the rag?",
+        "options": [
+          "A. In random order with no direction",
+          "B. Counterclockwise with parts pointing inward",
+          "C. Clockwise with parts pointing in original direction",
+          "D. In alphabetical order by part name"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is the purpose of numbering parts during removal?",
+        "options": [
+          "A. To identify expensive parts",
+          "B. To track the sequence for reassembly",
+          "C. To match parts to a parts catalog",
+          "D. To calculate torque specifications"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How should parts be reassembled?",
+        "options": [
+          "A. In the same order they were removed",
+          "B. Starting with the first part removed",
+          "C. Counterclockwise from the last removed part",
+          "D. Randomly based on size"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What risk occurs if a gasket bolt is over-tightened?",
+        "options": [
+          "A. The bolt becomes too loose",
+          "B. The gasket may be squeezed out of shape",
+          "C. The car's paint gets scratched",
+          "D. The tire loses air pressure"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What note should be made about parts that shouldn't be over-tightened?",
+        "options": [
+          "A. 'Use lubricant'",
+          "B. 'Don't over-tighten'",
+          "C. 'Requires special tools'",
+          "D. 'Check for rust'"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does the placement and direction of parts on the rag indicate?",
+        "options": [
+          "A. The cost of each part",
+          "B. When to reassemble and orientation",
+          "C. The manufacturer of the part",
+          "D. The weight of each part"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How can you prevent having extra nuts\/bolts at the end of a job?",
+        "options": [
+          "A. By skipping the numbering step",
+          "B. By working systematically and understanding part function",
+          "C. By using only the largest tools",
+          "D. By removing all parts at once"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is a primary reason to jack up a car?",
+        "options": [
+          "A. To clean the engine",
+          "B. To change a tire or inspect brakes",
+          "C. To test the suspension",
+          "D. To replace the windshield"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is essential when jacking a car, according to the text?",
+        "options": [
+          "A. A creeper",
+          "B. Jack stands",
+          "C. A tire pressure gauge",
+          "D. An oil filter"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you never do with a jack?",
+        "options": [
+          "Use it to lift the vehicle",
+          "Use it to hold the vehicle in place",
+          "Use it without jack stands",
+          "Use it on an incline"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why must jack stands be used when working under a vehicle?",
+        "options": [
+          "To make the vehicle easier to lift",
+          "To prevent injury or death if the vehicle falls",
+          "To secure the wheels during tire changes",
+          "To hold the vehicle on a hill"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you use to block wheels when jacking up a vehicle?",
+        "options": [
+          "Only the parking brake",
+          "Bricks, wooden wedges, or metal wheel chocks",
+          "The transmission in Park",
+          "The emergency brake only"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the recommended action for a flat tire on a highway?",
+        "options": [
+          "Change the tire on the shoulder",
+          "Exit the vehicle and change the tire",
+          "Use a cellphone to call for help",
+          "Drive slowly to the nearest exit"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is recommended to keep in the vehicle for emergencies?",
+        "options": [
+          "A spare tire",
+          "A cellphone for emergency calls",
+          "Jack stands",
+          "Wheel chocks"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if you have a flat on a hill without wheel blocks?",
+        "options": [
+          "Park on the hill and change the tire without blocking",
+          "Park near the curb, turn wheels toward curb, and block downside wheels",
+          "Drive to the bottom of the hill to change the tire",
+          "Change the tire without parking"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why is changing a tire on a freeway dangerous?",
+        "options": [
+          "It causes tire damage",
+          "You can be injured and fall prey to carjackers",
+          "The vehicle may overheat",
+          "It requires more tools"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if you have no cellphone during a flat tire emergency?",
+        "options": [
+          "Change the tire quickly",
+          "Hang a white rag or white paper out the window",
+          "Run to the nearest building",
+          "Signal with headlights"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What must be done before jacking up a vehicle?",
+        "options": [
+          "Turn off the engine",
+          "Park on level ground",
+          "Have a spare tire ready",
+          "Check tire pressure"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What gearshift position should be used before jacking up a vehicle?",
+        "options": [
+          "Drive",
+          "Neutral",
+          "Park (or First for manual)",
+          "Reverse"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "When should the parking brake NOT be engaged?",
+        "options": [
+          "A) When changing a tire",
+          "B) When inspecting brakes by removing rear brake drums",
+          "C) When driving on a highway",
+          "D) When jacking up the car"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What happens if you work under a car without securely jacking and blocking it?",
+        "options": [
+          "A) The car will not start",
+          "B) The vehicle can cause damage to itself and you if it falls",
+          "C) The tires will deflate",
+          "D) The engine will overheat"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why must lug nuts be loosened before jacking up the car?",
+        "options": [
+          "A) To prevent the wheel from falling off",
+          "B) Because the wheel turns freely after jacking, making it hard to loosen",
+          "C) To check tire pressure",
+          "D) To remove the wheel cover"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if you lack an owner's manual for jack placement?",
+        "options": [
+          "A) Guess the correct position",
+          "B) Use the rear axle for all repairs",
+          "C) Ask the service department at a dealership",
+          "D) Jack up the car without blocking"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is the safe practice for two-wheel repairs?",
+        "options": [
+          "A) Always jack up both wheels simultaneously",
+          "B) Place the jack near the rear axle without blocking",
+          "C) Stick to jacking one wheel at a time until proficient",
+          "D) Skip blocking the wheels"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you do before jacking up a car for tire or brake work?",
+        "options": [
+          "A) Check the oil level",
+          "B) Remove the wheel cover and loosen lug nuts",
+          "C) Start the engine",
+          "D) Inflate the tires"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the danger of placing the jack where weight rests on bendable parts?",
+        "options": [
+          "A) The car will accelerate faster",
+          "B) You can injure the car",
+          "C) The tires will burst",
+          "D) The engine will stall"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why must front wheels be blocked when the parking brake is off for brake inspection?",
+        "options": [
+          "A) To prevent the car from rolling",
+          "B) To make rear brake drums easier to remove",
+          "C) To allow rear wheel rotation",
+          "D) To secure the jack"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "What is the correct sequence for removing a wheel?",
+        "options": [
+          "A) Jack up, loosen lug nuts, remove wheel cover",
+          "B) Loosen lug nuts, remove wheel cover, jack up",
+          "C) Remove wheel cover, jack up, loosen lug nuts",
+          "D) Jack up, remove wheel cover, loosen lug nuts"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "When is it acceptable to place the jack near the rear axle?",
+        "options": [
+          "A) Always for all repairs",
+          "B) Only for two-wheel repairs after gaining proficiency",
+          "C) Only for one-wheel repairs",
+          "D) Never"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the correct technique for using a hydraulic jack?",
+        "options": [
+          "A. Pump rapidly with short strokes",
+          "B. Use nice, even strokes from lowest to highest point",
+          "C. Pump only upward without lowering",
+          "D. Use forceful jerking motions"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why is it dangerous to substitute boxes, stones, or bricks for jack stands?",
+        "options": [
+          "A. They make the vehicle too heavy to lift",
+          "B. They can slip out or break while under the car",
+          "C. They prevent the jack from working properly",
+          "D. They cause tire damage during lifting"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What must be done before removing the jack after placing jack stands?",
+        "options": [
+          "A. Check tire pressure",
+          "B. Wiggle the vehicle to ensure security",
+          "C. Lower the jack completely first",
+          "D. Tighten all lug nuts"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if you get a flat tire in an area without cell service?",
+        "options": [
+          "A. Wait for help from the roadside",
+          "B. Call a friend using a satellite phone",
+          "C. Know how to change the tire yourself",
+          "D. Drive slowly to the nearest town"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "How do you lower a hydraulic jack after changing a tire?",
+        "options": [
+          "A. Turn the crank opposite direction",
+          "B. Press the release valve with the rod",
+          "C. Remove the jack stands first",
+          "D. Pump the handle upward"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What safety step follows placing jack stands under the vehicle?",
+        "options": [
+          "A. Drive the vehicle forward",
+          "B. Lock the jack stands in place",
+          "C. Remove the jack",
+          "D. Check the oil level"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does wiggling the vehicle test for?",
+        "options": [
+          "A. Engine performance",
+          "B. Proper wheel blocking and stability",
+          "C. Tire tread depth",
+          "D. Brake functionality"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How do you lower a scissor jack after changing a tire?",
+        "options": [
+          "A. Release the pressure valve",
+          "B. Turn the crank in the opposite direction",
+          "C. Pump the handle downward",
+          "D. Remove the jack stands first"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do with the old tire and jack equipment after changing a tire?",
+        "options": [
+          "A. Leave them under the car",
+          "B. Put them away",
+          "C. Throw them on the roadside",
+          "D. Store them in the trunk"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where should jack stands be placed relative to the jack?",
+        "options": [
+          "A. Under the engine block",
+          "B. Near where the jack is touching the vehicle",
+          "C. At the rear bumper",
+          "D. On the tires"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "When should you check your spare tire and related tools?",
+        "options": [
+          "Only when you have a flat tire",
+          "After you've changed a tire",
+          "Before trouble occurs if unfamiliar with your vehicle",
+          "Once a year during routine maintenance"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What tool can be used to remove a standard wheel cover or hubcap?",
+        "options": [
+          "A tire iron",
+          "A hammer",
+          "A screwdriver or lug wrench flat end",
+          "A tire pressure gauge"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "Why should you place lug nuts into the wheel cover after removal?",
+        "options": [
+          "To prevent them from getting lost or rolling away",
+          "To lubricate the threads for easier reinstallation",
+          "To test their size and fit",
+          "To check for rust or damage"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "What should you do if the wheel cover has a delicate finish?",
+        "options": [
+          "Use a power tool to remove it quickly",
+          "Consult the owner's manual for removal instructions",
+          "Apply lubricant before prying",
+          "Discard it and use a new cover"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How should you handle delicate aluminum or chrome-plated lug nuts?",
+        "options": [
+          "Use power tools with rubberized fittings",
+          "Always tighten them with a torque wrench",
+          "Avoid power tools to prevent scratching",
+          "Replace them with standard lug nuts immediately"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What must you check on the spare tire periodically?",
+        "options": [
+          "The tire pressure",
+          "The tread depth",
+          "The rim color",
+          "The valve stem"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Why should you lay the wheel cover on a rag after removal?",
+        "options": [
+          "To keep it clean for future use",
+          "To prevent damage to the delicate finish",
+          "To absorb any oil or grease",
+          "To make it easier to store in the trunk"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the analogy used for prying off a wheel cover?",
+        "options": [
+          "Opening a jar lid",
+          "Removing a bottle cap",
+          "Prying the lid off a can of paint",
+          "Taking off a shoe"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What does the text say about power tools for delicate lug nuts?",
+        "options": [
+          "They are recommended for faster removal",
+          "They can cause scratches if used",
+          "They must be used with rubberized fittings",
+          "They are the only safe option"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where can you find a list of tools needed for changing a tire?",
+        "options": [
+          "Chapter 1",
+          "Chapter 2",
+          "Chapter 3",
+          "The owner's manual"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is the primary purpose of locking nuts on vehicle wheels?",
+        "options": [
+          "A. To prevent wheel vibration during driving",
+          "B. To make wheels easier to remove in emergencies",
+          "C. To deter wheel thieves",
+          "D. To secure the wheel hub to the axle"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What tool is recommended for loosening lug nuts retightened by a garage with a power tool?",
+        "options": [
+          "A. Standard wrench",
+          "B. Tire iron",
+          "C. Cross-shaft lug wrench",
+          "D. Socket set"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you NOT do when attempting to loosen a stubborn lug nut with a standard finish?",
+        "options": [
+          "A. Use a hollow pipe over the wrench handle",
+          "B. Apply weight to the left-hand arm of the wrench",
+          "C. Use strong-arm tactics on special-finish nuts",
+          "D. Work in consecutive order"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "Why should you avoid fully removing lug nuts before jacking up the vehicle?",
+        "options": [
+          "A. To prevent losing the nuts on the road",
+          "B. To maintain wheel alignment during jacking",
+          "C. To ensure the tire remains supported",
+          "D. To avoid over-tightening when replacing"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is the correct sequence for loosening lug nuts?",
+        "options": [
+          "A. Loosen all nuts at once",
+          "B. Work in consecutive order",
+          "C. Start with the top nut only",
+          "D. Randomly loosen nuts"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do before jacking up the vehicle to change a tire?",
+        "options": [
+          "A. Fully remove all lug nuts",
+          "B. Remove the spare tire from the trunk",
+          "C. Apply lubricant to the bolts",
+          "D. Check tire pressure on the spare"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How can a hollow pipe help when loosening lug nuts?",
+        "options": [
+          "A. It replaces the need for a wrench",
+          "B. It provides additional leverage",
+          "C. It prevents rust on the nuts",
+          "D. It secures the wheel during removal"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if you encounter difficulty loosening lug nuts?",
+        "options": [
+          "A. Use a hammer to strike the nuts",
+          "B. Try loosening them now before an emergency",
+          "C. Ignore the problem and proceed",
+          "D. Use a longer wrench without testing"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What happens when pulling a flat tire off the bolts?",
+        "options": [
+          "A. The tire immediately lifts off the ground",
+          "B. It suddenly clears the bolts and requires full support",
+          "C. The bolts bend under pressure",
+          "D. The spare tire becomes unstable"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you purchase to make loosening lug nuts easier in the future?",
+        "options": [
+          "A. A tire pressure gauge",
+          "B. A cross-shaft lug wrench",
+          "C. A wheel lock key",
+          "D. A hydraulic jack"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do after placing the spare tire on the lug bolts?",
+        "options": [
+          "A. Immediately tighten the lug nuts with maximum force",
+          "B. Replace the lug nuts and tighten them by hand, giving each a jolt with the wrench",
+          "C. Use the jack to lift the vehicle off the ground",
+          "D. Replace the wheel cover immediately"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "When should you fully tighten the lug nuts?",
+        "options": [
+          "A. Before placing the spare tire on the lug bolts",
+          "B. After replacing the wheel cover",
+          "C. After the vehicle is resting on the ground",
+          "D. Before lifting the vehicle with the jack"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "How should you tighten lug nuts on alloy wheels?",
+        "options": [
+          "A. Tighten until the lug wrench won't move, then kick the wrench",
+          "B. Tighten until the lug wrench won't move, then press down with all your weight without jerking",
+          "C. Tighten until the wheel falls off",
+          "D. Tighten until the lug wrench moves easily"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if you have trouble replacing a hubcap?",
+        "options": [
+          "A. Hit it with a wrench or hammer",
+          "B. Place it against the wheel and whack it with the heel of your hand (cushioned by a rag)",
+          "C. Skip replacing it permanently",
+          "D. Use a hammer to tap it into place"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why should you replace the hubcap soon?",
+        "options": [
+          "A. To prevent the wheel from falling off",
+          "B. To keep dust and dirt out of the brakes and bearings",
+          "C. To make the car look more attractive",
+          "D. To avoid damaging the lug nuts"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where should you put the flat tire after changing the spare?",
+        "options": [
+          "A. Throw it away",
+          "B. Put it in the trunk where the spare was",
+          "C. Leave it on the side of the road",
+          "D. Give it to the next driver"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How should you handle a wheel cover with a delicate finish?",
+        "options": [
+          "A. Hit it with a wrench until secure",
+          "B. Follow the owner's manual for replacement instructions",
+          "C. Use a hammer to tap it into place",
+          "D. Skip replacing it"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the recommended method for tightening standard lug nuts if insufficiently tightened?",
+        "options": [
+          "A. Kick the lug wrench",
+          "B. Use a hollow pipe or step on the right-hand arm of the lug wrench",
+          "C. Hit the lug nuts with a hammer",
+          "D. Tighten until loose"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you avoid doing when tightening alloy wheel lug nuts?",
+        "options": [
+          "A. Pressing down on the wrench",
+          "B. Jerking or kicking the wrench",
+          "C. Using a hollow pipe",
+          "D. Stepping on the lug wrench arm"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does the hubcap primarily do for the vehicle?",
+        "options": [
+          "A. Make the car look better",
+          "B. Keep dust and dirt out of brakes and bearings",
+          "C. Prevent wheel rotation",
+          "D. Secure the spare tire"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is the recommended procedure for fixing a flat tire instead of 'outside-in' repair?",
+        "options": [
+          "Plugging the tire from the outside",
+          "Dismounting the tire, inspecting, fixing, and remounting",
+          "Using a temporary sealant only",
+          "Replacing the tire immediately"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why should patches not be used for sidewall punctures?",
+        "options": [
+          "Patches are too expensive",
+          "Patches only work on tread areas",
+          "Sidewall punctures cannot be patched",
+          "Sidewall repairs require special tools"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you do if you use a can of inflator\/sealant for a flat tire?",
+        "options": [
+          "Drive indefinitely without seeking repair",
+          "Rinse it out with gasoline immediately",
+          "Get to a service station and inform them",
+          "Use it as a permanent solution"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is a key requirement for environmentally friendly inflator\/sealant?",
+        "options": [
+          "It must be flammable",
+          "It must be rinsable with soap and water",
+          "It must be used only on tread punctures",
+          "It must be applied from the inside"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why do some service stations plug flats from the outside?",
+        "options": [
+          "It is the most durable repair method",
+          "It is faster and cheaper for the customer",
+          "It is legally required in all states",
+          "It prevents sidewall damage"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is a disadvantage of run-flat tires mentioned in the text?",
+        "options": [
+          "They require special wheels",
+          "They are cheaper than standard tires",
+          "They cannot be repaired",
+          "They are only for emergency use"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "When should you avoid using a can of inflator\/sealant?",
+        "options": [
+          "When the tire is completely deflated",
+          "When you are safe and capable of changing the tire",
+          "When the puncture is in the sidewall",
+          "When service is available within 10 minutes"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you tell a service facility if you used inflator\/sealant?",
+        "options": [
+          "To replace the tire immediately",
+          "To use the same sealant for future repairs",
+          "To remove the sealant before fixing the tire",
+          "To avoid checking for sidewall damage"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is the primary purpose of hiding a spare key in an obscure location?",
+        "options": [
+          "To make it easy for car thieves to find",
+          "To prevent it from falling off while driving",
+          "To make it difficult for thieves to access",
+          "To use it as a temporary lock"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What is the main benefit of run-flat tires?",
+        "options": [
+          "They allow driving with a flat to a service station",
+          "They are cheaper than standard tires",
+          "They require no tire pressure checks",
+          "They eliminate the need for spare tires"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "What is a downside of losing an electronic door opener?",
+        "options": [
+          "It makes the vehicle impossible to start",
+          "It requires immediate vehicle replacement",
+          "It can take days and hundreds of dollars to replace",
+          "It automatically locks the trunk"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What should you do if you lose your electronic door opener outside the vehicle?",
+        "options": [
+          "Use a straightened wire coat hanger to open the door",
+          "Call a tow truck immediately",
+          "Locate the override switch to start the vehicle",
+          "Break the window to gain entry"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "Which method is recommended for opening doors with recessed interior locks?",
+        "options": [
+          "Using a wire coat hanger",
+          "Bending a paperclip",
+          "Getting professional help",
+          "Prying with a flathead screwdriver"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What must you have to get a new key from a locksmith?",
+        "options": [
+          "The vehicle's VIN number",
+          "The key code number and personal identification",
+          "The original dealer's contact information",
+          "A photo of the lost key"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Where should you store the key code number for emergencies?",
+        "options": [
+          "On a sticky note inside the glove compartment",
+          "Written where someone at home can read it and in your wallet",
+          "Memorized without writing it down",
+          "On the vehicle's dashboard"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is a limitation of the wire coat hanger technique?",
+        "options": [
+          "It only works if the trunk is open",
+          "It requires a special tool from the dealer",
+          "It only works for old-style window ledge buttons",
+          "It damages the vehicle's paint"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What can you do if you lock yourself out while the trunk is open?",
+        "options": [
+          "Use the ignition key to start the engine",
+          "Access the rear of the car by moving the seat",
+          "Call the dealership for a new key",
+          "Use the electronic door opener"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Why might a dealer have the key code number?",
+        "options": [
+          "They always store it for every vehicle",
+          "If the vehicle was purchased new or used from them",
+          "Only for electronic keys",
+          "If the car has a digital key system"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What is true about using a locksmith if your key is lost?",
+        "options": [
+          "They can only make keys for new vehicles",
+          "They can analyze a key in good condition to find the code",
+          "They require the vehicle's manufacturer to approve the key",
+          "They always need the original key to duplicate it"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What should you do if you have an electronic door opener but lose it outside the vehicle?",
+        "options": [
+          "Try to start the ignition without it",
+          "Assume the ignition will fail to start without it",
+          "Use the hanger technique on the door button",
+          "Break the window to access the interior"
+        ],
+        "answer": "B"
+      }
+    ],
+    "short": [
+      {
+        "q": "What is the author's primary message about developing mechanical skills for car maintenance?",
+        "answer": "You don't have to be born with mechanical talent; it can be learned through basic tasks."
+      },
+      {
+        "q": "List the four pre-job questions the author recommends asking before starting any car maintenance task.",
+        "answer": "Do I really want to do this? Do I know how to do it? Does it require expensive tools? Can I handle mistakes?"
+      },
+      {
+        "q": "Why does the author emphasize safety in car maintenance tasks?",
+        "answer": "Safety pointers are essential for both experienced mechanics and beginners to avoid injury."
+      },
+      {
+        "q": "What does the excerpt state is the simplest task that can become a major hurdle?",
+        "answer": "Opening the hood, which is necessary to check oil or coolant levels."
+      },
+      {
+        "q": "What is the purpose of the glossary mentioned in Appendix A?",
+        "answer": "It defines terms set in the specified font used throughout the text."
+      },
+      {
+        "q": "What should you do before attempting a vehicle repair yourself?",
+        "answer": "Verify the job passes the test of time, cost, and safety, and ensure it's necessary and properly done."
+      },
+      {
+        "q": "What is the key tip for loosening stuck bolts according to the 'big guys'?",
+        "answer": "Use proper tools, focus strength down arms into hands, and use longer handles for more leverage."
+      },
+      {
+        "q": "Why should you avoid returning to the store for incorrect parts?",
+        "answer": "It's annoying and wastes time, as the author experienced it two out of every three times before learning proper buying tips."
+      },
+      {
+        "q": "What should you know before turning a repair over to a professional?",
+        "answer": "The job's necessity, what it entails, how to verify proper completion, and how to get satisfaction if unsatisfactory."
+      },
+      {
+        "q": "What does the excerpt say about patience when struggling with a repair?",
+        "answer": "Patience comes from confidence that you will eventually succeed."
+      },
+      {
+        "q": "What is the primary source for vehicle specifications besides the owner's manual?",
+        "answer": "Metal tags or decals located inside the hood, often in front of the radiator or inside fenders."
+      },
+      {
+        "q": "What does 'OEM' mean when referring to vehicle parts?",
+        "answer": "Original Equipment Manufacturer, meaning parts from the same brand as the vehicle's original factory."
+      },
+      {
+        "q": "Why should you keep a copy of the Specifications Record in your glove compartment?",
+        "answer": "To have it readily available when shopping for parts, as the author keeps a duplicate there for convenience."
+      },
+      {
+        "q": "Where can you find specifications for spark plugs if not in the owner's manual?",
+        "answer": "In a 'Tune-Up Specification Guide' (spec sheet) at an auto supply store."
+      },
+      {
+        "q": "What discount strategy is suggested when buying parts for DIY installation?",
+        "answer": "Ask for a discount at auto parts stores, as professional mechanics often receive them, and it can save money without labor charges."
+      },
+      {
+        "q": "Why is mechanic's solvent safer than gasoline for cleaning parts?",
+        "answer": "Mechanic's solvent works better and has been treated with a flame retardant to prevent excessive burning."
+      },
+      {
+        "q": "How should you handle long hair while working on a vehicle?",
+        "answer": "Tie back long hair to prevent it from getting caught in moving parts like a fan."
+      },
+      {
+        "q": "What is the danger of gasoline vapors?",
+        "answer": "Gasoline plus air forms an explosive vapor that can cause significant damage, such as destroying a neighborhood."
+      },
+      {
+        "q": "What must you do before running the engine to adjust something?",
+        "answer": "Turn the engine on and off yourself to avoid the risk of a helper accidentally starting it while your hands are near moving parts."
+      },
+      {
+        "q": "What should you avoid when working on a vehicle's engine?",
+        "answer": "Working on hot engine parts without checking temperature first to prevent burns."
+      },
+      {
+        "q": "What are the two main reasons gasoline is dangerous?",
+        "answer": "Gasoline is toxic and flammable, and its vapor in an empty can is explosive enough to take out a city block."
+      },
+      {
+        "q": "How should you store toxic chemicals after use?",
+        "answer": "Wash your hands thoroughly after using them, and either store them safely away from pets and children or dispose of them in a way that\u2019s safe for the environment."
+      },
+      {
+        "q": "Why is it better to fill up gasoline in the morning?",
+        "answer": "Gasoline expands with heat, so cooler fuel (in the morning) has a higher energy content per gallon. The sales meters are set for 60\u00b0F, so hotter fuel means you get less energy per gallon."
+      },
+      {
+        "q": "What is the recommended practice for working in a garage?",
+        "answer": "Keep the garage door open and move the vehicle as close to the door as possible to ensure proper ventilation and avoid breathing in carbon monoxide or toxic fumes."
+      },
+      {
+        "q": "What should you use in dark areas during auto repair?",
+        "answer": "A work light."
+      },
+      {
+        "q": "What should you do after the pump stops automatically and before replacing the fuel cap?",
+        "answer": "Remove the nozzle from the fuel tank and hang it back on the pump, then replace the fuel cap while the receipt prints if using a credit card."
+      },
+      {
+        "q": "What is the danger of not using the vapor-recovery sleeve on the nozzle?",
+        "answer": "Failing to depress the sleeve prevents fuel from flowing properly, as it must be pushed deeply into the filler tube to allow fuel to flow."
+      },
+      {
+        "q": "What is the correct action when the trigger latch is engaged?",
+        "answer": "You can step away from the pump to avoid inhaling gasoline fumes, wash windows, or check tire pressure without holding the trigger."
+      },
+      {
+        "q": "Why is it important to reset the price window before pumping?",
+        "answer": "If a previous sale is registered, the pump will not activate; resetting ensures the price window reads $0.00 to start the transaction."
+      },
+      {
+        "q": "What should you NOT do after the pump shuts off automatically?",
+        "answer": "You should never 'top off' by adding fuel after the pump shuts off, as it risks overflow, fire hazards, and environmental damage."
+      },
+      {
+        "q": "Why is the safety catch on a car hood important?",
+        "answer": "It prevents the hood from opening accidentally and obscuring the driver's vision while driving."
+      },
+      {
+        "q": "What specific cost-saving tip does the text suggest when asking for assistance to open the hood?",
+        "answer": "Ask for $5 worth of gasoline instead of a full tank, as the cost difference is negligible."
+      },
+      {
+        "q": "What does the text recommend regarding checking oil?",
+        "answer": "Check it yourself instead of having the attendant do it, as explained in a sidebar in Chapter 2."
+      },
+      {
+        "q": "What is the first step to open the hood according to the instructions?",
+        "answer": "Find the hood release and pop open the hood by pressing, pushing, or pulling it."
+      },
+      {
+        "q": "What should you do if the hood release is at the front of the vehicle?",
+        "answer": "Look around and through the grill, feel under the grill and behind the bumper to find a handle, lever, arm, or button."
+      },
+      {
+        "q": "What should you do if the hood stays up by itself after release?",
+        "answer": "Nothing; it is acceptable as is."
+      },
+      {
+        "q": "What is the danger if gas leaks from hood shocks?",
+        "answer": "The hood could come down at any moment."
+      },
+      {
+        "q": "Why must the rag be clean and lint-free during disassembly?",
+        "answer": "To prevent oil, dust, or debris from fouling the parts."
+      },
+      {
+        "q": "What advice does the text give about rushing disassembly tasks?",
+        "answer": "Never do a job in a hurry; allow plenty of time."
+      },
+      {
+        "q": "What four questions should you ask before removing a part?",
+        "answer": "What is this thing? What does it do? How does it do it? Why is it made the way it is?"
+      },
+      {
+        "q": "What is the key system principle for reassembling car parts?",
+        "answer": "Placing parts on a rag in clockwise order with directional indicators shows when and how to reassemble them."
+      },
+      {
+        "q": "What should you note about each part during removal?",
+        "answer": "Note how hard it was to remove, its attachment point, and direction, using numbers or sketches."
+      },
+      {
+        "q": "Why must parts not be over-tightened?",
+        "answer": "Over-tightening can strip bolt threads or squeeze gaskets out of shape, causing leaks."
+      },
+      {
+        "q": "How do you avoid having extra nuts\/bolts after a job?",
+        "answer": "Work systematically, understand each part's function, and number\/label parts during removal."
+      },
+      {
+        "q": "What is the main purpose of using a jack?",
+        "answer": "To lift the car safely for tasks like changing a tire or inspecting brakes."
+      },
+      {
+        "q": "Why should you never use a jack to hold a vehicle in place?",
+        "answer": "Jacks are only for lifting the vehicle off the ground and should never be used to hold it in place, as they can fail, causing serious injury or death."
+      },
+      {
+        "q": "What should you do if you lack wheel blocks during a flat tire?",
+        "answer": "Park near the curb with wheels turned in, but this is still risky and not a safe substitute for proper wheel blocks."
+      },
+      {
+        "q": "How should you handle a flat tire on an incline?",
+        "answer": "Park close to the curb, turn wheels toward the curb, block downside wheels securely, or seek assistance; changing the tire on an incline carries significant risk."
+      },
+      {
+        "q": "What is the safe procedure for a flat tire on a highway?",
+        "answer": "Do not exit the vehicle to change the tire. Use a cellphone to call road service or hang a white rag out the window if no cellphone is available."
+      },
+      {
+        "q": "Why should wheel blocks be kept in the trunk?",
+        "answer": "Keeping wheel blocks in the trunk ensures they are immediately available during an emergency tire change, avoiding the need to search for them."
+      },
+      {
+        "q": "Why is it unsafe to loosen lug nuts after jacking up the car?",
+        "answer": "After jacking, the wheel turns freely, making it hard to loosen lug nuts."
+      },
+      {
+        "q": "What is the alternative to an owner's manual for jack placement?",
+        "answer": "Ask the service department at a dealership."
+      },
+      {
+        "q": "What is the consequence of placing the jack on a bendable part?",
+        "answer": "You can injure the car."
+      },
+      {
+        "q": "When must the parking brake be disengaged?",
+        "answer": "When rotating a rear wheel or removing rear brake drums for inspection."
+      },
+      {
+        "q": "What is the recommended practice for beginners during two-wheel repairs?",
+        "answer": "Stick to jacking one wheel at a time until proficient."
+      },
+      {
+        "q": "Why should you never use boxes, stones, or bricks as substitutes for jack stands?",
+        "answer": "They can slip out or break while you're under the car, causing serious injury."
+      },
+      {
+        "q": "What is the purpose of wiggling the vehicle before removing the jack?",
+        "answer": "To ensure the vehicle is resting securely on jack stands and the wheels are properly blocked."
+      },
+      {
+        "q": "What is the safest way to secure a vehicle while changing a tire?",
+        "answer": "Use proper jack stands placed near the jack's contact point, not substitutes like boxes or stones."
+      },
+      {
+        "q": "How should you lower a hydraulic jack after changing a tire?",
+        "answer": "Use the rod to turn the pressure release valve; the jack will lower itself."
+      },
+      {
+        "q": "What is the first step in changing a tire if you can't get cell service?",
+        "answer": "Secure the vehicle so it won't roll, then jack it up following safe jack usage instructions."
+      },
+      {
+        "q": "Why is it important to check your spare tire's air pressure before trouble occurs?",
+        "answer": "The text states to check that the spare has enough air and continue checking periodically to ensure it is usable when needed."
+      },
+      {
+        "q": "What should you do with lug nuts after removing them from the wheel?",
+        "answer": "Place them into the wheel cover to prevent them from rolling away or getting lost."
+      },
+      {
+        "q": "How should you remove a wheel cover with a delicate finish?",
+        "answer": "Consult the owner's manual for instructions to avoid damage; it may pry off or unscrew without causing harm."
+      },
+      {
+        "q": "Why should you avoid power tools for delicate lug nuts?",
+        "answer": "Power tools can scratch the delicate finish or round off the nut corners, and they are impractical on the road without power."
+      },
+      {
+        "q": "What is the first step in changing a flat tire according to the excerpt?",
+        "answer": "Remove the wheel cover or hubcap on the injured tire using a screwdriver or lug wrench flat end."
+      },
+      {
+        "q": "Where should you store the special key for wheel locks?",
+        "answer": "With the vehicle."
+      },
+      {
+        "q": "Why must you not fully remove lug nuts before jacking up the vehicle?",
+        "answer": "To maintain support for the tire and avoid dropping it."
+      },
+      {
+        "q": "What should you do to prepare for an emergency tire change?",
+        "answer": "Practice removing lug nuts now to resolve any issues beforehand."
+      },
+      {
+        "q": "What is the weight handling tip when removing a flat tire?",
+        "answer": "Support the full weight of the heavy tire until it can be lowered to the ground."
+      },
+      {
+        "q": "What specific tool does the text recommend buying for future lug nut loosening?",
+        "answer": "A cross-shaft lug wrench."
+      },
+      {
+        "q": "Why is 'outside-in' tire repair prohibited in some states?",
+        "answer": "Several states outlaw this procedure because it is not a proper repair method."
+      },
+      {
+        "q": "What is the recommended emergency fix for a flat tire when stranded?",
+        "answer": "Use a can of nonflammable inflator\/sealant to temporarily seal the puncture and get to a service station."
+      },
+      {
+        "q": "How should you handle inflator\/sealant after using it for a flat tire?",
+        "answer": "Get to a service station as soon as possible and inform them to remove the sealant before repairing the tire."
+      },
+      {
+        "q": "What should you do if the hole in a flat tire is in the sidewall?",
+        "answer": "Do not use patches; ensure the tire is repaired properly by dismounting and fixing it correctly."
+      },
+      {
+        "q": "What is the purpose of run-flat tires?",
+        "answer": "They allow driving with a flat tire to the nearest service station without damaging the tire."
+      },
+      {
+        "q": "Why should you not risk hiding an extra set of keys on your car?",
+        "answer": "The text states to assume you've decided not to risk hiding an extra set of keys on your car."
+      },
+      {
+        "q": "What is the recommended DIY method for old-style door locks with buttons on the window ledge?",
+        "answer": "Straighten a wire coat hanger, bend the end into a hook, and carefully hook it around the door button."
+      },
+      {
+        "q": "What two things does a locksmith need to make a new key?",
+        "answer": "The key code number and personal identification."
+      },
+      {
+        "q": "Where should you write down the key code number for emergency access?",
+        "answer": "Where someone at home can read it and in your pocket address book or wallet."
+      },
+      {
+        "q": "What is an alternative access method if you lock yourself out with the trunk open?",
+        "answer": "Move the rear seat to gain access to the rear of the car."
+      }
+    ],
+    "true_false": [
+      {
+        "q": "The author believes mechanical skills are innate and cannot be learned.",
+        "answer": "False"
+      },
+      {
+        "q": "Knowing how to open the hood is necessary to check oil and coolant levels.",
+        "answer": "True"
+      },
+      {
+        "q": "Filling the fuel tank yourself is more expensive than full-service fueling.",
+        "answer": "False"
+      },
+      {
+        "q": "The Introduction mentions the author's automotive epiphany.",
+        "answer": "True"
+      },
+      {
+        "q": "Terms in the specified font are defined in Appendix A.",
+        "answer": "True"
+      },
+      {
+        "q": "The excerpt states that strength for loosening bolts depends primarily on size or gender.",
+        "answer": "False"
+      },
+      {
+        "q": "The author experienced needing to return to the store for incorrect parts in two out of every three jobs before learning proper buying tips.",
+        "answer": "True"
+      },
+      {
+        "q": "The excerpt recommends attempting every repair yourself regardless of cost or safety.",
+        "answer": "False"
+      },
+      {
+        "q": "Chapter 3 specifically covers how to buy specific tools.",
+        "answer": "True"
+      },
+      {
+        "q": "The 'big guys' always found it easy to loosen stuck bolts without using leverage.",
+        "answer": "False"
+      },
+      {
+        "q": "Vehicle specifications can be found on decals inside the hood near the radiator.",
+        "answer": "True"
+      },
+      {
+        "q": "Aftermarket parts are always recommended over OEM parts unless personally verified.",
+        "answer": "False"
+      },
+      {
+        "q": "The author believes that minor mistakes during car maintenance will cause explosions.",
+        "answer": "False"
+      },
+      {
+        "q": "The Specifications Record in Appendix B should be copied for each vehicle owned.",
+        "answer": "True"
+      },
+      {
+        "q": "Parts departments at dealerships can look up specifications for parts if you don't have a service manual.",
+        "answer": "True"
+      },
+      {
+        "q": "Working on a vehicle is completely free from danger.",
+        "answer": "False"
+      },
+      {
+        "q": "You can work on a vehicle with the parking brake off.",
+        "answer": "False"
+      },
+      {
+        "q": "Mechanic's solvent contains a flame retardant.",
+        "answer": "True"
+      },
+      {
+        "q": "It is safe to store gasoline in a regular can for long periods.",
+        "answer": "False"
+      },
+      {
+        "q": "You should push wrenches when loosening stuck parts.",
+        "answer": "False"
+      },
+      {
+        "q": "You should store gasoline in any container.",
+        "answer": "False"
+      },
+      {
+        "q": "The vapor in an empty gasoline can is not explosive.",
+        "answer": "False"
+      },
+      {
+        "q": "It is safe to carry a gasoline can in your vehicle for short trips.",
+        "answer": "False"
+      },
+      {
+        "q": "You should work in a closed garage without ventilation when running the engine.",
+        "answer": "False"
+      },
+      {
+        "q": "Filling up gasoline in the morning is recommended because gas stations are less crowded.",
+        "answer": "False"
+      },
+      {
+        "q": "You must insert your credit card before selecting the grade of gasoline.",
+        "answer": "True"
+      },
+      {
+        "q": "Topping off a tank saves money by filling it completely.",
+        "answer": "False"
+      },
+      {
+        "q": "Gas pumps automatically shut off when the tank is almost full.",
+        "answer": "True"
+      },
+      {
+        "q": "Hot weather causes fuel to contract, reducing overflow risk.",
+        "answer": "False"
+      },
+      {
+        "q": "The trigger latch requires you to hold the trigger continuously while pumping.",
+        "answer": "False"
+      },
+      {
+        "q": "The hood release location is identical for all vehicle models.",
+        "answer": "False"
+      },
+      {
+        "q": "The safety catch prevents the hood from opening accidentally while driving.",
+        "answer": "True"
+      },
+      {
+        "q": "The cost difference for $5 versus a full tank of gas is significant.",
+        "answer": "False"
+      },
+      {
+        "q": "The text advises letting a gas station attendant check your oil for you.",
+        "answer": "False"
+      },
+      {
+        "q": "After popping the hood, you can immediately lift it all the way open without the safety catch.",
+        "answer": "False"
+      },
+      {
+        "q": "If the hood stays up all by itself, no further action is needed.",
+        "answer": "True"
+      },
+      {
+        "q": "A hood prop is always a long, thin metal rod.",
+        "answer": "True"
+      },
+      {
+        "q": "Gas-pressurized hood shocks require immediate replacement if leaking.",
+        "answer": "True"
+      },
+      {
+        "q": "The rag used for disassembly should be placed in an area where oil can fall on it.",
+        "answer": "False"
+      },
+      {
+        "q": "The text states that you can skip asking 'Why is it made the way it is?' before disassembly.",
+        "answer": "False"
+      },
+      {
+        "q": "Parts should be laid on the rag in counterclockwise order during removal.",
+        "answer": "False"
+      },
+      {
+        "q": "Reassembly should begin with the last part removed.",
+        "answer": "True"
+      },
+      {
+        "q": "This book covers exact torque specifications for parts.",
+        "answer": "False"
+      },
+      {
+        "q": "Numbering parts with masking tape is recommended if a rag might move.",
+        "answer": "True"
+      },
+      {
+        "q": "Jack stands are essential when jacking a car.",
+        "answer": "True"
+      },
+      {
+        "q": "Jacks can be safely used to hold a vehicle in place while working under it.",
+        "answer": "False"
+      },
+      {
+        "q": "Using jack stands is optional when working under a vehicle.",
+        "answer": "False"
+      },
+      {
+        "q": "Changing a tire on a highway is safe and recommended.",
+        "answer": "False"
+      },
+      {
+        "q": "Wheel blocks should be made of bricks, wooden wedges, or metal chocks.",
+        "answer": "True"
+      },
+      {
+        "q": "If you have no cellphone, you should change the tire on the side of the road.",
+        "answer": "False"
+      },
+      {
+        "q": "Working under a car without secure jacking and blocking is safe.",
+        "answer": "False"
+      },
+      {
+        "q": "The parking brake should be engaged when inspecting brakes by removing rear brake drums.",
+        "answer": "False"
+      },
+      {
+        "q": "It is acceptable to place the jack on parts that can bend.",
+        "answer": "False"
+      },
+      {
+        "q": "After jacking, the wheel turns freely, making lug nuts easier to loosen.",
+        "answer": "False"
+      },
+      {
+        "q": "For two-wheel repairs, you can immediately place the jack near the rear axle without practice.",
+        "answer": "False"
+      },
+      {
+        "q": "Using a scissor jack requires turning the crank in the opposite direction to lower the vehicle.",
+        "answer": "True"
+      },
+      {
+        "q": "It is safe to use bricks as temporary jack stands when changing a tire.",
+        "answer": "False"
+      },
+      {
+        "q": "Wiggling the vehicle checks if the wheels are properly blocked.",
+        "answer": "True"
+      },
+      {
+        "q": "The textbook recommends calling for help before attempting to change a tire roadside.",
+        "answer": "True"
+      },
+      {
+        "q": "Jack stands should be placed far from where the jack touched the vehicle.",
+        "answer": "False"
+      },
+      {
+        "q": "You should check your spare tire's location only after experiencing a flat tire.",
+        "answer": "False"
+      },
+      {
+        "q": "The text recommends checking the spare tire's air pressure periodically.",
+        "answer": "True"
+      },
+      {
+        "q": "Power tools with rubberized fittings are practical for removing delicate lug nuts on the road.",
+        "answer": "False"
+      },
+      {
+        "q": "Lug nuts with delicate finishes can be safely loosened with power tools.",
+        "answer": "False"
+      },
+      {
+        "q": "The excerpt states to lay the wheel cover on its back to keep lug nuts from rolling away.",
+        "answer": "True"
+      },
+      {
+        "q": "Wheel locks require a special key provided with the car to unlock them.",
+        "answer": "True"
+      },
+      {
+        "q": "Garages typically retighten lug nuts with a power tool, making them difficult to loosen by hand.",
+        "answer": "True"
+      },
+      {
+        "q": "A hollow pipe can be safely used on lug nuts with special finishes to loosen them.",
+        "answer": "False"
+      },
+      {
+        "q": "You should fully remove lug nuts before jacking up the vehicle.",
+        "answer": "False"
+      },
+      {
+        "q": "When loosening lug nuts, you must work in consecutive order to avoid missing any.",
+        "answer": "True"
+      },
+      "False",
+      "False",
+      "False",
+      "False",
+      "False",
+      {
+        "q": "Patches can be safely used for sidewall punctures.",
+        "answer": "False"
+      },
+      {
+        "q": "Inflator\/sealant should be used as a permanent tire repair solution.",
+        "answer": "False"
+      },
+      {
+        "q": "Run-flat tires are less expensive than standard tires.",
+        "answer": "False"
+      },
+      {
+        "q": "Service stations are allowed to plug flats from the outside in all states.",
+        "answer": "False"
+      },
+      {
+        "q": "It is safe to drive indefinitely with a flat tire repaired using inflator\/sealant.",
+        "answer": "False"
+      },
+      {
+        "q": "Electronic door openers prevent you from locking the doors with keys inside the vehicle.",
+        "answer": "True"
+      },
+      {
+        "q": "The wire coat hanger technique works for all types of door locks.",
+        "answer": "False"
+      },
+      {
+        "q": "Dealers always have the key code number on file for every vehicle they sold.",
+        "answer": "False"
+      },
+      {
+        "q": "A locksmith can make a new key using only the key code number.",
+        "answer": "False"
+      },
+      {
+        "q": "Some vehicles have an override switch to start the ignition without the electronic door opener.",
+        "answer": "True"
+      }
+    ]
+  }
+}
