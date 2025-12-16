@@ -54,6 +54,42 @@ def chunk_text(text, chunk_size=CHUNK_SIZE, overlap=CHUNK_OVERLAP):
             break
     return chunks
 
+def extract_pages(doc, start_page, end_page_inclusive):
+    pages = []
+    for p in range(start_page - 1, end_page_inclusive):
+        text = doc[p].get_text("text").strip()
+        pages.append({
+            "page": p + 1,
+            "text": text
+        })
+    return pages
+
+def chunk_pages(pages, max_chars=CHUNK_SIZE):
+    chunks = []
+    current_text = ""
+    current_pages = set()
+
+    for page in pages:
+        page_block = f"\n[PAGE {page['page']}]\n{page['text']}\n"
+        if len(current_text) + len(page_block) > max_chars:
+            chunks.append({
+                "text": current_text.strip(),
+                "pages": sorted(current_pages)
+            })
+            current_text = ""
+            current_pages = set()
+
+        current_text += page_block
+        current_pages.add(page["page"])
+
+    if current_text.strip():
+        chunks.append({
+            "text": current_text.strip(),
+            "pages": sorted(current_pages)
+        })
+
+    return chunks
+
 def main(pdf_path, out_dir):
     os.makedirs(out_dir, exist_ok=True)
     doc = fitz.open(pdf_path)
@@ -70,12 +106,9 @@ def main(pdf_path, out_dir):
     chapter_texts = {}
     for i, (title, start_page) in enumerate(chapters):
         end_page = chapters[i+1][1]-1 if i+1 < len(chapters) else len(doc)
-        text = extract_page_text(doc, start_page, end_page)
-        # basic cleaning
-        text = re.sub(r"\s+\n", "\n", text)
-        text = re.sub(r"\n{3,}", "\n\n", text)
+        pages = extract_pages(doc, start_page, end_page)
+        chunks = chunk_pages(pages)
         title_safe = re.sub(r"[^\w\-_ ]", "", title).strip().replace(" ", "_")[:80]
-        chunks = chunk_text(text)
         chapter_texts[title_safe] = {
             "title": title,
             "start_page": start_page,

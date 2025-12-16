@@ -41,26 +41,24 @@ def call_llm(prompt, max_tokens=800, temperature=0.2):
     # Fallback for different servers
     return json.dumps(data)
 
-def build_prompt_for_chunk(chunk_text, chapter_title, want_mcq=10, want_short=5, want_tf=5):
-    # Use a concise, deterministic prompt template
+def build_question_prompt(chunk_text, chapter_title, want_mcq=5, want_short=3, want_tf=3):
     return f"""
-You are a precise exam generator. Use ONLY the following excerpt from a chapter of a textbook.
+You are a precise exam generator.
+
+Use ONLY the following excerpt from a textbook chapter.
 Chapter title: {chapter_title}
 
 EXCERPT:
-\"\"\"{chunk_text[:6000]}\"\"\"\
+\"\"\"{chunk_text}\"\"\"
 
-Deliver:
-1) {want_mcq} multiple-choice questions with 4 options each. Mark the correct answer with [ANSWER: X] on the same line.
-2) {want_short} short-answer questions (1-3 sentence answer). Provide the answer.
-3) {want_tf} true/false questions. Provide the answer as "True" or "False".
+Generate questions ONLY. Do NOT answer them.
 
-Output format: JSON with keys:
-"mcq": [ {{ "q": "...", "options": ["A...", "B...", "C...", "D..."], "answer": "B" }} ],
-"short": [ {{ "q":"", "answer":"" }} ],
-"true_false": [ {{ "q":"", "answer":"True" }} ]
-
-Be concise and do not add extra commentary.
+Output JSON:
+{{
+  "mcq": [ {{ "q": "...", "options": ["A","B","C","D"] }} ],
+  "short": [ {{ "q": "..." }} ],
+  "true_false": [ {{ "q": "..." }} ]
+}}
 """
 
 def merge_chunk_results(chunk_jsons):
@@ -152,7 +150,8 @@ def generate_for_chapter(chap_key, chap, use_index=None, index_lookup=None):
     all_chunk_results = []
 
     for chunk in tqdm(chap["chunks"], desc=f"Generating for {chap_key}", leave=False):
-        prompt = build_prompt_for_chunk(chunk, chap["title"])
+        prompt = build_question_prompt(chunk["text"], chap["title"])
+
         text = call_llm(prompt)
 
         # NEW: Robust JSON decoder
@@ -178,6 +177,42 @@ def generate_for_chapter(chap_key, chap, use_index=None, index_lookup=None):
         time.sleep(0.20)
 
     return merge_chunk_results(all_chunk_results)
+
+def generate_answers_for_chunk(chunk, questions, chapter_title):
+    prompt = build_answer_prompt(chunk["text"], questions, chapter_title)
+    text = call_llm(prompt)
+
+    try:
+        parsed = extract_json(text)
+        return parsed.get("answers", [])
+    except Exception:
+        return []
+
+def build_answer_prompt(chunk_text, questions, chapter_title):
+    return f"""
+You are generating an answer key.
+
+Use ONLY the excerpt below. Page markers appear as [PAGE X].
+You MUST cite the page number(s) where each answer is found.
+If the answer is not explicitly stated, say "Not explicitly stated" and return an empty page list.
+
+EXCERPT:
+\"\"\"{chunk_text}\"\"\"
+
+QUESTIONS:
+{json.dumps(questions, indent=2)}
+
+Return JSON:
+{{
+  "answers": [
+    {{
+      "question": "...",
+      "answer": "...",
+      "pages": [12]
+    }}
+  ]
+}}
+"""
 
 def save_chapter_quiz(out_dir, chap_key, chap, quiz):
     os.makedirs(out_dir, exist_ok=True)
@@ -219,14 +254,94 @@ def save_chapter_quiz(out_dir, chap_key, chap, quiz):
 
     print("Saved", out_json, md_path)
 
+def normalize_answer_item(a):
+    """
+    Ensure answer item is always a dict with question, answer, pages.
+    """
+    if isinstance(a, dict):
+        return {
+            "question": a.get("question", ""),
+            "answer": a.get("answer", ""),
+            "pages": a.get("pages", []) if isinstance(a.get("pages", []), list) else []
+        }
+
+    # If LLM returned a raw string
+    return {
+        "question": "",
+        "answer": str(a),
+        "pages": []
+    }
+
+
+def save_answer_key(out_dir, chap_key, chap, answers):
+    out_json = os.path.join(out_dir, f"{chap_key}_answers.json")
+    with open(out_json, "w", encoding="utf-8") as f:
+        ujson.dump(
+            {
+                "chapter_key": chap_key,
+                "title": chap["title"],
+                "answers": answers
+            },
+            f,
+            indent=2
+        )
+
+    md = [f"# Answer Key — {chap['title']}\n"]
+    for i, raw in enumerate(answers, 1):
+        a = normalize_answer_item(raw)
+        
+        # TEMP debug
+        if not isinstance(a, dict):
+            print("[WARN] Non-dict answer item:", type(a), a[:120] if isinstance(a, str) else a)
+    
+        pages = ", ".join(str(p) for p in a["pages"]) or "N/A"
+        md.append(f"**{i}. {a['question']}**")
+        md.append(f"Answer: {a['answer']}")
+        md.append(f"Pages: {pages}\n")
+
+    md_path = os.path.join(out_dir, f"{chap_key}_answers.md")
+    with open(md_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(md))
+
+    print("Saved", out_json, md_path)
+
 def main(args):
+    
+    def extract_all_questions(quiz):
+        questions = []
+        for mc in quiz.get("mcq", []):
+            questions.append(mc.get("q", ""))
+        for sa in quiz.get("short", []):
+            questions.append(sa.get("q", ""))
+        for tf in quiz.get("true_false", []):
+            questions.append(tf.get("q", ""))
+        return [q for q in questions if q]
+
     with open(args.chapters_json, "r", encoding="utf-8") as f:
         chapters = json.load(f)
 
     for chap_key, chap in chapters.items():
         print("Processing chapter:", chap_key)
+
+        # Step B — questions (already implemented)
         quiz = generate_for_chapter(chap_key, chap)
+        questions = extract_all_questions(quiz)
+
+        # Step D — answers + citations (NEW)
+        answer_key = []
+        for chunk in chap["chunks"]:
+            answers = generate_answers_for_chunk(
+                chunk=chunk,
+                questions=questions,
+                chapter_title=chap["title"]
+            )
+            answer_key.extend(answers)
+
+        # Step C — save quiz
         save_chapter_quiz(args.out_dir, chap_key, chap, quiz)
+
+        # Step E — save answer key
+        save_answer_key(args.out_dir, chap_key, chap, answer_key)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
