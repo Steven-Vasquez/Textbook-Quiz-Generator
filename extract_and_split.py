@@ -104,17 +104,25 @@ def main(pdf_path, out_dir):
     # sort by page
     chapters = sorted(chapters, key=lambda x: x[1])
     chapter_texts = {}
-    for i, (title, start_page) in enumerate(chapters):
-        end_page = chapters[i+1][1]-1 if i+1 < len(chapters) else len(doc)
+    for chap_index, (title, start_page) in enumerate(chapters, start=1):
+        end_page = chapters[chap_index][1] - 1 if chap_index < len(chapters) else len(doc)
         pages = extract_pages(doc, start_page, end_page)
         chunks = chunk_pages(pages)
+
+        chapter_id = f"ch{chap_index:02d}"
+
+        # attach chunk IDs
+        for chunk_index, chunk in enumerate(chunks):
+            chunk["chunk_id"] = f"{chapter_id}_chunk_{(chunk_index+1):03d}"
+
         title_safe = re.sub(r"[^\w\-_ ]", "", title).strip().replace(" ", "_")[:80]
         chapter_texts[title_safe] = {
+            "chapter_id": chapter_id,
             "title": title,
             "start_page": start_page,
             "end_page": end_page,
             "chunks": chunks
-        }
+            }
 
     # save a JSON
     out_path = os.path.join(out_dir, "chapters_chunked.json")

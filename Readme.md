@@ -6,6 +6,8 @@
 
 3. python generate_questions.py out/chapters_chunked.json quizzes/
 
+4. python generate_answer_key.py out/chapters_chunked.json answer_keys/
+
 
            ┌─────────────────────┐
            │   PDF Textbook      │
