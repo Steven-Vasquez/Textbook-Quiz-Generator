@@ -11,8 +11,29 @@ from tqdm import tqdm
 import argparse
 import ujson
 import requests
+import random
 
 load_dotenv()
+
+def shuffle_mcq_options(quiz, seed_prefix="mcq"):
+    """
+    Deterministically shuffle MCQ options per question to avoid positional bias.
+    The shuffle is stable across runs for the same question text.
+    """
+    for q in quiz.get("mcq", []):
+        options = q.get("options", [])
+        if len(options) <= 1:
+            continue
+
+        # Build a stable seed from question text
+        seed = f"{seed_prefix}:{q.get('q','')}"
+        rng = random.Random(seed)
+        rng.shuffle(options)
+
+        q["options"] = options
+
+    return quiz
+
 
 # LLM call
 def call_llm(prompt, max_tokens=800, temperature=0.2):
@@ -35,15 +56,32 @@ def build_question_prompt(chunk_text, chapter_title, want_mcq=5, want_short=3, w
     return f"""
 You are a precise exam generator.
 
-Use ONLY the following excerpt from a textbook chapter.
+You are creating questions for a student who has studied the material,
+but DOES NOT see the excerpt below during the exam.
+
+IMPORTANT RULES:
+- Questions must stand alone.
+- DO NOT mention:
+  - "the excerpt"
+  - "the passage"
+  - "the text"
+  - "the author"
+  - "according to the chapter"
+  - "as stated above"
+- DO NOT refer to how the information was presented.
+- Ask directly about facts, concepts, or principles.
+
+Use the excerpt ONLY as your knowledge source.
+
 Chapter title: {chapter_title}
 
-EXCERPT:
+SOURCE MATERIAL (DO NOT REFER TO THIS IN QUESTIONS):
 \"\"\"{chunk_text}\"\"\"
+
 
 Generate questions ONLY. Do NOT answer them.
 
-Output JSON:
+Output JSON ONLY:
 {{
   "mcq": [ {{ "q": "...", "options": ["A","B","C","D"] }} ],
   "short": [ {{ "q": "..." }} ],
@@ -59,6 +97,19 @@ def extract_json(text):
         except Exception:
             continue
     raise ValueError("No valid JSON object found.")
+
+def strip_option_labels(quiz):
+    """
+    Remove any leading A., A), B., etc. from MCQ options.
+    """
+    for q in quiz.get("mcq", []):
+        new_opts = []
+        for opt in q.get("options", []):
+            # Remove leading A., A), B., etc.
+            cleaned = re.sub(r"^[A-D][\.\)]\s*", "", opt.strip())
+            new_opts.append(cleaned)
+        q["options"] = new_opts
+    return quiz
 
 def normalize_quiz_dict(d):
     fixed = {"mcq": [], "short": [], "true_false": []}
@@ -94,6 +145,10 @@ def generate_for_chapter(chap_key, chap):
             for q in parsed.get(qtype, []):
                 q["chunk_id"] = chunk_id
 
+        # --- NEW: set True/False options explicitly ---
+        for q in parsed.get("true_false", []):
+            q["options"] = ["True", "False"]
+
         all_chunk_results.append(parsed)
         time.sleep(0.2)
 
@@ -103,7 +158,11 @@ def generate_for_chapter(chap_key, chap):
         for k in merged.keys():
             merged[k].extend(res.get(k, []))
 
+    merged = strip_option_labels(merged)
+    merged = shuffle_mcq_options(merged)
+
     return merged
+
 
 
 def assign_question_ids(quiz, chapter_id):

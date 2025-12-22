@@ -14,10 +14,32 @@ import requests
 
 load_dotenv()
 
+
+# -----------------------------
+# Helper functions
+# -----------------------------
+def is_invalid_answer(ans):
+    if not ans or not isinstance(ans, dict):
+        return True
+
+    answer_text = ans.get("answer", "").strip().lower()
+    confidence = ans.get("confidence", None)
+    pages = str(ans.get("pages", "")).strip().lower()
+
+    return (
+        not answer_text
+        or answer_text in {"not explicitly stated", "..."}
+        or confidence == 0
+        or confidence == 0.0
+        or pages in {"n/a", "na", ""}
+    )
+
+
+
 # -----------------------------
 # LLM call
 # -----------------------------
-def call_llm(prompt, max_tokens=600, temperature=0.0):
+def call_llm(prompt, max_tokens=600, temperature=0.2):
     model = os.getenv("LLM_MODEL")
     url = "http://10.1.3.19:11434/api/generate"
     payload = {
@@ -52,8 +74,14 @@ def generate_answer_for_question(chunk, question):
     mcq_instruction = ""
     if is_mcq:
         mcq_instruction = """
+MCQ RULES:
 - Choose EXACTLY ONE of the provided options.
-- Answer must MATCH the option text exactly.
+- The chosen option MUST be semantically equivalent to the meaning of the justification quote(s).
+- If none of the options match the meaning of the quote(s) EXACTLY:
+  - answer = "Not explicitly stated"
+  - pages = []
+  - justification = []
+  - confidence = 0.0
 """
 
     prompt = f"""
@@ -62,9 +90,25 @@ You are generating an answer key.
 Use ONLY the excerpt below.
 Page markers appear as [PAGE X].
 
-Rules:
-- Cite the page number(s) where the answer is found.
-- If not explicitly stated, answer "Not explicitly stated" and return empty pages.
+CRITICAL VALIDATION RULES:
+- The answer MUST be directly supported by the justification quote(s).
+- The justification quote(s) MUST logically imply the answer.
+- If the quote(s) contradict the answer, you MUST:
+  - answer = "Not explicitly stated"
+  - pages = []
+  - justification = []
+  - confidence = 0.0
+
+Before answering:
+- Determine what the excerpt actually states.
+- Ensure the answer matches that meaning exactly.
+
+Confidence scoring:
+- 1.0 = explicitly stated verbatim
+- 0.7 = clearly implied
+- 0.3 = weak or indirect support
+- 0.0 = not stated or contradictory
+
 {mcq_instruction}
 
 Question ID: {question['id']}
@@ -74,12 +118,15 @@ Options: {question.get('options', [])}
 EXCERPT:
 \"\"\"{chunk['text']}\"\"\"
 
+
 Return JSON ONLY:
 {{
   "id": "{question['id']}",
   "question": "{question['q']}",
   "answer": "...",
-  "pages": []
+  "pages": [],
+  "confidence": 0.0,
+  "justification": []
 }}
 """
 
@@ -88,15 +135,77 @@ Return JSON ONLY:
         return {
             "id": parsed.get("id", question["id"]),
             "question": parsed.get("question", question["q"]),
+            "options": question.get("options"),  # ← PRESERVE EXACT OPTIONS
             "answer": parsed.get("answer", "Not explicitly stated"),
-            "pages": parsed.get("pages", [])
+            "pages": parsed.get("pages", []),
+            "confidence": float(parsed.get("confidence", 0.0)),
+            "justification": parsed.get("justification", [])
         }
     except Exception:
         return {
             "id": question["id"],
             "question": question["q"],
+            "options": question.get("options"),
             "answer": "Not explicitly stated",
-            "pages": []
+            "pages": [],
+            "confidence": 0.0,
+            "justification": []
+        }
+
+def generate_answer_retry(chunk, question):
+    """
+    Second-pass retry with stricter instructions.
+    """
+    prompt = f"""
+You previously failed to find an answer.
+
+Retry ONLY if the excerpt clearly supports an answer.
+If the answer is not directly supported, return "Not explicitly stated".
+
+STRICT RULES:
+- Do NOT guess.
+- Do NOT paraphrase beyond what the text supports.
+- If support is indirect or ambiguous, return "Not explicitly stated".
+
+Question ID: {question['id']}
+Question: {question['q']}
+Options: {question.get('options', [])}
+
+EXCERPT:
+\"\"\"{chunk['text']}\"\"\"
+
+
+Return JSON ONLY:
+{{
+  "id": "{question['id']}",
+  "question": "{question['q']}",
+  "answer": "...",
+  "pages": [],
+  "confidence": 0.0,
+  "justification": []
+}}
+"""
+
+    try:
+        parsed = extract_json(call_llm(prompt))
+        return {
+            "id": parsed.get("id", question["id"]),
+            "question": parsed.get("question", question["q"]),
+            "options": question.get("options"),
+            "answer": parsed.get("answer", "Not explicitly stated"),
+            "pages": parsed.get("pages", []),
+            "confidence": float(parsed.get("confidence", 0.0)),
+            "justification": parsed.get("justification", [])
+        }
+    except Exception:
+        return {
+            "id": question["id"],
+            "question": question["q"],
+            "options": question.get("options"),
+            "answer": "Not explicitly stated",
+            "pages": [],
+            "confidence": 0.0,
+            "justification": []
         }
 
 
@@ -124,7 +233,17 @@ def save_answer_key(out_dir, chap_key, chap, answers):
         pages = ", ".join(str(p) for p in a.get("pages", [])) or "N/A"
         md.append(f"**({a['id']}) {a['question']}**")
         md.append(f"Answer: {a['answer']}")
-        md.append(f"Pages: {pages}\n")
+        md.append(f"Pages: {pages}")
+        md.append(f"Confidence: {a.get('confidence', 0.0):.2f}")
+
+        if a.get("justification"):
+            md.append("Justification:")
+            for j in a["justification"]:
+                md.append(f"> {j}")
+        else:
+            md.append("Justification: N/A")
+
+        md.append("")
 
     md_path = os.path.join(out_dir, f"{chap_key}_answers.md")
     with open(md_path, "w", encoding="utf-8") as f:
@@ -161,7 +280,15 @@ def main(args):
                 continue
 
             ans = generate_answer_for_question(chunk, q)
-            answers.append(ans)
+
+            # Retry once if answer is missing or explicitly not stated
+            if is_invalid_answer(ans):
+                ans = generate_answer_retry(chunk, q)
+
+            # Only keep questions with a valid answer
+            if not is_invalid_answer(ans):
+                answers.append(ans)
+
             time.sleep(0.1)
 
         save_answer_key(args.out_dir, chap_key, chap, answers)
