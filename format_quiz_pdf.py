@@ -347,12 +347,25 @@ def create_sample_tests(data, out_dir, n_samples=4, num_each=10):
             "answers": sample_qs
         }
 
+        chapter_id = data.get("chapter_id")
         # Student version
-        student_pdf = os.path.join(out_dir, f"sample_test_{s}.pdf")
+        student_dir = os.path.join(out_dir, "quizzes")
+        os.makedirs(student_dir, exist_ok=True)
+
+        student_pdf = os.path.join(
+            student_dir,
+            f"{chapter_id}_sample_test_{s}.pdf"
+        )
         create_student_pdf(sample_data, student_pdf)
 
         # Instructor / answer key version
-        answer_key_pdf = os.path.join(out_dir, f"sample_test_{s}_answer_key.pdf")
+        answer_key_dir = os.path.join(out_dir, "ans_keys")
+        os.makedirs(answer_key_dir, exist_ok=True)
+
+        answer_key_pdf = os.path.join(
+            answer_key_dir,
+            f"{chapter_id}_sample_test_{s}_answer_key.pdf"
+        )
         create_instructor_pdf(sample_data, answer_key_pdf)
 
 
@@ -361,22 +374,49 @@ def create_sample_tests(data, out_dir, n_samples=4, num_each=10):
 # -----------------------------
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("answer_key_json")
-    parser.add_argument("out_dir")
+    parser.add_argument("answer_key_dir", help="Directory containing answer key JSON files")
+    parser.add_argument("out_dir", help="Base output directory")
     args = parser.parse_args()
 
-    with open(args.answer_key_json, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    # Loop over all JSON files in the input directory
+    for fname in sorted(os.listdir(args.answer_key_dir)):
+        if not fname.lower().endswith(".json"):
+            continue
 
-    os.makedirs(args.out_dir, exist_ok=True)
-    base = data.get("chapter_key", "quiz")
+        answer_key_path = os.path.join(args.answer_key_dir, fname)
 
-    student_pdf = os.path.join(args.out_dir, f"{base}_quiz_student.pdf")
-    instructor_pdf = os.path.join(args.out_dir, f"{base}_quiz_instructor.pdf")
+        with open(answer_key_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
 
-    create_student_pdf(data, student_pdf)
-    create_instructor_pdf(data, instructor_pdf)
-    create_sample_tests(data, args.out_dir, n_samples=4, num_each=10)
+        chapter_id = data.get("chapter_id")
+        if not chapter_id:
+            print(f"Skipping {fname}: no chapter_id found")
+            continue
+
+        # Create chapter-specific output directory
+        chapter_out_dir = os.path.join(args.out_dir, chapter_id)
+        os.makedirs(chapter_out_dir, exist_ok=True)
+
+        print(f"\nProcessing chapter {chapter_id}")
+
+        # Output filenames (include chapter_id explicitly)
+        student_pdf = os.path.join(
+            chapter_out_dir, f"{chapter_id}_quiz_student.pdf"
+        )
+        instructor_pdf = os.path.join(
+            chapter_out_dir, f"{chapter_id}_quiz_instructor.pdf"
+        )
+
+        create_student_pdf(data, student_pdf)
+        create_instructor_pdf(data, instructor_pdf)
+
+        # Sample tests (also chapter-scoped)
+        create_sample_tests(
+            data,
+            chapter_out_dir,
+            n_samples=4,
+            num_each=10
+        )
 
 
 if __name__ == "__main__":
