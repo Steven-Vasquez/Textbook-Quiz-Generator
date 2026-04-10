@@ -1,0 +1,2927 @@
+{
+  "chapter_key": "Chapter_5_The_Electrical_System_Your_Cars_Spark_of_Life",
+  "chapter_id": "ch05",
+  "title": "Chapter 5 The Electrical System: Your Car\u2019s Spark of Life",
+  "answers": [
+    {
+      "id": "ch05_mcq_001",
+      "question": "What is the primary function of the engine control unit (ECU)?",
+      "options": [
+        "To solely manage the vehicle's fuel supply",
+        "To monitor and control various engine functions",
+        "To directly manage mechanical engine components",
+        "To power the vehicle's headlights"
+      ],
+      "answer": "To monitor and control various engine functions",
+      "pages": [
+        106
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It uses a variety of sensors to monitor and control most of the engine functions of the car, including the electrical, fuel, and emissions control systems."
+      ]
+    },
+    {
+      "id": "ch05_mcq_002",
+      "question": "Which of the following systems does the ECU typically manage?",
+      "options": [
+        "Electrical, fuel, and emissions control systems",
+        "Braking, suspension, and steering systems",
+        "Transmission, differential, and axles",
+        "Body, interior, and infotainment systems"
+      ],
+      "answer": "Electrical, fuel, and emissions control systems",
+      "pages": [
+        106
+      ],
+      "confidence": 3.0,
+      "justification": "The engine control unit (ECU) uses a variety of sensors to monitor and control most of the engine functions of the car, including the electrical, fuel, and emissions control systems."
+    },
+    {
+      "id": "ch05_mcq_003",
+      "question": "According to the text, what action does the ECU take in fuel-injected engines?",
+      "options": [
+        "Controls valve timing",
+        "Fires the fuel injectors",
+        "Manages the cooling fan",
+        "Fires the spark plugs"
+      ],
+      "answer": "Fires the fuel injectors",
+      "pages": [
+        106
+      ],
+      "confidence": 4.0,
+      "justification": "Among other tasks, the ECU fires the fuel injectors on fuel-injected engines, fires the spark plugs, and controls valve timing, emissions controls, the fuel\/air mixture, and even the cooling fan."
+    },
+    {
+      "id": "ch05_mcq_004",
+      "question": "What is a characteristic of the ECU concerning malfunctions?",
+      "options": [
+        "It primarily manages the vehicle's exterior lighting.",
+        "It frequently malfunctions and requires replacement.",
+        "It rarely malfunctions.",
+        "It is a common cause of vehicle diagnostics."
+      ],
+      "answer": "It rarely malfunctions.",
+      "pages": [
+        106
+      ],
+      "confidence": 3.0,
+      "justification": "The ECU itself rarely malfunctions..."
+    },
+    {
+      "id": "ch05_mcq_005",
+      "question": "What is the primary function of the starting system?",
+      "options": [
+        "To regulate power flow to the battery.",
+        "To generate electrical power for vehicle systems.",
+        "To ignite the fuel-air mixture.",
+        "To provide initial power for engine startup."
+      ],
+      "answer": "To provide initial power for engine startup.",
+      "pages": [
+        107
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The starting system, unsurprisingly, provides the initial power to get your engine started."
+      ]
+    },
+    {
+      "id": "ch05_mcq_006",
+      "question": "What is the role of spark plugs in the vehicle\u2019s operation?",
+      "options": [
+        "To store excess electrical current.",
+        "To initiate the combustion of fuel and air.",
+        "To power the vehicle\u2019s headlights and horn.",
+        "To control the battery\u2019s charge level."
+      ],
+      "answer": "To initiate the combustion of fuel and air.",
+      "pages": [
+        107
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ignition system fires the spark plugs so they can cause the fuel and air to \u201ccombust\u201d and drive your engine."
+      ]
+    },
+    {
+      "id": "ch05_mcq_007",
+      "question": "What is the main purpose of the charging system?",
+      "options": [
+        "To generate electrical power and regulate battery charge.",
+        "To ignite the fuel-air mixture.",
+        "To provide the initial power to start the engine.",
+        "To store excess electrical current."
+      ],
+      "answer": "To generate electrical power and regulate battery charge.",
+      "pages": [
+        107
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The charging system generates electrical power for the various systems in your vehicle that depend on electric current, and it regulates the power flowing to the battery to keep it from running down."
+      ]
+    },
+    {
+      "id": "ch05_mcq_008",
+      "question": "What is the purpose of fuses within a vehicle\u2019s electrical system?",
+      "options": [
+        "To regulate the engine\u2019s combustion.",
+        "To protect electrical circuits from overloads.",
+        "To store excess electrical current.",
+        "To generate electrical power."
+      ],
+      "answer": "To protect electrical circuits from overloads.",
+      "pages": [
+        107
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Various circuits run a mixed bag of electrical gadgets, like your vehicle\u2019s horn, headlights, and so on, most of which are protected by fuses."
+      ]
+    },
+    {
+      "id": "ch05_mcq_009",
+      "question": "Which component is primarily responsible for storing electrical current for later use?",
+      "options": [
+        "The alternator",
+        "The starter solenoid",
+        "The battery",
+        "The spark plugs"
+      ],
+      "answer": "The battery",
+      "pages": [
+        107
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The battery stores excess current for future needs."
+      ]
+    },
+    {
+      "id": "ch05_mcq_010",
+      "question": "What is the primary function of the starting system?",
+      "options": [
+        "To stabilize the voltage",
+        "To provide current when demands exceed the charging system",
+        "To power the headlights",
+        "To start the vehicle"
+      ],
+      "answer": "To start the vehicle",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The starting system, shown in\nFigure 5-2, is the portion of the\nelectrical system that gets\nyour vehicle started."
+      ]
+    },
+    {
+      "id": "ch05_mcq_011",
+      "question": "What component's main role is to pass electrical current and move starter gears?",
+      "options": [
+        "The battery",
+        "The ignition switch",
+        "The starter",
+        "The starter solenoid"
+      ],
+      "answer": "The starter solenoid",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Basically, all the sole-noid does is pass the current along and move the starter gears into contact with the flywheel."
+      ]
+    },
+    {
+      "id": "ch05_mcq_012",
+      "question": "What is found inside the car battery?",
+      "options": [
+        "Acid, distilled water, and a set of plates",
+        "Only acid",
+        "Just a set of plates",
+        "Only distilled water"
+      ],
+      "answer": "Acid, distilled water, and a set of plates",
+      "pages": [
+        108
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "It\u2019s filled with acid, distilled water, and a set of plates that are combined into \u201ccells\u201d (see Figure 5-3) that produce electric current for start-ing the car, turning on the lights, and powering the ignition system."
+      ]
+    },
+    {
+      "id": "ch05_mcq_013",
+      "question": "What is a major benefit of the car battery besides starting the car?",
+      "options": [
+        "To stabilize the voltage",
+        "To provide power to the radio only",
+        "To cool the engine",
+        "To increase fuel efficiency"
+      ],
+      "answer": "To stabilize the voltage",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The battery also stabilizes the voltage in the electrical system and provides current whenever the electrical demands exceed the output of the charging system."
+      ]
+    },
+    {
+      "id": "ch05_mcq_014",
+      "question": "When you turn the ignition switch to 'Start,' what happens?",
+      "options": [
+        "The alternator begins charging",
+        "A circuit closes allowing current to flow",
+        "The engine immediately starts",
+        "The battery is disconnected"
+      ],
+      "answer": "A circuit closes allowing current to flow",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When you turn your key in the igni-tion switch to \u201cStart\u201d (or acti-vate the ignition by pushing a button), the action closes a circuit that lets electrical cur-rent flow from your car\u2019s bat-tery to its starter."
+      ]
+    },
+    {
+      "id": "ch05_mcq_015",
+      "question": "What is the most common way to differentiate between a positive and negative battery terminal?",
+      "options": [
+        "The positive terminal is typically smaller.",
+        "The positive terminal is always black.",
+        "The negative terminal is always red.",
+        "The positive terminal is often marked with a '+' or the word 'Positive'."
+      ],
+      "answer": "The positive terminal is often marked with a '+' or the word 'Positive'.",
+      "pages": [
+        109
+      ],
+      "confidence": 4.0,
+      "justification": "You can tell which is which because the positive terminal is usually larger and may have a \u201c+,\u201d \u201cPOS,\u201d or the word \u201cPositive\u201d on or near it."
+    },
+    {
+      "id": "ch05_mcq_016",
+      "question": "What is a common characteristic of batteries found in modern vehicles?",
+      "options": [
+        "They need to be cleaned weekly.",
+        "They are typically sealed and require minimal maintenance.",
+        "They require frequent topping off with distilled water.",
+        "They have exposed wires."
+      ],
+      "answer": "They are typically sealed and require minimal maintenance.",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Today, most batteries are sealed and don\u2019t require much maintenance."
+      ]
+    },
+    {
+      "id": "ch05_mcq_017",
+      "question": "What is the purpose of the color-coding on jump-start cables?",
+      "options": [
+        "To signify which car is being jumped.",
+        "To indicate the battery's voltage.",
+        "To easily match the cables to the correct terminals.",
+        "To ensure proper cable length."
+      ],
+      "answer": "To easily match the cables to the correct terminals.",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The clamps on the cables that you use to jump-start a dead battery are usually colored red and black so that you can easily match them to the terminals."
+      ]
+    },
+    {
+      "id": "ch05_mcq_018",
+      "question": "In a 'negative ground' vehicle, where is the wire from the negative terminal typically connected?",
+      "options": [
+        "To the positive terminal.",
+        "To the ignition system.",
+        "To the frame of the vehicle.",
+        "To the starter."
+      ],
+      "answer": "To the frame of the vehicle.",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": "Most vehicles are negative ground, which means that the wire from the nega- tive terminal is attached to the frame of the vehicle to ground it; the wire from the positive terminal leads to the starter, ignition, and so on."
+    },
+    {
+      "id": "ch05_mcq_019",
+      "question": "What may form on battery terminals and potentially affect performance?",
+      "options": [
+        "Rust.",
+        "Oil residue.",
+        "Air bubbles.",
+        "Deposits."
+      ],
+      "answer": "Deposits.",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Today, most batteries are sealed and don\u2019t require much maintenance. However, deposits do form on the terminals, and they can impede the flow of current."
+      ]
+    },
+    {
+      "id": "ch05_mcq_020",
+      "question": "What is the primary function of the starter in a vehicle?",
+      "options": [
+        "To provide power to the headlights",
+        "To control the flow of fuel to the engine",
+        "To turn over the engine",
+        "To regulate the vehicle's speed"
+      ],
+      "answer": "To turn over the engine",
+      "pages": [
+        110
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The starter is the device that makes your engine turn over."
+      ]
+    },
+    {
+      "id": "ch05_mcq_021",
+      "question": "What component is described as having a gear called a starter drive?",
+      "options": [
+        "The starter",
+        "The ignition switch",
+        "The battery",
+        "The starter solenoid"
+      ],
+      "answer": "The starter",
+      "pages": [
+        110
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "It\u2019s an electri- \ncal motor with a gear called a starter \ndrive at one end."
+      ]
+    },
+    {
+      "id": "ch05_mcq_022",
+      "question": "According to the text, what happens immediately after the engine starts?",
+      "options": [
+        "The starter continues to spin the flywheel.",
+        "The starter drive disengages from the flywheel.",
+        "The battery is recharged.",
+        "The starter solenoid activates again."
+      ],
+      "answer": "The starter drive disengages from the flywheel.",
+      "pages": [
+        110
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "As soon as the engine is started, the starter has done its job...As your key returns to the \u201cOn\u201d (or \u201cRun\u201d) position...the starter drive disengages from the flywheel, and your engine continues running"
+      ]
+    },
+    {
+      "id": "ch05_mcq_023",
+      "question": "What is the function of the starter solenoid?",
+      "options": [
+        "To engage the starter drive and transfer power",
+        "To spin the flywheel",
+        "To regulate the engine\u2019s temperature",
+        "To control the spark plugs"
+      ],
+      "answer": "To engage the starter drive and transfer power",
+      "pages": [
+        110
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "After the battery sends the current\\nto the starter solenoid (refer to\\nFigure 5-2), the current goes to the\\nstarter."
+      ]
+    },
+    {
+      "id": "ch05_mcq_024",
+      "question": "What is the sequence of events that occurs when a vehicle is started using a key?",
+      "options": [
+        "Flywheel spins, starter engages, engine runs, ignition switch activates.",
+        "Ignition button pressed, starter engages flywheel, battery is recharged, engine shuts off.",
+        "Key turns on, starter engages ring gear, engine turns over, key returns to 'On' position.",
+        "Starter drive disengages, spark plugs fire, engine turns over, key is removed."
+      ],
+      "answer": "Starter drive engages ring gear, engine turns over, key returns to 'On' position.",
+      "pages": [
+        110
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When you turn your key in the ignition switch (or push the ignition button on some vehi-cles), the starter drive slides down the shaft and engages the ring gear. This spins the flywheel, which starts the crankshaft turning so that the pistons can go up and down, the spark plugs can fire, and the engine can start run-ning. As soon as the engine is started, the starter has done its job. If you use a key to start your vehicle, you should let go of the key immediately after the engine starts. As your key returns to the \u201cOn\u201d (or \u201cRun\u201d) position (where it stays until you shut off the engine), the starter drive disengages from the flywheel, and your engine continues running on the fuel and air that are being pumped into its cylinders."
+      ]
+    },
+    {
+      "id": "ch05_mcq_025",
+      "question": "What is the purpose of the one-way clutch within the starter drive?",
+      "options": [
+        "To allow the engine to spin faster than the starter.",
+        "To prevent the engine from overheating.",
+        "To protect the flywheel from damage.",
+        "To regulate the flow of electric current."
+      ],
+      "answer": "To allow the engine to spin faster than the starter.",
+      "pages": [
+        111
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\u201cThat noise is the clutch in the starter drive that allows the engine to spin faster than the starter.\u201d"
+      ]
+    },
+    {
+      "id": "ch05_mcq_026",
+      "question": "What action should be taken if the engine fails to start?",
+      "options": [
+        "Increase the amount of fuel being supplied to the engine.",
+        "Allow the starter to cool for one to two minutes.",
+        "Disconnect the battery to reset the system.",
+        "Immediately attempt to start the engine again."
+      ],
+      "answer": "Allow the starter to cool for one to two minutes.",
+      "pages": [
+        111
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the vehicle doesn\u2019t start, allow the starter to cool down for one to two minutes before attempting to start it again."
+      ]
+    },
+    {
+      "id": "ch05_mcq_027",
+      "question": "What is the primary function of the alternator in a conventional vehicle?",
+      "options": [
+        "To start the engine.",
+        "To control the vehicle's speed.",
+        "To regulate the engine\u2019s fuel mixture.",
+        "To provide electric current for the vehicle\u2019s systems."
+      ],
+      "answer": "To provide electric current for the vehicle\u2019s systems.",
+      "pages": [
+        111
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The running engine drives a belt that enables your alternator to produce elec-\ncurrent for the rest of the trip."
+      ]
+    },
+    {
+      "id": "ch05_mcq_028",
+      "question": "What is the danger of holding the ignition key in the 'Start' position after the engine has started?",
+      "options": [
+        "It can damage the battery.",
+        "It can cause the engine to stall.",
+        "It can damage the gear on the starter and the ring gear on the flywheel.",
+        "It can lead to a loss of power steering."
+      ],
+      "answer": "It can damage the gear on the starter and the ring gear on the flywheel.",
+      "pages": [
+        111
+      ],
+      "confidence": 4.0,
+      "justification": "And don\u2019t turn the key to the \u201cStart\u201d position when the engine is running. If you do, you can damage the gear on the starter and the ring gear on the flywheel."
+    },
+    {
+      "id": "ch05_mcq_029",
+      "question": "What happens when the ignition switch moves from the 'Start' position to the 'On' position?",
+      "options": [
+        "The engine immediately shuts off.",
+        "Electric current continues to flow to the starter.",
+        "Electric current stops flowing to the starter but continues to flow through the charging system.",
+        "The alternator stops producing electric current."
+      ],
+      "answer": "Electric current stops flowing to the starter but continues to flow through the charging system.",
+      "pages": [
+        111
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When you let go of the key and your ignition switch moves from \u201cStart\u201d to \u201cOn,\u201d the electric current stops flowing to the starter but continues to flow through the charging system (see Figure 5-6) and the rest of the electrical system."
+      ]
+    },
+    {
+      "id": "ch05_mcq_030",
+      "question": "What type of current does an alternator initially produce?",
+      "options": [
+        "Residual Current",
+        "Pulsating Current",
+        "Direct Current (DC)",
+        "Alternating Current (AC)"
+      ],
+      "answer": "Alternating Current (AC)",
+      "pages": [
+        112
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "An alternator produces alternating current (AC), which is internally con-\nverted to the direct current (DC) needed to drive various gadgets."
+      ]
+    },
+    {
+      "id": "ch05_mcq_031",
+      "question": "What is the primary function of the alternator in a vehicle\u2019s electrical system?",
+      "options": [
+        "To provide the initial power for starting the engine.",
+        "To regulate the flow of current to the starter.",
+        "To replace electricity used by the battery during starting.",
+        "To directly power the vehicle's headlights."
+      ],
+      "answer": "To replace electricity used by the battery during starting.",
+      "pages": [
+        112
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Figures 5-6 and 5-7) replaces the electricity that was taken from the battery when you started the car. Then, every time your battery sends out some of its \u201cjuice,\u201d the alternator replaces it."
+      ]
+    },
+    {
+      "id": "ch05_mcq_032",
+      "question": "What is a key difference between an alternator and a generator, as described in the material?",
+      "options": [
+        "Generators produce alternating current (AC), while alternators produce direct current (DC).",
+        "Alternators are typically found in vehicles manufactured before 5014.",
+        "Alternators produce alternating current (AC), while generators produce direct current (DC).",
+        "Generators always have an external voltage regulator."
+      ],
+      "answer": "Alternators produce alternating current (AC), while generators produce direct current (DC).",
+      "pages": [
+        112
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "An alternator produces alternating current (AC), which is internally con-verted to the direct current (DC) needed to drive various gadgets. You occa-sionally hear the alternator referred to as a generator. Generators are usually found on pre-1964 vehicles. They generate direct current (DC) and pass it on."
+      ]
+    },
+    {
+      "id": "ch05_mcq_034",
+      "question": "What indicates whether a vehicle\u2019s charging system is functioning correctly?",
+      "options": [
+        "The engine\u2019s exhaust color.",
+        "A voltmeter showing a 'C' to 'D' scale or voltage range.",
+        "The type of spark plugs used.",
+        "The color of the dashboard lights."
+      ],
+      "answer": "A voltmeter showing a 'C' to 'D' scale or voltage range.",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although most cars just have dashboard \u201cidiot lights\u201d that go on if the alter-nator isn\u2019t functioning properly, some vehicles have gauges called voltmeters that show whether the system is charging or discharging. They either have a \u201cC\u201d at one end and a \u201cD\u201d at the other end of the scale or a range of voltage levels (usually from 8 to 18)."
+      ]
+    },
+    {
+      "id": "ch05_mcq_035",
+      "question": "What is the expected voltage range for a car\u2019s electrical system when the engine is running and accessories are off?",
+      "options": [
+        "13.5 to 14.5 volts",
+        "10 to 50 volts",
+        "8 to 12 volts",
+        "20 to 50 volts"
+      ],
+      "answer": "13.5 to 14.5 volts",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": "With the engine running and all accessories off, the system voltage should be 13.5 to 14.5 volts."
+    },
+    {
+      "id": "ch05_mcq_036",
+      "question": "What is the primary function of a voltage regulator?",
+      "options": [
+        "To increase engine horsepower.",
+        "To control the alternator.",
+        "To regulate the vehicle's speed.",
+        "To lubricate the spark plugs."
+      ],
+      "answer": "To control the alternator.",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The voltage regulator (see Figures 5-6 and 5-8) is a device that controls the alternator."
+      ]
+    },
+    {
+      "id": "ch05_mcq_037",
+      "question": "What component delivers current to the spark plugs?",
+      "options": [
+        "The voltage regulator",
+        "The distributorless system",
+        "The alternator",
+        "The ignition coil"
+      ],
+      "answer": "The ignition coil",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Then that high voltage goes on to the spark plugs"
+      ]
+    },
+    {
+      "id": "ch05_mcq_038",
+      "question": "Which type of ignition system was primarily used in vehicles manufactured prior to 1974?",
+      "options": [
+        "Non-electronic distributor ignition system",
+        "Electronic distributorless ignition system",
+        "Electronic distributor ignition system",
+        "Direct spark plug ignition system"
+      ],
+      "answer": "Non-electronic distributor ignition system",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Most vehicles built prior to 1974 use a non-electronic distributor ignition system."
+      ]
+    },
+    {
+      "id": "ch05_mcq_039",
+      "question": "What is the primary function of spark plugs in a vehicle?",
+      "options": [
+        "To provide the spark that ignites the fuel\/air mixture",
+        "To deliver fuel to the combustion chamber",
+        "To cool the cylinders of the engine",
+        "To regulate the exhaust gases"
+      ],
+      "answer": "To provide the spark that ignites the fuel\/air mixture",
+      "pages": [
+        114
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "They deliver the spark of volt-age to the combustion cham-ber just when the fuel\/air mixture is at the point of greatest compression."
+      ]
+    },
+    {
+      "id": "ch05_mcq_040",
+      "question": "What event occurs just before a spark plug delivers voltage to the combustion chamber?",
+      "options": [
+        "The fuel\/air mixture reaches the point of greatest compression",
+        "The exhaust valve opens",
+        "The fuel\/air mixture expands",
+        "The engine block cools"
+      ],
+      "answer": "The fuel\/air mixture reaches the point of greatest compression",
+      "pages": [
+        114
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "They deliver the spark of volt-age to the combustion cham-ber just when the fuel\/air mixture is at the point of greatest compression."
+      ]
+    },
+    {
+      "id": "ch05_mcq_041",
+      "question": "Why is it important to understand the cylinder sequence and firing order of an engine?",
+      "options": [
+        "To calculate fuel efficiency",
+        "To select the correct tires",
+        "To determine the car's color",
+        "To diagnose engine performance issues"
+      ],
+      "answer": "To diagnose engine performance issues",
+      "pages": [
+        114
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It\u2019s good to know how this works because if the spark plugs aren\u2019t firing properly, your engine is as \u201cout-of-tune\u201d as an orchestra whose players aren\u2019t keeping time."
+      ]
+    },
+    {
+      "id": "ch05_mcq_042",
+      "question": "What is a key reason why engine performance can be described as 'out-of-tune'?",
+      "options": [
+        "The spark plugs are incorrectly sized",
+        "The engine block is damaged",
+        "The components aren\u2019t working in a synchronized manner",
+        "The tires are underinflated"
+      ],
+      "answer": "The components aren\u2019t working in a synchronized manner",
+      "pages": [
+        114
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cif the spark plugs aren\u2019t firing properly, your engine is as \u201cout-of-tune\u201d as an orchestra whose players aren\u2019t keeping time.\u201d"
+    },
+    {
+      "id": "ch05_mcq_044",
+      "question": "For vehicles with front-wheel drive and transverse engines, how does the cylinder arrangement compare to their rear-wheel drive counterparts?",
+      "options": [
+        "Cylinders run vertically.",
+        "They have the same sequence and firing order.",
+        "The firing order is reversed.",
+        "Cylinders are arranged in a different sequence."
+      ],
+      "answer": "They have the same sequence and firing order.",
+      "pages": [
+        115
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On both in-line and V-type engines, the cylinders run from one side of the vehicle toward the other. Aside from being set cross-wise, they have the same sequence and firing order as their rear-wheel drive in-line or V-type counterparts (see Figure 5-10)."
+      ]
+    },
+    {
+      "id": "ch05_mcq_045",
+      "question": "In U.S.-made rear-wheel drive in-line 4- and 6-cylinder vehicles, which cylinder is designated as the #1 cylinder?",
+      "options": [
+        "The cylinder furthest from the front.",
+        "The cylinder furthest from the firewall.",
+        "The cylinder nearest the firewall.",
+        "The cylinder nearest the front."
+      ],
+      "answer": "The cylinder nearest the front.",
+      "pages": [
+        115
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "In all U.S.-made in-line 4- and 6-cylinder vehi-cles with rear-wheel drive, the cylinder nearest the front is called the #1 cylinder."
+      ]
+    },
+    {
+      "id": "ch05_mcq_046",
+      "question": "What is a defining characteristic of the cylinder numbering sequence in foreign-made vehicles?",
+      "options": [
+        "The #1 cylinder is always near the front.",
+        "All cylinders are numbered sequentially from front to back.",
+        "The numbering sequence always progresses toward the firewall.",
+        "The #1 cylinder may be located near the firewall."
+      ],
+      "answer": "The #1 cylinder may be located near the firewall.",
+      "pages": [
+        115
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Some foreign automakers reverse the cylinder sequence. As you can see in Figure 5-12, the #1 cylinder is at the rear, near the firewall."
+      ]
+    },
+    {
+      "id": "ch05_mcq_047",
+      "question": "In a Ford V-8 engine with rear-wheel drive, where is cylinder #1 typically located?",
+      "options": [
+        "Passenger side, rear.",
+        "Driver\u2019s side, rear.",
+        "Driver\u2019s side, rear.",
+        "Passenger side, front."
+      ],
+      "answer": "Passenger side, front.",
+      "pages": [
+        116
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Most Ford V-8s with rear-wheel drive have the #1 cylinder in the front on the passenger side of the car."
+      ]
+    },
+    {
+      "id": "ch05_mcq_048",
+      "question": "Regarding V-8 engines with rear-wheel drive that are NOT Ford engines, what is the general positioning of the #1 cylinder?",
+      "options": [
+        "Passenger side, front.",
+        "Driver\u2019s side, front.",
+        "Driver\u2019s side, rear.",
+        "Passenger side, rear."
+      ],
+      "answer": "Driver\u2019s side, front.",
+      "pages": [
+        116
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On most other vehicles with V-8 engines and rear-wheel drive, the #1 cylinder is up front on the driver\u2019s side, with cylinder #3, #5, and #7 proceeding toward the rear of the vehicle."
+      ]
+    },
+    {
+      "id": "ch05_mcq_049",
+      "question": "What is the primary reason firing order is carefully arranged?",
+      "options": [
+        "To distribute the shock of combustion evenly",
+        "To ensure the engine runs faster",
+        "To simplify the cylinder sequence",
+        "To maximize fuel efficiency"
+      ],
+      "answer": "To distribute the shock of combustion evenly",
+      "pages": [
+        117
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To avoid this, the firing order is carefully arranged to distribute the shock of combustion evenly throughout the engine."
+      ]
+    },
+    {
+      "id": "ch05_mcq_050",
+      "question": "Regarding cylinder sequence and firing order, what is the key distinction?",
+      "options": [
+        "Cylinder sequence dictates firing order",
+        "Cylinder sequence refers to numbering, while firing order refers to the sequence of ignition",
+        "Firing order and cylinder sequence are interchangeable terms",
+        "Cylinder sequence always begins with cylinder #1"
+      ],
+      "answer": "Cylinder sequence refers to numbering, while firing order refers to the sequence of ignition",
+      "pages": [
+        117
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Don\u2019t confuse cylinder\\nsequence with firing order."
+      ]
+    },
+    {
+      "id": "ch05_mcq_051",
+      "question": "What characteristic do transverse engines share with inline engines?",
+      "options": [
+        "They have the same number of cylinders",
+        "They both operate on the same principle of combustion",
+        "They both use distributors",
+        "They share the same firing order"
+      ],
+      "answer": "They share the same firing order",
+      "pages": [
+        117
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Transverse engines have the same cylinder sequence and firing order as in-line engines"
+      ]
+    },
+    {
+      "id": "ch05_mcq_052",
+      "question": "Where is the firing order typically located?",
+      "options": [
+        "Inside the vehicle's owner\u2019s manual",
+        "On a sticker on the engine block",
+        "Inside the engine's distributor",
+        "Printed inside each engine"
+      ],
+      "answer": "Printed inside each engine",
+      "pages": [
+        117
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The firing order is printed inside each of the engines shown in Figures 5-10 through 5-16."
+      ]
+    },
+    {
+      "id": "ch05_mcq_053",
+      "question": "What would likely happen if cylinders were fired in simple numerical sequence?",
+      "options": [
+        "The engine would rock violently",
+        "The engine would produce more power",
+        "The engine would run more efficiently",
+        "The engine would make a smoother sound"
+      ],
+      "answer": "The engine would rock violently",
+      "pages": [
+        117
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although your engine may have its cylinders in simple numeri-cal sequence, if the cylinders were fired in that order, the engine would rock violently as first the cylinders on one side (or toward the front) fired in rapid succession, and then the other cylinders did likewise."
+      ]
+    },
+    {
+      "id": "ch05_mcq_054",
+      "question": "Which of the following is a primary advantage of distributorless ignition systems compared to older systems with distributors?",
+      "options": [
+        "Fewer moving parts",
+        "Lower fuel efficiency",
+        "Increased complexity",
+        "Greater susceptibility to breakdowns"
+      ],
+      "answer": "Fewer moving parts",
+      "pages": [
+        118
+      ],
+      "confidence": 3.0,
+      "justification": "Modern distributorless ignition systems (see Figure 5-17) have fewer moving parts and are much more fuel-efficient and less prone to breaking down than those with distributors."
+    },
+    {
+      "id": "ch05_mcq_055",
+      "question": "What is the function of the ignition control module (ICM) in a distributorless ignition system?",
+      "options": [
+        "To directly generate the spark",
+        "To control when the spark plugs fire",
+        "To filter air entering the cylinders",
+        "To regulate the engine's RPM"
+      ],
+      "answer": "To control when the spark plugs fire",
+      "pages": [
+        118
+      ],
+      "confidence": 3.0,
+      "justification": "In all distributorless ignition systems, the ECU or a dedicated ignition control module (ICM) controls when the spark plugs fire and ignite the fuel\/air mix-ture in the cylinders, which provide the power that propels the vehicle."
+    },
+    {
+      "id": "ch05_mcq_056",
+      "question": "What is the purpose of the electronic coil module?",
+      "options": [
+        "To measure engine temperature",
+        "To control the flow of fuel",
+        "To monitor exhaust gases",
+        "To transform low voltage into a higher voltage"
+      ],
+      "answer": "To transform low voltage into a higher voltage",
+      "pages": [
+        118
+      ],
+      "confidence": 4.0,
+      "justification": "The electronic coil module does the same thing in a much more sophisticated way as the ignition coils and distributor on older vehicles did: It transforms the relatively small amount of electrical voltage (12 to 14 volts) that it"
+    },
+    {
+      "id": "ch05_mcq_057",
+      "question": "What is the typical voltage range produced by the ignition coil to fire the spark plugs?",
+      "options": [
+        "1.5 to 6 volts",
+        "150 to 600 volts",
+        "15 to 60 volts",
+        "15,000 to 60,000 volts"
+      ],
+      "answer": "15,000 to 60,000 volts",
+      "pages": [
+        119
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "receives from the battery into a big enough jolt of voltage (15,000 to 60,000 volts) to jump the spark plug gap."
+      ]
+    },
+    {
+      "id": "ch05_mcq_058",
+      "question": "What is the primary function of the crankshaft position sensor?",
+      "options": [
+        "To provide data to adjust the distributor",
+        "To synchronize fuel injectors",
+        "To identify misfiring cylinders",
+        "To provide data to fire spark plugs at the proper time"
+      ],
+      "answer": "To provide data to fire spark plugs at the proper time",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It\u2019s one of the sensors that tells the ICM when to fire each spark plug by keeping track of where the crankshaft is and how fast it\u2019s spinning at any given time."
+      ]
+    },
+    {
+      "id": "ch05_mcq_059",
+      "question": "In a distributorless ignition system, what additional function does the camshaft position sensor perform?",
+      "options": [
+        "Adjusts the spark plug gap",
+        "Synchronizes fuel injectors",
+        "Regulates the engine\u2019s temperature",
+        "Controls the voltage output of the coil"
+      ],
+      "answer": "Synchronizes fuel injectors",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It helps the spark plugs to fire at the right time, provides the data to synchronize the fuel injectors, and identifies misfiring cylinders."
+      ]
+    },
+    {
+      "id": "ch05_mcq_060",
+      "question": "What is a key advantage of electronic distributors compared to their mechanical predecessors?",
+      "options": [
+        "They require constant adjustment",
+        "They are less expensive to replace",
+        "They are relatively trouble-free",
+        "They produce higher voltages"
+      ],
+      "answer": "They are relatively trouble-free",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The good news is that electronic distributors are relatively trouble-free."
+      ]
+    },
+    {
+      "id": "ch05_mcq_061",
+      "question": "What is the primary role of the ignition control module (ICM)?",
+      "options": [
+        "To regulate the battery's voltage",
+        "To monitor the engine\u2019s oil pressure",
+        "To send signals that fire spark plugs at the proper time",
+        "To increase the voltage of the battery"
+      ],
+      "answer": "To send signals that fire spark plugs at the proper time",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "which sends the signals that fire the spark plugs at the proper time."
+      ]
+    },
+    {
+      "id": "ch05_mcq_062",
+      "question": "What is the primary function of the distributor cap?",
+      "options": [
+        "To control the timing of the spark plugs",
+        "To protect the distributor's internal components",
+        "To regulate the flow of fuel to the engine",
+        "To generate high voltage electricity"
+      ],
+      "answer": "To protect the distributor's internal components",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The distributor cap (shown in Figure 5-19) sits atop the distributor to protect the parts inside from the elements."
+      ]
+    },
+    {
+      "id": "ch05_mcq_063",
+      "question": "What component rotates in conjunction with the distributor shaft, directing current to different spark plugs?",
+      "options": [
+        "The armature",
+        "The pickup coil",
+        "The rotor",
+        "The distributor cap"
+      ],
+      "answer": "The rotor",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "As the distributor shaft turns, the rotor rotates with it and points toward the terminal at the base of each spark plug wire so that each plug can fire in the correct order."
+      ]
+    },
+    {
+      "id": "ch05_mcq_064",
+      "question": "What is the role of the pickup coil in the ignition system?",
+      "options": [
+        "To signal the ICM to shut down the primary circuit",
+        "To measure the engine\u2019s vacuum",
+        "To distribute electricity to the spark plugs",
+        "To generate a spark at the spark plug"
+      ],
+      "answer": "To signal the ICM to shut down the primary circuit",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Each time one of the teeth on the armature passes the sensor, it creates voltage that signals an ignition control module (ICM) to shut down the primary circuit in the coil."
+      ]
+    },
+    {
+      "id": "ch05_mcq_065",
+      "question": "What does the armature do as it revolves past the pickup coil?",
+      "options": [
+        "It creates a mechanical lock to prevent rotor rotation.",
+        "It generates a signal that triggers the ICM.",
+        "It directs exhaust gases away from the engine.",
+        "It regulates the engine\u2019s coolant temperature."
+      ],
+      "answer": "It generates a signal that triggers the ICM.",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Each time one of the teeth on the armature passes the sensor, it creates voltage that signals an ignition control module (ICM) to shut down the primary circuit in the coil."
+      ]
+    },
+    {
+      "id": "ch05_mcq_066",
+      "question": "What is the purpose of the high voltage jolt from the secondary coil circuit?",
+      "options": [
+        "To provide electricity for the headlights.",
+        "To activate the electronic control module.",
+        "To power the engine\u2019s cooling fan.",
+        "To fire the spark plug and ignite the fuel\/air mixture."
+      ],
+      "answer": "To fire the spark plug and ignite the fuel\/air mixture.",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "This \u201cfires\u201d a jolt of high voltage to the secondary coil circuit, which shoots it"
+      ]
+    },
+    {
+      "id": "ch05_mcq_068",
+      "question": "What is the primary function of a pick-up coil?",
+      "options": [
+        "To switch the primary circuit on",
+        "To monitor fuel level",
+        "To fire high voltage",
+        "To generate a magnetic pulse indicating when to fire spark plugs"
+      ],
+      "answer": "To generate a magnetic pulse indicating when to fire spark plugs",
+      "pages": [
+        121
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A pick-up coil is a magnetic pulse generator that tells the ignition con-trol module when to fire the spark plugs."
+      ]
+    },
+    {
+      "id": "ch05_mcq_069",
+      "question": "What is a common characteristic of Malfunction Indicator Lights (MIL) in modern vehicles?",
+      "options": [
+        "They are primarily used to monitor fuel level",
+        "They can be enigmatic and difficult to interpret",
+        "They directly indicate the specific mechanical failure",
+        "They replace dashboard gauges for temperature and oil pressure"
+      ],
+      "answer": "They can be enigmatic and difficult to interpret",
+      "pages": [
+        121
+      ],
+      "confidence": 3.0,
+      "justification": "The only trouble is that MILs can be so enigmatic about what\u2019s gone wrong \u2014 especially when the ominous words \u201cCheck Engine\u201d appear \u2014 that they can be very unsettling."
+    },
+    {
+      "id": "ch05_mcq_070",
+      "question": "What is a potential consequence of a Malfunction Indicator Light (MIL) remaining illuminated?",
+      "options": [
+        "It usually indicates a problem requiring professional diagnosis",
+        "It suggests the vehicle's fuel level is low",
+        "It signifies a minor inconvenience with no immediate consequences",
+        "It means the parking brake is engaged"
+      ],
+      "answer": "It usually indicates a problem requiring professional diagnosis",
+      "pages": [
+        121
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "And if one of them stays lit (bad news!), basically all the owner\u2019s manual advises is to head for the dealership."
+      ]
+    },
+    {
+      "id": "ch05_mcq_071",
+      "question": "What does a Malfunction Indicator Light (MIL) potentially apply to?",
+      "options": [
+        "Only the accessories",
+        "The engine, emissions, or accessories",
+        "Only the emissions system",
+        "Only the engine"
+      ],
+      "answer": "The engine, emissions, or accessories",
+      "pages": [
+        121
+      ],
+      "confidence": 3.0,
+      "justification": "That warning can apply to the engine, emissions, or accessories, so at first you can\u2019t know if it\u2019s just that your gas cap is loose or if major surgery is required."
+    },
+    {
+      "id": "ch05_mcq_072",
+      "question": "What is a primary function of the MIL?",
+      "options": [
+        "To directly repair vehicle components.",
+        "To report findings from electronic sensors.",
+        "To provide power to the sound system.",
+        "To replace burned-out fuses."
+      ],
+      "answer": "To report findings from electronic sensors.",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "However, because the MIL report the findings of the electronic sensors that"
+      ]
+    },
+    {
+      "id": "ch05_mcq_073",
+      "question": "What is a potential consequence of ignoring a persistent MIL light?",
+      "options": [
+        "Enhanced directional signaling.",
+        "Voiding your warranty.",
+        "Improved fuel efficiency.",
+        "Increased engine power."
+      ],
+      "answer": "Voiding your warranty.",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Failing to do so can void your warranty or really damage your vehicle."
+      ]
+    },
+    {
+      "id": "ch05_mcq_074",
+      "question": "What benefit do DIY service centers offer drivers?",
+      "options": [
+        "Guaranteed warranty extensions.",
+        "Direct access to certified mechanics.",
+        "The ability to diagnose issues with diagnostic equipment.",
+        "Complete vehicle repairs."
+      ],
+      "answer": "The ability to diagnose issues with diagnostic equipment.",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In some areas, there are now do-it-yourself service centers where you can drive into one of their bays, follow instructions for finding the place under your dashboard to plug in their diag-nostic equipment, get a printout of the \u201ccodes,\u201d and look up what\u2019s wrong."
+      ]
+    },
+    {
+      "id": "ch05_mcq_075",
+      "question": "Besides charging the battery, what else does the alternator indirectly supply power to?",
+      "options": [
+        "The airbags and traction control.",
+        "The transmission\u2019s gears.",
+        "The vehicle\u2019s sound system.",
+        "The engine's cooling system."
+      ],
+      "answer": "The vehicle\u2019s sound system.",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In addition to what I cover in the alternator section earlier in this chapter, by keeping the battery charged, the alternator also indirectly supplies the electrical current for the sound system, headlights, taillights, directional sig-nals, defroster\/heater\/air conditioner blower, and other electrical gadgets."
+      ]
+    },
+    {
+      "id": "ch05_mcq_076",
+      "question": "Where are fuse boxes typically located in a vehicle?",
+      "options": [
+        "Only under the hood.",
+        "Under or near the dashboard and possibly under the hood.",
+        "Within the vehicle's interior trim.",
+        "Inside the engine block."
+      ],
+      "answer": "Under or near the dashboard and possibly under the hood.",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The fuses are located in a fuse box that\u2019s usually found under or near the dashboard and possibly under the hood."
+      ]
+    },
+    {
+      "id": "ch05_mcq_077",
+      "question": "Which of the following gases is used in more modern vehicle headlamps?",
+      "options": [
+        "Helium",
+        "Oxygen",
+        "Xenon",
+        "Argon"
+      ],
+      "answer": "Xenon",
+      "pages": [
+        123
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Although vehicles with sealed-beam units and old-style light bulbs are still on the road, more modern vehicles have headlamps filled with halogen or Xenon gas."
+      ]
+    },
+    {
+      "id": "ch05_mcq_078",
+      "question": "What is another name for Xenon headlamps?",
+      "options": [
+        "HID lamps",
+        "Sealed-beam units",
+        "Halogen lamps",
+        "LED lamps"
+      ],
+      "answer": "HID lamps",
+      "pages": [
+        123
+      ],
+      "confidence": 4.0,
+      "justification": "The Xenon headlamps are also known as HID (high intensity discharge) lamps."
+    },
+    {
+      "id": "ch05_mcq_079",
+      "question": "Compared to halogen lamps, Xenon headlamps generally offer which advantage?",
+      "options": [
+        "Reduced lifespan",
+        "Lower brightness",
+        "Higher brightness and lower power consumption",
+        "Increased power consumption"
+      ],
+      "answer": "Higher brightness and lower power consumption",
+      "pages": [
+        123
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "They\u2019re brighter and use less power than halogens do."
+      ]
+    },
+    {
+      "id": "ch05_mcq_080",
+      "question": "What is a potential benefit of adaptive front lighting systems (AFS)?",
+      "options": [
+        "Reduced maintenance costs",
+        "Ability to swivel and illuminate a corner",
+        "Increased fuel efficiency",
+        "Decreased vehicle weight"
+      ],
+      "answer": "Ability to swivel and illuminate a corner",
+      "pages": [
+        123
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Innovations that already exist and will become more widely available include adaptive front lighting systems (AFS) that can swivel to illuminate a corner"
+      ]
+    },
+    {
+      "id": "ch05_mcq_081",
+      "question": "What characteristic makes LED headlamps notable?",
+      "options": [
+        "They are significantly more difficult to adjust",
+        "They are less bright than halogen lamps",
+        "They have the potential for an exceptionally long lifespan",
+        "They consume significantly more power"
+      ],
+      "answer": "They have the potential for an exceptionally long lifespan",
+      "pages": [
+        123
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "innovations that already exist and will become more widely available include ... lightweight LED headlamps that have the potential to outlive your vehicle"
+      ]
+    },
+    {
+      "id": "ch05_short_002",
+      "question": "Besides fuel injectors and spark plugs, name one other function controlled by the ECU.",
+      "options": null,
+      "answer": "valve timing",
+      "pages": [
+        106
+      ],
+      "confidence": 3.0,
+      "justification": "The ECU itself rarely malfunctions, is the key to the diagnostics that pinpoint problems, and is primarily responsible for managing the fuel efficiency and performance of your vehicle. Among other tasks, the ECU fires the fuel injectors on fuel-injected engines, fires the spark plugs, and controls valve timing, emissions controls, the fuel\/air mixture, and even the cooling fan."
+    },
+    {
+      "id": "ch05_short_003",
+      "question": "Why is the ECU considered important for vehicle diagnostics?",
+      "options": null,
+      "answer": "The ECU is the key to the diagnostics that pinpoint problems.",
+      "pages": [
+        106
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ECU itself rarely malfunctions, is the key to the diagnostics that pinpoint problems, and is primarily responsible for managing the fuel efficiency and performance of your vehicle."
+      ]
+    },
+    {
+      "id": "ch05_short_004",
+      "question": "Describe the function of the ignition system.",
+      "options": null,
+      "answer": "The ignition system fires the spark plugs so they can cause the fuel and air to \u201ccombust\u201d and drive your engine.",
+      "pages": [
+        107
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ignition system fires the spark plugs so they can cause the fuel and air to \u201ccombust\u201d and drive your engine."
+      ]
+    },
+    {
+      "id": "ch05_short_005",
+      "question": "What is one way the charging system benefits the vehicle's battery?",
+      "options": null,
+      "answer": "It regulates the power flowing to the battery to keep it from running down.",
+      "pages": [
+        107
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It regulates the power flowing to the battery to keep it from running down."
+      ]
+    },
+    {
+      "id": "ch05_short_007",
+      "question": "Describe the purpose of the car battery.",
+      "options": null,
+      "answer": "The battery produces electric current for starting the car, turning on the lights, and powering the ignition system. The battery also stabilizes the voltage in the electrical system and provides current whenever the electrical demands exceed the output of the charging system.",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The battery produces electric current for starting the car, turning on the lights, and powering the ignition system. The battery also stabilizes the voltage in the electrical system and provides current whenever the electrical demands exceed the output of the charging system."
+      ]
+    },
+    {
+      "id": "ch05_short_008",
+      "question": "What happens to electrical current as it travels from the battery to the starter?",
+      "options": null,
+      "answer": "The current passes through a device called the starter solenoid.",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When you turn your key in the ignition switch to \u201cStart\u201d (or activate the ignition by pushing a button), the action closes a circuit that lets electrical cur-rent flow from your car\u2019s bat-tery to its starter. On the way, the current passes through a device called the starter sole-noid."
+      ]
+    },
+    {
+      "id": "ch05_short_009",
+      "question": "What is the function of the plates inside the car battery?",
+      "options": null,
+      "answer": "The plates inside the car battery are combined into \u201ccells\u201d (see Figure 5-3) that produce electric current for starting the car, turning on the lights, and powering the ignition system.",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": "The plates inside the car battery are combined into \u201ccells\u201d (see Figure 5-3) that produce electric current for starting the car, turning on the lights, and powering the ignition system."
+    },
+    {
+      "id": "ch05_short_010",
+      "question": "Explain why you shouldn't adjust or replace the starter solenoid.",
+      "options": null,
+      "answer": "You don\u2019t adjust or replace it unless it breaks down.",
+      "pages": [
+        108
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "You don\u2019t adjust or replace it unless it breaks down."
+      ]
+    },
+    {
+      "id": "ch05_short_012",
+      "question": "Describe the typical color-coding of battery cables.",
+      "options": null,
+      "answer": "The cable to the negative terminal is usually black. The cable to the positive terminal may be red as well.",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The cable to the negative terminal is usually black.",
+        "The cable to the positive terminal may be red as well."
+      ]
+    },
+    {
+      "id": "ch05_short_013",
+      "question": "What is the significance of a battery being 'negative ground'?",
+      "options": null,
+      "answer": "The wire from the negative terminal is attached to the frame of the vehicle to ground it; the wire from the positive terminal leads to the starter, ignition, and so on.",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": "Most vehicles are negative ground, which means that the wire from the nega-\n tive terminal is attached to the frame of the vehicle to ground it; the wire\n from the positive terminal leads to the starter, ignition, and so on."
+    },
+    {
+      "id": "ch05_short_014",
+      "question": "What part of a car\u2019s electrical system does the wire from the positive terminal lead to?",
+      "options": null,
+      "answer": "the starter, ignition, and so on",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "the wire from the positive terminal leads to the starter, ignition, and so on"
+      ]
+    },
+    {
+      "id": "ch05_short_015",
+      "question": "Explain why deposits on battery terminals can be problematic.",
+      "options": null,
+      "answer": "Deposits do form on the terminals, and they can impede the flow of current.",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Today, most batteries are sealed and don\u2019t require much maintenance. However, deposits do form on the terminals, and they can impede the flow of current."
+      ]
+    },
+    {
+      "id": "ch05_short_016",
+      "question": "Describe the role of the ring gear in the starting process.",
+      "options": null,
+      "answer": "The starter drive engages a ring gear on a flywheel that\u2019s bolted to the back of the engine crankshaft. When you turn your key, the starter drive slides down the shaft and engages the ring gear. This spins the flywheel, which starts the crankshaft turning.",
+      "pages": [
+        110
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The starter drive engages a ring gear on a flywheel that\u2019s bolted to the back of the engine crankshaft.",
+        "When you turn your key, the starter drive slides down the shaft and engages the ring gear.",
+        "This spins the flywheel, which starts the crankshaft turning"
+      ]
+    },
+    {
+      "id": "ch05_short_017",
+      "question": "What happens to the ignition key after the engine starts?",
+      "options": null,
+      "answer": "You should let go of the key immediately after the engine starts.",
+      "pages": [
+        110
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you use a key to start your vehicle, you should let go of the key immediately after the engine starts."
+      ]
+    },
+    {
+      "id": "ch05_short_018",
+      "question": "Explain why the individual in the provided text was unable to resolve the starting problem on their own.",
+      "options": null,
+      "answer": "The individual was unable to fix the problem because they did not know which gadget was the starter.",
+      "pages": [
+        110
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\u201cBecause I don\u2019t know which gadget is the starter!\u201d"
+      ]
+    },
+    {
+      "id": "ch05_short_019",
+      "question": "What component is engaged when the ignition switch (or button) is activated?",
+      "options": null,
+      "answer": "the starter drive",
+      "pages": [
+        110
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When you turn your key in the ignition switch (or push the ignition button on some vehi-cles), the starter drive slides down the shaft and engages the ring gear."
+      ]
+    },
+    {
+      "id": "ch05_short_020",
+      "question": "What does the text suggest is the immediate result of the starter finishing its job?",
+      "options": null,
+      "answer": "The starter drive disengages from the flywheel.",
+      "pages": [
+        110
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "As soon as the engine is started, the starter has done its job...As your key returns to the \u201cOn\u201d (or \u201cRun\u201d) position...the starter drive disengages from the flywheel"
+      ]
+    },
+    {
+      "id": "ch05_short_021",
+      "question": "What drives the alternator to produce electric current?",
+      "options": null,
+      "answer": "The running engine drives a belt that enables your alternator to produce electric current for the rest of the trip.",
+      "pages": [
+        111
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The running engine drives a belt that enables your alternator to produce electric current for the rest of the trip."
+      ]
+    },
+    {
+      "id": "ch05_short_022",
+      "question": "Describe the operational difference in noise between a conventional vehicle and an electric vehicle.",
+      "options": null,
+      "answer": "EVs run silently, and hybrids are silent when operating on the electric motor only.",
+      "pages": [
+        111
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "EVs run silently, and hybrids are silent when operating on the electric motor only."
+      ]
+    },
+    {
+      "id": "ch05_short_023",
+      "question": "What chapter provides further detail about the engine\u2019s fuel and air intake?",
+      "options": null,
+      "answer": "Chapter 7",
+      "pages": [
+        111
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When you let go of the key and your ignition switch moves from \u201cStart\u201d to \u201cOn,\u201d the electric current stops flowing to the starter but continues to flow through the charging system (see Figure 5-6) and the rest of the electrical system. The rumble in a conventional vehicle is possible because as soon as the pistons in the cylinders start to go up and down, your engine begins to run on its usual diet of fuel and air (read all about it in Chapter 7)."
+      ]
+    },
+    {
+      "id": "ch05_short_026",
+      "question": "Why are generators generally not used in modern vehicles?",
+      "options": null,
+      "answer": "Generators are usually found on pre-1964 vehicles.",
+      "pages": [
+        112
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Generators are usually found on pre-1964 vehicles."
+      ]
+    },
+    {
+      "id": "ch05_short_027",
+      "question": "Describe the location of a voltage regulator in older versus newer vehicles.",
+      "options": null,
+      "answer": "On older cars, it\u2019s a little box mounted somewhere under the hood. On newer cars, it may be mounted inside the alternator or inside the ECU.",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On older cars, it\u2019s a little box mounted somewhere under the hood. On newer cars, it may be mounted inside the alternator or inside the ECU."
+      ]
+    },
+    {
+      "id": "ch05_short_028",
+      "question": "What is the consequence of a failed voltage regulator?",
+      "options": null,
+      "answer": "the alternator is literally powerless",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the voltage regulator fails, the alternator is literally \u201cpowerless.\u201d"
+      ]
+    },
+    {
+      "id": "ch05_short_029",
+      "question": "Explain the difference between distributor and distributorless ignition systems.",
+      "options": null,
+      "answer": "Most vehicles built prior to 1974 use a non-electronic distributor ignition system. Most vehicles built from the mid-1970s to the late 1980s use an electronic distributor ignition system. Today\u2019s vehicles use an electronic distributorless ignition system, which, as the name implies, has no distributor at all.",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": "Most vehicles built prior to 1974 use a non-electronic distributor ignition system. Most vehicles built from the mid-1970s to the late 1980s use an electronic distributor ignition system. Today\u2019s vehicles use an electronic distributorless ignition system, which, as the name implies, has no distributor at all."
+    },
+    {
+      "id": "ch05_short_030",
+      "question": "What is a key advantage of electronic ignition systems compared to older systems?",
+      "options": null,
+      "answer": "Unlike older systems, except for the spark plugs, their components don\u2019t need to be replaced unless they break down.",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Unlike older systems, except for the spark plugs, their components don\u2019t need to be replaced unless they break down."
+      ]
+    },
+    {
+      "id": "ch05_short_031",
+      "question": "Name one advantage and one disadvantage of modern electronic ignition systems.",
+      "options": null,
+      "answer": "One advantage of modern electronic ignition systems is that their components don\u2019t need to be replaced unless they break down. A disadvantage is that if they do break down, you have to pay a professional to replace them.",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Unlike older systems, except for the spark plugs, their com-\nponents don\u2019t need to be replaced unless they break down.",
+        "The bad news is that if they do\nbreak down, you have to pay a professional to replace them."
+      ]
+    },
+    {
+      "id": "ch05_short_032",
+      "question": "What two factors determine the cylinder sequence of an engine?",
+      "options": null,
+      "answer": "Whether it has front-wheel drive or rear-wheel drive and whether it has an in-line engine, with the cylinders lined up in one row, or a V-type engine, with the cylinders in two parallel rows.",
+      "pages": [
+        114
+      ],
+      "confidence": 3.0,
+      "justification": "The cylinder sequence of an engine is the order in which the cylinders of the engine are numbered. This sequence varies from one type of vehicle to another, depending on whether it has front-wheel drive or rear-wheel drive and whether it has an in-line engine, with the cylinders lined up in one row, or a V-type engine, with the cylinders in two parallel rows."
+    },
+    {
+      "id": "ch05_short_033",
+      "question": "Briefly explain why knowing the anatomy of a spark plug can be beneficial.",
+      "options": null,
+      "answer": "You need to get to know [the parts of a spark plug] if you want to work on them yourself.",
+      "pages": [
+        114
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You need to get to know [the parts of a spark plug] if you want to work on them yourself."
+      ]
+    },
+    {
+      "id": "ch05_short_035",
+      "question": "Briefly describe the general trend of cylinder numbering in U.S.-made rear-wheel drive in-line engines.",
+      "options": null,
+      "answer": "In all U.S.-made in-line 4- and 6-cylinder vehicles with rear-wheel drive, the cylinder nearest the front is called the #1 cylinder, and the numbering runs in sequence back toward the firewall at the rear of the engine compartment.",
+      "pages": [
+        115
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In all U.S.-made in-line 4- and 6-cylinder vehi-cles with rear-wheel drive, the cylinder nearest the front is called the #1 cylinder. The numbering for the rest of the cylinders (#2, #3, #4, and so on) runs in sequence back toward the firewall at the rear of the engine compartment"
+      ]
+    },
+    {
+      "id": "ch05_short_036",
+      "question": "Explain why a vehicle owner of a foreign car might need to consult a local dealer regarding the location of the #1 cylinder.",
+      "options": null,
+      "answer": "If you have a foreign car and no owner\u2019s manual, ask your local dealer where your #1 cylinder is.",
+      "pages": [
+        115
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "If you have a foreign car and no owner\u2019s manual, ask your local dealer where your #1 cylinder is."
+      ]
+    },
+    {
+      "id": "ch05_short_038",
+      "question": "What is consistently the spark plug location regardless of engine configuration?",
+      "options": null,
+      "answer": "the spark plug in the #1 cylinder",
+      "pages": [
+        117
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "no matter what the engine configuration, the #1 spark plug is always the spark plug in the #1 cylinder"
+      ]
+    },
+    {
+      "id": "ch05_short_039",
+      "question": "Explain why a simple numerical firing order would be problematic for an engine.",
+      "options": null,
+      "answer": "If the cylinders were fired in simple numerical sequence, the engine would rock violently as first the cylinders on one side (or toward the front) fired in rapid succession, and then the other cylinders did likewise.",
+      "pages": [
+        117
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although your engine may have its cylinders in simple numeri-cal sequence, if the cylinders were fired in that order, the engine would rock violently as first the cylinders on one side (or toward the front) fired in rapid succession, and then the other cylinders did likewise."
+      ]
+    },
+    {
+      "id": "ch05_short_040",
+      "question": "What is a key difference between cylinder sequence and firing order?",
+      "options": null,
+      "answer": "Firing order is carefully arranged to distribute the shock of combustion evenly throughout the engine, whereas if the cylinders were fired in simple numerical sequence, the engine would rock violently.",
+      "pages": [
+        117
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although your engine may have\nits cylinders in simple numeri-\ncal sequence, if the cylinders\nwere fired in that order, the\nengine would rock violently as\nfirst the cylinders on one side\n(or toward the front) fired in\nrapid succession, and then the\nother cylinders did likewise. To\navoid this, the firing order is\ncarefully arranged to distribute\nthe shock of combustion evenly\nthroughout the engine."
+      ]
+    },
+    {
+      "id": "ch05_short_041",
+      "question": "In distributorless ignition systems, what controls the timing of spark plug ignition?",
+      "options": null,
+      "answer": "The ECU or a dedicated ignition control module (ICM) controls when the spark plugs fire and ignite the fuel\/air mixture in the cylinders.",
+      "pages": [
+        118
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In all distributorless ignition systems, the ECU or a dedicated ignition control module (ICM) controls when the spark plugs fire and ignite the fuel\/air mix-ture in the cylinders, which provide the power that propels the vehicle."
+      ]
+    },
+    {
+      "id": "ch05_short_042",
+      "question": "What is one benefit of distributorless ignition systems?",
+      "options": null,
+      "answer": "distributorless ignition systems (see Figure 5-17) have fewer moving parts and are much more fuel-efficient and less prone to breaking down than those with distributors",
+      "pages": [
+        118
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "distributorless ignition systems (see Figure 5-17) have fewer moving parts and are much more fuel-efficient and less prone to breaking down than those with distributors"
+      ]
+    },
+    {
+      "id": "ch05_short_043",
+      "question": "What is the typical input voltage range for an electronic coil module?",
+      "options": null,
+      "answer": "12 to 14 volts",
+      "pages": [
+        118
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "It transforms the relatively small amount of electrical voltage (12 to 14 volts) that it"
+      ]
+    },
+    {
+      "id": "ch05_short_044",
+      "question": "Describe the function of spark plug wires (or ignition cables) in an ignition system.",
+      "options": null,
+      "answer": "On most vehicles, a set of spark plug wires (sometimes called ignition cables) carries the high voltage to each spark plug.",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On most vehicles, a set of spark plug wires (sometimes called ignition cables) carries the high voltage to each spark plug."
+      ]
+    },
+    {
+      "id": "ch05_short_045",
+      "question": "Explain why a system with individual coils for each spark plug can be advantageous.",
+      "options": null,
+      "answer": "As a result, if one should misfire, all the others can carry on the job until the system is repaired.",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "As a result, if one should misfire, all the others can carry on the job until the system is repaired."
+      ]
+    },
+    {
+      "id": "ch05_short_046",
+      "question": "What type of vehicles commonly have distributors?",
+      "options": null,
+      "answer": "Vehicles built from the mid-1970s to the mid-1990s commonly have distributors.",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although most more recent vehicles don\u2019t have distributors, many built from the mid-1970s to the mid-1990s still have them."
+      ]
+    },
+    {
+      "id": "ch05_short_047",
+      "question": "Describe the path electricity takes when leaving the distributor to reach a spark plug.",
+      "options": null,
+      "answer": "Current enters and leaves the distributor via the coil and spark plug wires that run through holes in the cap to each spark plug.",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Current enters and leaves the distributor via the coil and spark plug wires that run through holes in the cap to each spark plug."
+      ]
+    },
+    {
+      "id": "ch05_short_048",
+      "question": "Explain the relationship between the rotor's position and the firing sequence of the spark plugs.",
+      "options": null,
+      "answer": "As the distributor shaft turns, the rotor rotates with it and points toward the terminal at the base of each spark plug wire so that each plug can fire in the correct order.",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "As the distributor shaft turns, the rotor rotates with it and points toward the terminal at the base of each spark plug wire so that each plug can fire in the correct order."
+      ]
+    },
+    {
+      "id": "ch05_short_049",
+      "question": "What component is responsible for signaling the ICM to initiate a spark?",
+      "options": null,
+      "answer": "The armature",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Each time one of the teeth on the armature passes the sensor, it creates voltage that signals an ignition con-trol module (ICM) to shut down the primary circuit in the coil."
+      ]
+    },
+    {
+      "id": "ch05_short_050",
+      "question": "Describe the role of the ignition control module.",
+      "options": null,
+      "answer": "The ignition control module triggers the ignition coil to fire high voltage.",
+      "pages": [
+        121
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ignition control module is a transistorized component that trig-gers the ignition coil to fire high voltage."
+      ]
+    },
+    {
+      "id": "ch05_short_052",
+      "question": "Explain why deciphering the meaning of Malfunction Indicator Lights can be challenging.",
+      "options": null,
+      "answer": "MILs can be so enigmatic about what\u2019s gone wrong \u2014 especially when the ominous words \u201cCheck Engine\u201d appear \u2014 that they can be very unsettling. That warning can apply to the engine, emissions, or accessories, so at first you can\u2019t know if it\u2019s just that your gas cap is loose or if major surgery is required.",
+      "pages": [
+        121
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "MILs can be so enigmatic about what\u2019s gone wrong \u2014 especially when the ominous words \u201cCheck Engine\u201d appear \u2014 that they can be very unsettling. That warning can apply to the engine, emissions, or accessories, so at first you can\u2019t know if it\u2019s just that your gas cap is loose or if major surgery is required."
+      ]
+    },
+    {
+      "id": "ch05_short_053",
+      "question": "Explain why checking your gas cap is a worthwhile step.",
+      "options": null,
+      "answer": "If you just left your gas cap loose, you can save yourself a lot of time and money.",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you just left your gas cap loose, you can save yourself a lot of time and money."
+      ]
+    },
+    {
+      "id": "ch05_short_054",
+      "question": "What information can the directional signal flashers provide?",
+      "options": null,
+      "answer": "They\u2019re also designed to provide clues to malfunctions elsewhere on your vehicle!",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "They\u2019re also designed to provide clues to malfunctions elsewhere on your vehicle!"
+      ]
+    },
+    {
+      "id": "ch05_short_055",
+      "question": "Why might consulting your owner's manual be helpful regarding fuses?",
+      "options": null,
+      "answer": "Your owner's manual should show you where the fuse boxes on your vehicle are.",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Your owner\u2019s manual should show you where the fuse boxes on your vehicle are"
+      ]
+    },
+    {
+      "id": "ch05_short_056",
+      "question": "What type of headlamp was common in older vehicles?",
+      "options": null,
+      "answer": "sealed-beam units",
+      "pages": [
+        123
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although vehicles with sealed-beam units and old-style light bulbs are still on the road..."
+      ]
+    },
+    {
+      "id": "ch05_short_057",
+      "question": "Describe one advantage of LED headlamps.",
+      "options": null,
+      "answer": "LED headlamps have the potential to outlive your vehicle.",
+      "pages": [
+        123
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Innovations that already exist and will become more widely available include ... lightweight LED headlamps that have the potential to outlive your vehicle."
+      ]
+    },
+    {
+      "id": "ch05_short_058",
+      "question": "What is a key difference between halogen and Xenon headlamps?",
+      "options": null,
+      "answer": "Xenon headlamps are brighter and use less power than halogens do.",
+      "pages": [
+        123
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "They\u2019re brighter and use less power than halogens do."
+      ]
+    },
+    {
+      "id": "ch05_true_false_001",
+      "question": "The ECU primarily manages the vehicle's mechanical components.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        106
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The engine control unit (ECU) is the most powerful computer on a vehicle. It uses a variety of sensors to monitor and control most of the engine functions of the car, including the electrical, fuel, and emissions control systems."
+      ]
+    },
+    {
+      "id": "ch05_true_false_002",
+      "question": "The ECU is a less powerful computer than the vehicle\u2019s entertainment system.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        106
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The engine control unit (ECU) is the most powerful computer on a vehicle."
+      ]
+    },
+    {
+      "id": "ch05_true_false_003",
+      "question": "The ECU contributes to optimizing fuel efficiency and vehicle performance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        106
+      ],
+      "confidence": 4.0,
+      "justification": "The ECU itself rarely malfunctions, is the key to the diagnostics that pinpoint problems, and is primarily responsible for managing the fuel efficiency and performance of your vehicle."
+    },
+    {
+      "id": "ch05_true_false_004",
+      "question": "The alternator\u2019s primary function is to provide initial power for engine startup.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        107
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The starting system, unsurprisingly, provides the initial power to get your engine started.",
+        "The charging system generates electrical power for the various systems in your vehicle that depend on electric current, and it regulates the power flowing to the battery to keep it from running down."
+      ]
+    },
+    {
+      "id": "ch05_true_false_005",
+      "question": "The charging system's main duty is to regulate the flow of power to the battery.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        107
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The charging system generates electrical power for the various systems in your vehicle that depend on electric current, and it regulates the power flowing to the battery to keep it from running down."
+      ]
+    },
+    {
+      "id": "ch05_true_false_006",
+      "question": "Spark plugs are responsible for storing electrical energy within the vehicle.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        107
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The battery stores excess current for future needs."
+      ]
+    },
+    {
+      "id": "ch05_true_false_007",
+      "question": "True or False: The car battery is solely responsible for powering the headlights.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The battery also stabilizes the voltage in the electrical system and provides current whenever the electrical demands exceed the output of the charging system."
+      ]
+    },
+    {
+      "id": "ch05_true_false_008",
+      "question": "True or False: You should attempt to repair the starter solenoid yourself.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Basically, all the solenoid does is pass the current along and move the starter gears into contact with the flywheel. You don\u2019t adjust or replace it unless it breaks down...and if they fail, they have to be replaced by a professional."
+      ]
+    },
+    {
+      "id": "ch05_true_false_009",
+      "question": "True or False: The car battery provides current when electrical demands are high.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The battery also stabilizes the voltage in the electrical system and provides current whenever the electrical demands exceed the output of the charging system."
+      ]
+    },
+    {
+      "id": "ch05_true_false_011",
+      "question": "True or False: It's a good idea to physically trace the path of the electric current.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        108
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because actually seeing and touching something is worth a thousand words, it\u2019s a good idea to take this book out to your vehicle and trace the path of the electric current to each part in the system."
+      ]
+    },
+    {
+      "id": "ch05_true_false_012",
+      "question": "The negative terminal is usually smaller than the positive terminal.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You can tell which is which because the positive terminal is usually larger and may have a \u201c+,\u201d \u201cPOS,\u201d or the word \u201cPositive\u201d on or near it. The negative terminal usually has \u201c\u2013\u201d or \u201cNEG\u201d on it."
+      ]
+    },
+    {
+      "id": "ch05_true_false_013",
+      "question": "Modern batteries generally require a lot of maintenance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Today, most batteries are sealed and don\u2019t require much maintenance."
+      ]
+    },
+    {
+      "id": "ch05_true_false_014",
+      "question": "Jump-start cables are often color-coded to assist with proper connections.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The clamps on the cables that you use to jump-start a dead battery are usually colored red and black so that you can easily match them to the terminals."
+      ]
+    },
+    {
+      "id": "ch05_true_false_015",
+      "question": "The wire from the negative terminal is never connected to the vehicle's frame.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        109
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Most vehicles are negative ground, which means that the wire from the nega-tive terminal is attached to the frame of the vehicle to ground it; the wire from the positive terminal leads to the starter, ignition, and so on."
+      ]
+    },
+    {
+      "id": "ch05_true_false_016",
+      "question": "The word \u201cPOS\u201d on a battery terminal indicates a negative charge.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        109
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "You can tell which is which because the positive terminal is usually larger and may have a \u201c+,\u201d \u201cPOS,\u201d or the word \u201cPositive\u201d on or near it. The negative terminal usually has \u201c\u2013\u201d or \u201cNEG\u201d on it."
+      ]
+    },
+    {
+      "id": "ch05_true_false_017",
+      "question": "True or False: The starter drive remains engaged with the flywheel once the engine starts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        110
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "As soon as the engine is started, the starter has done its job...the starter drive disengages from the flywheel, and your engine continues running..."
+      ]
+    },
+    {
+      "id": "ch05_true_false_018",
+      "question": "True or False: The starter is a component responsible for providing continuous power to the engine after it has started.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        110
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "As soon as the engine is started, the starter has done its job.",
+        "As your key returns to the \u201cOn\u201d (or \u201cRun\u201d) position...your engine continues running on the fuel and air that are being pumped into its cylinders."
+      ]
+    },
+    {
+      "id": "ch05_true_false_019",
+      "question": "True or False: The ring gear is bolted to the back of the engine crankshaft.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        110
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "It\u2019s an electri-cal motor with a gear called a starter drive at one end. The starter drive engages a ring gear on a flywheel that\u2019s bolted to the back of the engine crankshaft."
+      ]
+    },
+    {
+      "id": "ch05_true_false_020",
+      "question": "True or False: The starter drive spins the flywheel.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        110
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The starter drive engages a ring gear on a flywheel that\u2019s bolted to the back of the engine crankshaft. When you turn your key in the ignition switch (or push the ignition button on some vehi-cles), the starter drive slides down the shaft and engages the ring gear. This spins the flywheel, which starts the crankshaft turning so that the pistons can go up and down, the spark plugs can fire, and the engine can start run-ning."
+      ]
+    },
+    {
+      "id": "ch05_true_false_021",
+      "question": "True or False: A clicking noise typically indicates a problem with the starter itself.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        110
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\u201cbecause I don\u2019t know which gadget is the starter!\u201d He was nice\\n enough to keep from laughing, and I felt better\\n when the problem did turn out to be a loose wire\\n on the starter.\u201d"
+      ]
+    },
+    {
+      "id": "ch05_true_false_022",
+      "question": "Holding the key in the 'Start' position briefly will not cause damage to the starter.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        111
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Even though this one-way clutch prevents starter damage after the engine starts, it\u2019s not a good idea to hold the key in the \u201cStart\u201d position for more than ten seconds at a time when the engine is under its own power. If the vehicle doesn\u2019t start, allow the starter to cool down for one to two minutes before attempting to start it again. Failure to do so can overheat the starter and damage it."
+      ]
+    },
+    {
+      "id": "ch05_true_false_023",
+      "question": "Hybrid vehicles are completely silent when operating solely on their fuel-based engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        111
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "EVs run silently, and hybrids are silent when operating on the electric motor only (see Chapter 10)."
+      ]
+    },
+    {
+      "id": "ch05_true_false_024",
+      "question": "The charging system takes over operation once the engine has started.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        111
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When you let go of the key and your ignition switch moves from \u201cStart\u201d to \u201cOn,\u201d the electric current stops flowing to the starter but continues to flow through the charging system..."
+      ]
+    },
+    {
+      "id": "ch05_true_false_026",
+      "question": "Generators are commonly found in vehicles manufactured after 1964.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        112
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Generators are usually found on pre-1964 vehicles."
+      ]
+    },
+    {
+      "id": "ch05_true_false_027",
+      "question": "The alternator converts alternating current to direct current.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        112
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "An alternator produces alternating current (AC), which is internally con-verted to the direct current (DC) needed to drive various gadgets."
+      ]
+    },
+    {
+      "id": "ch05_true_false_028",
+      "question": "The battery replaces the electricity drawn by the alternator during operation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        112
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Figures 5-6 and 5-7) replaces the electricity that was taken from the battery when you started the car. Then, every time your battery sends out some of its \u201cjuice,\u201d the alternator replaces it."
+      ]
+    },
+    {
+      "id": "ch05_true_false_029",
+      "question": "Modern vehicles always use gauges called voltmeters to show the charging status.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although most cars just have dashboard \u201cidiot lights\u201d that go on if the alter-nator isn\u2019t functioning properly, some vehicles have gauges called voltmeters that show whether the system is charging or discharging."
+      ]
+    },
+    {
+      "id": "ch05_true_false_031",
+      "question": "Distributorless ignition systems require a distributor to send voltage to the spark plugs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        114
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Today\u2019s vehicles use an electronic distributorless ignition system, which, as the name implies, has no distributor at all."
+      ]
+    },
+    {
+      "id": "ch05_true_false_032",
+      "question": "Replacing components in older ignition systems is often less expensive than replacing components in modern electronic ignition systems.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        113
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Unlike older systems, except for the spark plugs, their com-\nponents don\u2019t need to be replaced unless they break down. The good news is\nthat they tend to be relatively trouble-free. The bad news is that if they do\nbreak down, you have to pay a professional to replace them."
+      ]
+    },
+    {
+      "id": "ch05_true_false_034",
+      "question": "The location of the cylinders is identical across all types of engines.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        114
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The location of the cylinders varies from one type of engine to another"
+      ]
+    },
+    {
+      "id": "ch05_true_false_035",
+      "question": "The cylinder sequence is constant regardless of whether a vehicle has front-wheel or rear-wheel drive.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        114
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The cylinder sequence of an engine is the order in which the cylinders of the engine are numbered. This sequence varies from one type of vehicle to another, depending on whether it has front-wheel drive or rear-wheel drive..."
+      ]
+    },
+    {
+      "id": "ch05_true_false_036",
+      "question": "A V-type engine has cylinders arranged in two parallel rows.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        89
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "or a V-type engine, with the cylinders in two parallel rows."
+      ]
+    },
+    {
+      "id": "ch05_true_false_037",
+      "question": "In all vehicle types, the #1 cylinder is always located at the front of the engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        115,
+        116
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In all U.S.-made in-line 4- and 6-cylinder vehicles with rear-wheel drive, the cylinder nearest the front is called the #1 cylinder.",
+        "Some foreign automakers reverse the cylinder sequence. As you can see in Figure 5-12, the #1 cylinder is at the rear, near the firewall."
+      ]
+    },
+    {
+      "id": "ch05_true_false_039",
+      "question": "The location of the #1 cylinder in foreign-made vehicles is universally consistent.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        115
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Some foreign automakers reverse the cylinder sequence. As you can see in Figure 5-12, the #1 cylinder is at the rear, near the firewall. If you have a foreign car and no owner\u2019s manual, ask your local dealer where your #1 cylinder is."
+      ]
+    },
+    {
+      "id": "ch05_true_false_040",
+      "question": "The cylinder sequence and firing order are always identical.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        117
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Don\u2019t confuse cylinder sequence with firing order."
+      ]
+    },
+    {
+      "id": "ch05_true_false_041",
+      "question": "The location of the #1 spark plug is always the same, regardless of engine type.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        117
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "no matter what the engine configuration, the #1 spark plug is always the spark plug in the #1 cylinder"
+      ]
+    },
+    {
+      "id": "ch05_true_false_042",
+      "question": "Firing order is designed to create a less stable engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        117
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To avoid this, the firing order is carefully arranged to distribute the shock of combustion evenly throughout the engine.",
+        "The result is a fairly stable engine."
+      ]
+    },
+    {
+      "id": "ch05_true_false_043",
+      "question": "Distributorless ignition systems are commonly found in vehicles manufactured before the mid-1990s.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        118
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Found in most vehicles from the mid-1990s on, distributorless ignition sys-"
+      ]
+    },
+    {
+      "id": "ch05_true_false_044",
+      "question": "The ignition control module manages the timing of spark plug ignition in distributorless systems.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        118
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In all distributorless ignition systems, the ECU or a dedicated ignition control module (ICM) controls when the spark plugs fire and ignite the fuel\/air mix-ture in the cylinders, which provide the power that propels the vehicle."
+      ]
+    },
+    {
+      "id": "ch05_true_false_045",
+      "question": "Electronic coil modules perform a similar function as ignition coils and distributors in older vehicles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        118
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The electronic coil module does the same thing in a much more sophisticated way as the ignition coils and distributor on older vehicles did: It transforms the relatively small amount of electrical voltage (12 to 14 volts) that it"
+      ]
+    },
+    {
+      "id": "ch05_true_false_046",
+      "question": "A camshaft position sensor only assists in firing spark plugs at the correct time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It helps the spark plugs to fire at the right time, provides the data to synchronize the fuel injectors, and identifies misfiring cylinders."
+      ]
+    },
+    {
+      "id": "ch05_true_false_047",
+      "question": "Replacing a distributor is typically a task that a professional should handle.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The bad news is that if they break down, you have to pay a professional to replace them."
+      ]
+    },
+    {
+      "id": "ch05_true_false_048",
+      "question": "Electronic ignition systems do not rely on any sensors.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        119
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "An electronic ignition system relies on a number of electronic sensing devices that feed information to the ECU, or a dedicated ignition control module (ICM)."
+      ]
+    },
+    {
+      "id": "ch05_true_false_049",
+      "question": "The rotor\u2019s position directly determines when fuel is injected into the cylinders.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "when the rotor\u2019s pointing at the terminal of the wire lead-ing to the #1 spark plug, it directs the current to that spark plug at pre-cisely the time when the fuel\/air mixture in the #1 cylinder is waiting to be burned."
+      ]
+    },
+    {
+      "id": "ch05_true_false_050",
+      "question": "The distributor cap is primarily responsible for creating high voltage electricity.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\"Current enters and leaves the distributor via the coil and spark plug wires that run through holes in the cap to each spark plug.\""
+      ]
+    },
+    {
+      "id": "ch05_true_false_051",
+      "question": "The armature\u2019s rotation generates voltage, which influences the ICM.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Each time one of the teeth on the armature passes the sensor, it creates voltage that signals an ignition con-trol module (ICM) to shut down the primary circuit in the coil."
+      ]
+    },
+    {
+      "id": "ch05_true_false_052",
+      "question": "The ECM directly controls the rotor's rotation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        120
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The armature (refer to Figure 5-18) sits inside the distributor, revolving past a sensor called the pickup coil. Each time one of the teeth on the armature passes the sensor, it creates voltage that signals an ignition control module (ICM) to shut down the primary circuit in the coil.",
+        "The armature ... signals an ignition control module (ICM) to shut down the primary circuit in the coil."
+      ]
+    },
+    {
+      "id": "ch05_true_false_053",
+      "question": "Dashboard gauges in modern vehicles are becoming obsolete and are replaced by warning lights.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        121
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Until fairly recently, vehicles were equipped with either dashboard gauges that monitored your vehicle\u2019s temperature, oil pressure, charging system, and fuel level; or warning lights that told you something bad had already occurred in one of these areas"
+      ]
+    },
+    {
+      "id": "ch05_true_false_054",
+      "question": "A pick-up coil utilizes a magnetic pulse to signal when to fire spark plugs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        121
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A pick-up coil is a magnetic pulse generator that tells the ignition con-trol module when to fire the spark plugs."
+      ]
+    },
+    {
+      "id": "ch05_true_false_055",
+      "question": "Malfunction Indicator Lights always provide a clear and specific explanation of the problem.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        121
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The only trouble is that MILs can be so enigmatic about what\u2019s gone wrong \u2014 especially when the ominous words \u201cCheck Engine\u201d appear \u2014 that they can be very unsettling."
+      ]
+    },
+    {
+      "id": "ch05_true_false_056",
+      "question": "It is recommended to always attempt complex vehicle repairs yourself to save money.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        122
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "However, because the MIL report the findings of the electronic sensors that\\nconstantly monitor your vehicle\u2019s airbags, traction control, ABS system,\\nECU, transmission, and other vital systems \u2014 all of which you can\u2019t work on\\nyourself"
+      ]
+    },
+    {
+      "id": "ch05_true_false_057",
+      "question": "The MIL monitors systems that are generally not accessible for self-repair.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "However, because the MIL report the findings of the electronic sensors that constantly monitor your vehicle\u2019s airbags, traction control, ABS system, ECU, transmission, and other vital systems \u2014 all of which you can\u2019t work on yourself"
+      ]
+    },
+    {
+      "id": "ch05_true_false_058",
+      "question": "Checking windshield wipers is a task that can typically be handled by the vehicle owner.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        122
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Windshield wipers need to be checked and their blades replaced periodically. Chapter 2 provides tips on checking and replacing your windshield wiper blades and windshield washer fluid."
+      ]
+    },
+    {
+      "id": "ch05_true_false_059",
+      "question": "Vehicles equipped with sealed-beam units are no longer on the roads.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        123
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although vehicles with sealed-beam units and old-style light bulbs are still on the road, more modern vehicles have headlamps filled with halogen or Xenon gas."
+      ]
+    },
+    {
+      "id": "ch05_true_false_060",
+      "question": "Xenon headlamps are also referred to as HID lamps.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        123
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The Xenon headlamps are also known as HID (high intensity discharge) lamps."
+      ]
+    },
+    {
+      "id": "ch05_true_false_061",
+      "question": "LED headlamps typically consume more power than halogen lamps.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        123
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although vehicles with sealed-beam units and old-style light bulbs are still on the road, more modern vehicles have headlamps filled with halogen or Xenon gas. The Xenon headlamps are also known as HID (high intensity discharge) lamps. They\u2019re brighter and use less power than halogens do."
+      ]
+    }
+  ]
+}

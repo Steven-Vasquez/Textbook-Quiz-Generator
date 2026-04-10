@@ -1,0 +1,2952 @@
+{
+  "chapter_key": "Chapter_7_The_Traditional_Fuel_System_The_Heart_and_Lungs_of_Your_Car",
+  "chapter_id": "ch07",
+  "title": "Chapter 7 The Traditional Fuel System: The Heart and Lungs of Your Car",
+  "answers": [
+    {
+      "id": "ch07_mcq_001",
+      "question": "What is the primary function of a traditional fuel system?",
+      "options": [
+        "To generate electricity for the vehicle",
+        "To manage the vehicle's cooling system",
+        "To store and deliver fuel to the engine's combustion chambers",
+        "To control the vehicle's steering and braking"
+      ],
+      "answer": "To store and deliver fuel to the engine's combustion chambers",
+      "pages": [        
+        150
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The fuel system shown in Figure 7-1 stores and delivers fuel to the combustion cham-bers of the engine so that it can be burned efficiently."
+      ]
+    },
+    {
+      "id": "ch07_mcq_002",
+      "question": "Vehicles manufactured prior to which timeframe typically utilized carburetors?",
+      "options": [
+        "The early 1990s",
+        "The early 2000s",
+        "The late 1970s",
+        "The mid-1980s"
+      ],
+      "answer": "The mid-1980s",
+      "pages": [
+        150
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "vehicles built before the mid-1980s usually relied on carburetors"
+      ]
+    },
+    {
+      "id": "ch07_mcq_004",
+      "question": "Hybrid vehicles can utilize which power source to supplement a gasoline engine?",
+      "options": [
+        "Biodiesel",
+        "Hydrogen",
+        "Natural gas",
+        "Electric motors"
+      ],
+      "answer": "Electric motors",
+      "pages": [
+        150
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "There are hybrid vehicles that generate their own power, so they can use electric motors to augment traditional gasoline engines when necessary and can even run on all-electric power at times."
+      ]
+    },
+    {
+      "id": "ch07_mcq_005",
+      "question": "Which of the following components is responsible for controlling fuel\/air mixture and other fuel system operations in modern vehicles?",
+      "options": [
+        "Fuel Tank",
+        "Fuel Line",
+        "Mass Air Flow Meter",
+        "Engine Control Unit (ECU)"
+      ],
+      "answer": "Engine Control Unit (ECU)",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": "On modern vehicles, the fuel system \u2014 along with most other systems \u2014 is controlled by the engine control unit (ECU). The ECU controls the fuel\/air mixture and other fuel system operations based on inputs from a mass air flow meter, a throttle position sensor, and an oxygen sensor."
+    },
+    {
+      "id": "ch07_mcq_006",
+      "question": "Where is the fuel tank typically located?",
+      "options": [
+        "Inside the engine",
+        "Under the hood",
+        "Attached to the air cleaner",
+        "Under the trunk compartment"
+      ],
+      "answer": "Under the trunk compartment",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The fuel tank is a metal or plastic composite container that\u2019s usually located\nunder the trunk compartment (refer to Figure 7-1), although some vehicles"
+      ]
+    },
+    {
+      "id": "ch07_mcq_007",
+      "question": "What is the purpose of a mass air flow meter in a fuel system?",
+      "options": [
+        "To control the fuel\/air mixture",
+        "To filter the air",
+        "To store the fuel",
+        "To pump fuel to the engine"
+      ],
+      "answer": "To control the fuel\/air mixture",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": "The ECU controls the fuel\/air mixture and other fuel system operations based on inputs from a mass air flow meter, a throttle position sensor, and an oxygen sensor."
+    },
+    {
+      "id": "ch07_mcq_008",
+      "question": "Which of the following best describes a common element found in fuel systems regardless of vehicle age or fuel delivery method?",
+      "options": [
+        "A Carburetor",
+        "An Engine Control Unit (ECU)",
+        "Basic components",
+        "Fuel injectors"
+      ],
+      "answer": "Basic components",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Whether your vehicle is more than 20 years old or just 20 days old, has fuel injectors or a carburetor, it probably has the same basic parts in its fuel system with one exception"
+      ]
+    },
+    {
+      "id": "ch07_mcq_009",
+      "question": "What type of material might be used to construct a fuel tank?",
+      "options": [
+        "Glass",
+        "Metal or plastic composite",
+        "Rubber",
+        "Wood"
+      ],
+      "answer": "Metal or plastic composite",
+      "pages": [
+        151
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The fuel tank is a metal or plastic composite container"
+      ]
+    },
+    {
+      "id": "ch07_mcq_010",
+      "question": "What determines the position of the float inside a fuel tank?",
+      "options": [
+        "The level of fuel in the tank.",
+        "The pressure within the fuel lines.",
+        "The ambient temperature.",
+        "The color of the fuel."
+      ],
+      "answer": "The level of fuel in the tank.",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Inside the fuel tank is a little float that moves up and down as the fuel level in the tank increases or decreases."
+      ]
+    },
+    {
+      "id": "ch07_mcq_011",
+      "question": "What is the primary function of a fuel pump?",
+      "options": [
+        "To deliver fuel from the tank to the engine.",
+        "To measure the amount of fuel in the tank.",
+        "To filter impurities from the fuel.",
+        "To indicate fuel levels on the dashboard."
+      ],
+      "answer": "To deliver fuel from the tank to the engine.",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The fuel pump (see Figure 7-2) pumps fuel through the fuel lines that run under your vehicle from the fuel tank to the fuel injectors (or to the carburetor on older vehicles)."
+      ]
+    },
+    {
+      "id": "ch07_mcq_012",
+      "question": "Where is an electric fuel pump most commonly located?",
+      "options": [
+        "Under the hood.",
+        "Connected to the fuel injectors.",
+        "Inside the engine.",
+        "In or near the fuel tank."
+      ],
+      "answer": "In or near the fuel tank.",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": "Engines with fuel injection use an electric fuel pump that may be located in or near the fuel tank."
+    },
+    {
+      "id": "ch07_mcq_013",
+      "question": "What does a fuel level sensor do?",
+      "options": [
+        "It pressurizes the fuel lines.",
+        "It filters debris from the fuel.",
+        "It regulates the flow of fuel to the engine.",
+        "It sends a signal to the dashboard to display fuel levels."
+      ],
+      "answer": "It sends a signal to the dashboard to display fuel levels.",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": "Its position relative to the top of the tank is picked up by a sensor that sends an electronic signal from the tank to the fuel gauge on your dashboard so that you can tell when you have to buy more fuel."
+    },
+    {
+      "id": "ch07_mcq_014",
+      "question": "What is a key difference between fuel pumps in carbureted and fuel-injected vehicles?",
+      "options": [
+        "Fuel-injected vehicles have pumps located under the hood.",
+        "Carbureted vehicles use mechanical pumps; fuel-injected vehicles use electric pumps.",
+        "Carbureted vehicles use electric pumps; fuel-injected vehicles use mechanical pumps.",
+        "Carbureted vehicles have larger pumps."
+      ],
+      "answer": "Carbureted vehicles use mechanical pumps; fuel-injected vehicles use electric pumps.",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On most carbureted vehicles, a mechanical pump is under the hood. (On most carbureted vehicles, a mechanical pump is under the hood.) Engines with fuel injection use an electric fuel pump that may be located in or near the fuel tank."
+      ]
+    },
+    {
+      "id": "ch07_mcq_015",
+      "question": "Why might a mechanic need a hoist when inspecting a fuel pump?",
+      "options": [
+        "The fuel pump is often located in a difficult-to-reach position.",
+        "Mechanics prefer to use hoists for all vehicle repairs.",
+        "Fuel pumps are typically exposed and easily accessible.",
+        "Fuel pumps are always connected to the engine block."
+      ],
+      "answer": "The fuel pump is often located in a difficult-to-reach position.",
+      "pages": [
+        153
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Most fuel pumps are located inside the fuel tank or so far under the vehicle that you can\u2019t reach them easily without a hoist or crawling under your vehicle"
+      ]
+    },
+    {
+      "id": "ch07_mcq_016",
+      "question": "What is the primary function of a fuel filter?",
+      "options": [
+        "To remove impurities from the fuel.",
+        "To provide lubrication for the fuel pump.",
+        "To store fuel for later use.",
+        "To regulate the speed of the engine."
+      ],
+      "answer": "To remove impurities from the fuel.",
+      "pages": [
+        153
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Fuel filters do exactly what their name implies \u2014 they filter impurities out of the fuel."
+      ]
+    },
+    {
+      "id": "ch07_mcq_017",
+      "question": "What potential problem can arise from frequently driving with a nearly empty fuel tank?",
+      "options": [
+        "Reduced emissions.",
+        "Increased engine power.",
+        "Rust formation and fuel contamination.",
+        "Improved fuel efficiency."
+      ],
+      "answer": "Rust formation and fuel contamination.",
+      "pages": [
+        153
+      ],
+      "confidence": 3.0,
+      "justification": "If you drive around most of the time with a near-empty fuel tank, the water in the air inside the tank may cause rust to form, contaminate your fuel, and foul up your fuel filter and possibly the fuel injectors."
+    },
+    {
+      "id": "ch07_mcq_018",
+      "question": "Why might it be more cost-effective to replace a fuel pump rather than having it rebuilt?",
+      "options": [
+        "New fuel pumps are always guaranteed to last longer.",
+        "Rebuilding a fuel pump is generally less expensive.",
+        "Rebuilt pumps are always of higher quality.",
+        "Rebuilding costs can exceed the cost of a new pump."
+      ],
+      "answer": "Rebuilding costs can exceed the cost of a new pump.",
+      "pages": [
+        153
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your fuel pump does need replacing, ask your service facility to replace it with a new one, as their charges for rebuilding yours would probably be more expensive than for just installing a new one."
+      ]
+    },
+    {
+      "id": "ch07_mcq_019",
+      "question": "What is the primary function of an air filter in a gasoline engine?",
+      "options": [
+        "To remove dirt and dust particles from the air.",
+        "To mix air and fuel.",
+        "To house the carburetor.",
+        "To regulate the vehicle's warranty."
+      ],
+      "answer": "To remove dirt and dust particles from the air.",
+      "pages": [
+        154
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The air filter removes dirt and dust par- ticles before they can enter the combustion chamber."
+      ]
+    },
+    {
+      "id": "ch07_mcq_020",
+      "question": "What is a common characteristic of air filters in older vehicles?",
+      "options": [
+        "They are housed in large, round air cleaners.",
+        "They are regularly replaced every 20,000 miles.",
+        "They are rectangular and located near the front of the engine compartment.",
+        "They are found within the intake and exhaust manifolds."
+      ],
+      "answer": "They are housed in large, round air cleaners.",
+      "pages": [
+        154
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In the \u201colden days,\u201d most air filters were inside large, round air cleaners that sat on top of the carbure-tor."
+      ]
+    },
+    {
+      "id": "ch07_mcq_021",
+      "question": "Where is the cold air collector box typically located?",
+      "options": [
+        "Within the exhaust manifold.",
+        "Near the front of the engine compartment.",
+        "Inside the air filter.",
+        "Inside the carburetor."
+      ],
+      "answer": "Near the front of the engine compartment.",
+      "pages": [
+        154
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Today\u2019s fuel-injected engines have a rectangular air filter inside a cold air\ncollector box located near the front of the engine compartment; see Figure 7-4."
+      ]
+    },
+    {
+      "id": "ch07_mcq_022",
+      "question": "How often should an air filter be replaced?",
+      "options": [
+        "At least once a year or every 20,000 miles.",
+        "Every time the vehicle's warranty expires.",
+        "Every 5,000 miles.",
+        "Only when the engine starts to overheat."
+      ],
+      "answer": "At least once a year or every 20,000 miles.",
+      "pages": [
+        154
+      ],
+      "confidence": 3.0,
+      "justification": "To keep your engine functioning efficiently, be sure to check your air filter regularly as part of the under-the-hood check that I cover in Chapter 2, and replace it at least once a year or every 20,000 miles, whichever comes first."
+    },
+    {
+      "id": "ch07_mcq_023",
+      "question": "What is the primary reason air is a necessary component in the combustion process?",
+      "options": [
+        "Air allows gasoline to ignite.",
+        "Liquid gasoline can ignite on its own.",
+        "Air provides structural support to the engine.",
+        "Air provides lubrication for the engine."
+      ],
+      "answer": "Air allows gasoline to ignite.",
+      "pages": [
+        155
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "it\u2019s because liquid gasoline won\u2019t ignite on its own. The only way to get gasoline to ignite is to mix it with air \u2014 hence the need for the fuel\/air mixture."
+      ]
+    },
+    {
+      "id": "ch07_mcq_024",
+      "question": "What is the function of the exhaust manifold?",
+      "options": [
+        "To hold air under vacuum.",
+        "To carry waste gases away from the engine.",
+        "To mix fuel and air.",
+        "To admit fuel into the combustion chamber."
+      ],
+      "answer": "To carry waste gases away from the engine.",
+      "pages": [
+        155
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "After the fuel\/air mixture is burned in the engine, another set of manifold pipes, called the exhaust man-\nifold, carries carbon monoxide and other waste gases away from the engine through the exhaust system for disposal."
+      ]
+    },
+    {
+      "id": "ch07_mcq_025",
+      "question": "Why is it dangerous to handle nearly empty gasoline cans?",
+      "options": [
+        "They are made of unstable materials.",
+        "They are likely to leak.",
+        "They contain a potentially explosive mixture of gasoline vapor and air.",
+        "They are extremely heavy."
+      ],
+      "answer": "They contain a potentially explosive mixture of gasoline vapor and air.",
+      "pages": [
+        155
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The explosive nature of fuel and air together is why so many accidents occur with near-empty gasoline cans...An air and gasoline vapor combination is more explosive than TNT!",
+        "Even a seemingly empty can still contains gasoline vapor, and you need only one part of gasoline to 2,000 parts of air by volume to get a combustible mixture! Any kind of spark can set it off."
+      ]
+    },
+    {
+      "id": "ch07_mcq_027",
+      "question": "Approximately when did vehicle manufacturers cease using carburetors?",
+      "options": [
+        "1980",
+        "2000",
+        "1990",
+        "1985"
+      ],
+      "answer": "1990",
+      "pages": [
+        155
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Just about every new vehicle is fuel-injected. (The last carbureted vehicles came off the assembly line in 1990.)"
+      ]
+    },
+    {
+      "id": "ch07_mcq_028",
+      "question": "What is the primary function of the ECU in a fuel injection system?",
+      "options": [
+        "To adjust the engine\u2019s coolant temperature",
+        "To determine the optimal amount of fuel to mix with air",
+        "To replace the role of the throttle body assembly",
+        "To physically spray fuel into the engine cylinders"
+      ],
+      "answer": "To determine the optimal amount of fuel to mix with air",
+      "pages": [
+        156
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ECU\u2019s injector driver uses all this information to figure out just how much fuel to spray into each cylinder to mix with the air to get the optimum power to drive the piston."
+      ]
+    },
+    {
+      "id": "ch07_mcq_030",
+      "question": "What is 'injector pulse width'?",
+      "options": [
+        "The diameter of the spray tip",
+        "The amount of time the ECU keeps the current applied to the injector",
+        "The pressure of the fuel entering the injector",
+        "The physical length of the fuel injector"
+      ],
+      "answer": "The amount of time the ECU keeps the current applied to the injector",
+      "pages": [
+        156
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The amount of time that the ECU keeps the current applied to the injector is known as the injector pulse width."
+      ]
+    },
+    {
+      "id": "ch07_mcq_031",
+      "question": "What is a key difference between multi-port fuel injection and throttle-body fuel injection?",
+      "options": [
+        "Multi-port systems are located inside the throttle body, while throttle-body systems are in the intake port",
+        "Multi-port systems require more manual adjustments than throttle-body systems",
+        "Multi-port systems have a separate injector for each cylinder, while throttle-body systems do not",
+        "Throttle-body systems are more modern, while multi-port systems are older"
+      ],
+      "answer": "Multi-port systems are located in the intake port just ahead of the intake valve. The earlier throttle-body fuel injection systems are located inside the throttle body assembly",
+      "pages": [
+        156
+      ],
+      "confidence": 3.0,
+      "justification": "Modern multi-port injection systems are located in the intake port just ahead of the intake valve. The earlier throttle-body fuel injection systems are located inside the throttle body assembly"
+    },
+    {
+      "id": "ch07_mcq_032",
+      "question": "What component within a fuel injector is directly controlled by the ECU\u2019s injector driver?",
+      "options": [
+        "The fuel filter",
+        "The solenoid",
+        "The spring",
+        "The plunger"
+      ],
+      "answer": "The solenoid",
+      "pages": [
+        156
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ECU\u2019s injector driver uses all this information to figure out just how much fuel to spray into each cylinder to mix with the air to get the optimum power to drive the piston.",
+        "A transistor turns the injector on by completing a circuit to allow electric current to flow through a solenoid in the injector."
+      ]
+    },
+    {
+      "id": "ch07_mcq_033",
+      "question": "What is the primary function of the fuel rail assembly?",
+      "options": [
+        "To regulate engine temperature.",
+        "To pump fuel from the fuel tank.",
+        "To filter fuel before it reaches the injectors.",
+        "To carry fuel under pressure to the fuel injectors."
+      ],
+      "answer": "To carry fuel under pressure to the fuel injectors.",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Here\u2019s how multi-port fuel injection systems work: ... which carries fuel under pressure to the fuel injectors (see Figure 7-6)."
+      ]
+    },
+    {
+      "id": "ch07_mcq_034",
+      "question": "What is the purpose of the fuel pressure regulator?",
+      "options": [
+        "To monitor the temperature of the fuel.",
+        "To maintain proper fuel pressure and return unused fuel.",
+        "To control the sequence of injector firing.",
+        "To increase fuel flow to the engine."
+      ],
+      "answer": "To maintain proper fuel pressure and return unused fuel.",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "which maintains proper fuel pressure and meters unused fuel back to the fuel tank."
+      ]
+    },
+    {
+      "id": "ch07_mcq_036",
+      "question": "What is the advantage of sequential fuel injection compared to older fuel injection systems?",
+      "options": [
+        "Reduced exhaust emissions",
+        "Lower engine noise",
+        "Faster engine acceleration",
+        "Greater fuel economy"
+      ],
+      "answer": "Greater fuel economy",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "This information makes the system respond faster and results in greater fuel economy than older vehicles achieved with throttle-body fuel injection"
+      ]
+    },
+    {
+      "id": "ch07_mcq_037",
+      "question": "What happens during sequential fuel injection?",
+      "options": [
+        "Injectors fire in a specific order relative to valve openings.",
+        "Fuel is directly injected into the fuel tank.",
+        "All injectors fire simultaneously.",
+        "Injectors fire in a random order."
+      ],
+      "answer": "Injectors fire in a specific order relative to valve openings.",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because each injector opens individually just before its intake valve opens, the fuel is always sprayed right into an open port and therefore stays in suspension."
+      ]
+    },
+    {
+      "id": "ch07_mcq_042",
+      "question": "What does the text suggest is a long-term outcome of increasingly computerized vehicle components?",
+      "options": [
+        "Simplified engine design",
+        "Easier repairs for technicians",
+        "Lower initial vehicle cost",
+        "A shift towards wizardry for automotive service"
+      ],
+      "answer": "A shift towards wizardry for automotive service",
+      "pages": [
+        158
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\u201cAt that point, when things go wrong, I\u2019ll probably have to seek the services of a wizard rather than a technician!\u201d"
+      ]
+    },
+    {
+      "id": "ch07_mcq_043",
+      "question": "What is a key distinction between throttle-body fuel injection and later multi-port fuel injection systems?",
+      "options": [
+        "Throttle-body injection mixes fuel and air before the engine.",
+        "Multi-port injection uses carburetors.",
+        "Throttle-body injection is more efficient.",
+        "Throttle-body injection is more complex."
+      ],
+      "answer": "Throttle-body injection mixes fuel and air before the engine.",
+      "pages": [
+        159
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Instead of using individual fuel injectors to pump the fuel into each cylinder, the TBI system mixes the fuel and air together right in the throttle assembly of the vehicle."
+      ]
+    },
+    {
+      "id": "ch07_mcq_044",
+      "question": "What is the primary function of the fuel pressure regulator in a throttle-body fuel injection system?",
+      "options": [
+        "To monitor air flow.",
+        "To spray fuel directly into each cylinder.",
+        "To maintain proper fuel pressure and return excess fuel.",
+        "To control the injector pulse width."
+      ],
+      "answer": "To maintain proper fuel pressure and return excess fuel.",
+      "pages": [
+        159
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The fuel pressure regulator maintains proper fuel pressure and meters unused fuel back to the fuel tank."
+      ]
+    },
+    {
+      "id": "ch07_mcq_045",
+      "question": "What component controls the duration that fuel is injected into the airstream?",
+      "options": [
+        "Engine control unit (ECU)",
+        "Fuel pump",
+        "Air flow sensor",
+        "Fuel pressure regulator"
+      ],
+      "answer": "Engine control unit (ECU)",
+      "pages": [
+        159
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A computer controls one or two fuel injectors mounted in the throttle body assembly. The computer applies electrical current to the injector solenoid for the proper duration (called the injector pulse width), and fuel under pressure is then injected and mixed with air as it passes through the throttle on its way to the engine."
+      ]
+    },
+    {
+      "id": "ch07_mcq_046",
+      "question": "What is 'injector pulse width'?",
+      "options": [
+        "The pressure of fuel returning to the fuel tank",
+        "The duration of electrical current applied to the injector solenoid",
+        "The rate of airflow through the throttle body",
+        "The amount of fuel in the fuel tank"
+      ],
+      "answer": "The duration of electrical current applied to the injector solenoid",
+      "pages": [
+        159
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The computer applies electrical current to the injector solenoid for the proper duration (called the injector pulse width), and fuel under pressure is then injected and mixed with air as it passes through the throttle on its way to the engine."
+      ]
+    },
+    {
+      "id": "ch07_mcq_047",
+      "question": "What is the function of a fuel pump in this system?",
+      "options": [
+        "To control the throttle position.",
+        "To measure the temperature of the engine.",
+        "To supply fuel to the throttle body assembly.",
+        "To regulate the air-fuel mixture."
+      ],
+      "answer": "To supply fuel to the throttle body assembly.",
+      "pages": [
+        159
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "1. An electrical fuel pump pumps fuel to the throttle body assembly."
+      ]
+    },
+    {
+      "id": "ch07_mcq_048",
+      "question": "What is the primary function of the cylinder heads?",
+      "options": [
+        "To hold the engine block",
+        "To contain the pistons",
+        "To manage valve openings and closings",
+        "To control the spark plugs"
+      ],
+      "answer": "To manage valve openings and closings",
+      "pages": [
+        160
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "These contain the mechanisms that allow the valves to open and close, letting the fuel\/air mixture into the cylinders and allowing the burnt exhaust gases to leave."
+      ]
+    },
+    {
+      "id": "ch07_mcq_049",
+      "question": "What is the purpose of a spark plug's electrodes?",
+      "options": [
+        "To regulate the fuel\/air mixture",
+        "To provide the ignition spark",
+        "To exhaust burnt gases",
+        "To control valve timing"
+      ],
+      "answer": "To provide the ignition spark",
+      "pages": [
+        160
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The spark plugs are ready to provide that all-important spark of ignition"
+      ]
+    },
+    {
+      "id": "ch07_mcq_050",
+      "question": "What is a key characteristic of engines found in vehicles with front-wheel drive?",
+      "options": [
+        "Cylinders run front to back",
+        "Cylinders are arranged sideways",
+        "Cylinders are vertically stacked",
+        "Cylinders are externally visible"
+      ],
+      "answer": "Cylinders are arranged sideways",
+      "pages": [
+        161
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On other vehicles, particularly those with front-wheel drive, the cylinders in the engine are set sideways, parallel to the wheels."
+      ]
+    },
+    {
+      "id": "ch07_mcq_051",
+      "question": "What does a 'transverse engine' describe?",
+      "options": [
+        "An engine running sideways",
+        "An engine with multiple cylinders",
+        "An engine running lengthwise",
+        "An engine with a complex exhaust system"
+      ],
+      "answer": "An engine running sideways",
+      "pages": [
+        161
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On other vehicles, particularly those with front-wheel drive, the cylinders in the engine are set sideways, parallel to the wheels. These engines are called transverse engines (see Figure 7-10)."
+      ]
+    },
+    {
+      "id": "ch07_mcq_052",
+      "question": "What is located within the engine block?",
+      "options": [
+        "The fuel tank",
+        "The crankcase",
+        "The spark plugs",
+        "The cylinders"
+      ],
+      "answer": "The cylinders",
+      "pages": [
+        160
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Below the cylinder heads is the engine block itself. This piece contains the cylinders, which contain the pistons."
+      ]
+    },
+    {
+      "id": "ch07_mcq_053",
+      "question": "Engines with a single row of cylinders are commonly referred to as what type of engine?",
+      "options": [
+        "Diesel",
+        "Rotary",
+        "In-line",
+        "V-type"
+      ],
+      "answer": "In-line",
+      "pages": [
+        162
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Engines that have a single row of cylinders are called in-line engines (some-times called straight engines)."
+      ]
+    },
+    {
+      "id": "ch07_mcq_054",
+      "question": "What is the purpose of the piston rings?",
+      "options": [
+        "To control the flow of coolant",
+        "To ensure a snug fit against the cylinder walls",
+        "To create a vacuum during the intake stroke",
+        "To open and close the valves"
+      ],
+      "answer": "To ensure a snug fit against the cylinder walls",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Inside each cylinder is a metal piston that fits snugly against the walls of the cylinder so that nothing can get past it. On the outside of the piston are piston rings that ensure a snug fit."
+      ]
+    },
+    {
+      "id": "ch07_mcq_055",
+      "question": "What component is responsible for turning the piston\u2019s up-and-down movement into rotational motion?",
+      "options": [
+        "The crankshaft",
+        "The oil pan",
+        "The rotor",
+        "The connecting rod"
+      ],
+      "answer": "The crankshaft",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The piston rides up and down inside the cylinder on a connecting rod that attaches to the crankshaft, causing the crankshaft to turn."
+      ]
+    },
+    {
+      "id": "ch07_mcq_056",
+      "question": "What is located within the crankcase?",
+      "options": [
+        "The rotor",
+        "The spark plug",
+        "The intake valves",
+        "The crankshaft and oil pan"
+      ],
+      "answer": "The crankshaft and oil pan",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "At the bottom of the engine is the crankcase, which houses the crankshaft and the oil pan."
+      ]
+    },
+    {
+      "id": "ch07_mcq_057",
+      "question": "During which stroke does a vacuum form in the top portion of the cylinder?",
+      "options": [
+        "Power stroke",
+        "Exhaust stroke",
+        "Compression stroke",
+        "Intake stroke"
+      ],
+      "answer": "Intake stroke",
+      "pages": [
+        162
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "When the piston moves down, it creates a vacuum in the top portion of the cylinder (where the piston was at the end of its last upstroke)."
+      ]
+    },
+    {
+      "id": "ch07_mcq_058",
+      "question": "What is the primary function of the exhaust valve?",
+      "options": [
+        "To allow exhaust gases to leave the combustion chamber",
+        "To ignite the air-fuel mixture",
+        "To draw air into the combustion chamber",
+        "To control the flow of fuel into the engine"
+      ],
+      "answer": "To allow exhaust gases to leave the combustion chamber",
+      "pages": [
+        163
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Exhaust valve"
+      ]
+    },
+    {
+      "id": "ch07_mcq_059",
+      "question": "Which component is responsible for converting the reciprocating motion of the piston into rotational motion?",
+      "options": [
+        "Spark plug",
+        "Crankshaft",
+        "Connecting rod",
+        "Intake manifold"
+      ],
+      "answer": "Crankshaft",
+      "pages": [
+        163
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Crankshaft"
+      ]
+    },
+    {
+      "id": "ch07_mcq_060",
+      "question": "What is the role of the intake manifold?",
+      "options": [
+        "To deliver air to the combustion chamber",
+        "To control the ignition process",
+        "To expel exhaust gases",
+        "To measure engine temperature"
+      ],
+      "answer": "To deliver air to the combustion chamber",
+      "pages": [
+        163
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Intake manifold"
+      ]
+    },
+    {
+      "id": "ch07_mcq_061",
+      "question": "What is the primary distinction between a supercharger and a turbocharger?",
+      "options": [
+        "Superchargers are more fuel-efficient than turbochargers.",
+        "Superchargers are belt-driven and consume engine power, while turbochargers are powered by exhaust gases.",
+        "Superchargers are only used in diesel engines, while turbochargers are used in gasoline engines.",
+        "Superchargers use exhaust gases for power, while turbochargers are belt-driven."
+      ],
+      "answer": "Superchargers are belt-driven and consume engine power, while turbochargers are powered by exhaust gases.",
+      "pages": [
+        165
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because superchargers are usually belt-\ndriven by the engine (instead of being driven by recycled exhaust gases as a\nturbocharger is), they consume engine power to increase engine power.",
+        "Turbocharging means to use a turbine \u2014 powered by the engine\u2019s waste\ngases \u2014 to force greater amounts of air into an engine\u2019s cylinders."
+      ]
+    },
+    {
+      "id": "ch07_mcq_062",
+      "question": "Why were turbochargers initially implemented in vehicles?",
+      "options": [
+        "To increase power for use on race tracks.",
+        "To replace superchargers in high-performance cars.",
+        "To reduce the size and weight of larger vehicles.",
+        "To improve fuel efficiency in smaller engines."
+      ],
+      "answer": "To increase power for use on race tracks.",
+      "pages": [
+        165
+      ],
+      "confidence": 3.0,
+      "justification": "\"At first, cars were turbocharged to perform better on race-tracks\""
+    },
+    {
+      "id": "ch07_mcq_063",
+      "question": "What drives the compressor in a turbocharged engine?",
+      "options": [
+        "A belt connected to the engine's crankshaft.",
+        "A turbine powered by exhaust gases.",
+        "The engine\u2019s intake air.",
+        "A series of gears within the engine."
+      ],
+      "answer": "A turbine powered by exhaust gases.",
+      "pages": [
+        165
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Because they\u2019re not fuel-efficient, they\u2019re generally used only to increase the speed of \u201chigh-performance,\u201d low-efficiency vehicles. Supercharging should-n\u2019t be confused with turbocharging.",
+        "Turbocharging means to use a turbine \u2014 powered by the engine\u2019s waste gases \u2014 to force greater amounts of air into an engine\u2019s cylinders.",
+        "A shaft connects the fan to a compressor, which blows fresh, filtered air into the cylinders."
+      ]
+    },
+    {
+      "id": "ch07_mcq_064",
+      "question": "What happens to the exhaust gases *after* they pass through the turbine in a turbocharged engine?",
+      "options": [
+        "They pass through the exhaust system and exit the vehicle.",
+        "They are converted into electrical energy.",
+        "They are recycled back into the engine.",
+        "They are compressed and stored for later use."
+      ],
+      "answer": "They pass through the exhaust system and exit the vehicle.",
+      "pages": [
+        165
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "\u201c1. The hot exhaust gases leave the exhaust manifold, but instead of going directly through the exhaust system and out of the vehicle via the tailpipe, they first pass through a turbine... 3. The excess and used exhaust fumes pass from the turbine to the exhaust system and continue on their way to the tailpipe and out into the air.\u201d"
+      ]
+    },
+    {
+      "id": "ch07_mcq_065",
+      "question": "In a carbureted vehicle, what does the compressor in a turbocharged system deliver to the cylinders?",
+      "options": [
+        "Pure, unfiltered air.",
+        "Exhaust gases.",
+        "A fuel\/air mixture.",
+        "A cooling fluid."
+      ],
+      "answer": "A fuel\/air mixture.",
+      "pages": [
+        165
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "(On a carbureted vehicle, the compressor takes the fuel\/air mixture and blows it into the cylinders.)"
+      ]
+    },
+    {
+      "id": "ch07_mcq_066",
+      "question": "What is one significant benefit of using a turbocharger in a diesel vehicle?",
+      "options": [
+        "Increased engine power",
+        "Decreased engine noise",
+        "Elimination of exhaust gases",
+        "Reduced fuel consumption by 50%"
+      ],
+      "answer": "Increased engine power",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A turbocharger can increase the power of a diesel vehicle by 50 percent while lowering its fuel consumption by 20 to 25 percent!"
+      ]
+    },
+    {
+      "id": "ch07_mcq_067",
+      "question": "What powers the turbine within a turbocharger?",
+      "options": [
+        "External fuel source",
+        "Engine oil",
+        "Hot exhaust gases",
+        "Electric motor"
+      ],
+      "answer": "Hot exhaust gases",
+      "pages": [
+        166
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "because the turbine itself is powered by the hot gases that normally would go out of the exhaust pipe, you don\u2019t need to provide anything extra to drive it."
+      ]
+    },
+    {
+      "id": "ch07_mcq_068",
+      "question": "What is the primary function of a vehicle's exhaust system?",
+      "options": [
+        "To provide waste disposal and reduce toxins",
+        "To control engine temperature",
+        "To improve fuel efficiency",
+        "To increase engine power"
+      ],
+      "answer": "To provide waste disposal and reduce toxins",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The exhaust system, shown in Figure 7-15, is the waste disposal system of your vehicle.",
+        "This section deals with how the exhaust system works to detoxify or reduce these toxins before they\u2019re released into the environment."
+      ]
+    },
+    {
+      "id": "ch07_mcq_069",
+      "question": "What is a potential benefit of innovations in diesel vehicle technology, as referenced in the text?",
+      "options": [
+        "Increased engine noise",
+        "Decreased need for fuel",
+        "Transformation of waste into recycling opportunities",
+        "Reduction of vehicle weight"
+      ],
+      "answer": "Transformation of waste into recycling opportunities",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cWhat\u2019s more, because the turbine itself is powered by the hot gases that normally would go out of the exhaust pipe, you don\u2019t need to provide anything extra to drive it. What a wonderful example of recycling!\u201d The innovations also are turning overburdened garbage dumps into recycling opportunities."
+    },
+    {
+      "id": "ch07_mcq_070",
+      "question": "Which component of the exhaust system is mentioned as requiring potential maintenance, such as cleaning or replacement?",
+      "options": [
+        "Catalytic converter",
+        "PCV valve",
+        "Fuel injector",
+        "Turbocharger"
+      ],
+      "answer": "Catalytic converter",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cThere\u2019s little you can do to maintain or repair most of the parts in the exhaust system except to check and clean your PCV valve and replace it, if necessary; and troubleshoot to see whether your catalytic converter needs to be replaced\u201d"
+    },
+    {
+      "id": "ch07_mcq_071",
+      "question": "What is the primary function of a muffler?",
+      "options": [
+        "To increase engine efficiency",
+        "To clean exhaust gases before they exit the vehicle",
+        "To regulate the flow of fuel to the engine",
+        "To reduce noise from exhaust gases"
+      ],
+      "answer": "To reduce noise from exhaust gases",
+      "pages": [
+        167
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Exhaust pipes carry what\u2019s left of the exhaust gases through a muffler, which\ncontrols the noise of the escaping gases to the tailpipe and out of the vehicle"
+      ]
+    },
+    {
+      "id": "ch07_mcq_072",
+      "question": "What effect does a muffler have on engine operation?",
+      "options": [
+        "It provides lubrication to engine components.",
+        "It regulates the amount of oxygen in the intake manifold.",
+        "It directly controls the timing of the engine\u2019s spark plugs.",
+        "It influences back pressure, which affects engine efficiency."
+      ],
+      "answer": "It influences back pressure, which affects engine efficiency.",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Besides keeping the noise down, the muffler also has an effect on the pressure required to pass the exhaust gases through it, which creates the \u201cback pressure\u201d that the engine requires to run efficiently..."
+      ]
+    },
+    {
+      "id": "ch07_mcq_073",
+      "question": "What is the purpose of the positive crankcase ventilation (PCV) system?",
+      "options": [
+        "To filter the air entering the engine's cylinders.",
+        "To regulate the engine's idle speed.",
+        "To reroute unburned gases from the crankcase back into the engine.",
+        "To cool the exhaust gases before they exit the vehicle."
+      ],
+      "answer": "To reroute unburned gases from the crankcase back into the engine.",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": "The PCV valve (shown in Figure 7-17) is part of the positive crankcase ventila-\n tion system, which reroutes unburned gases, or blow-by, from the crankcase\n to the intake manifold and back to the engine, where they can be reburned in\n the cylinders."
+    },
+    {
+      "id": "ch07_mcq_074",
+      "question": "What is a benefit of the PCV system beyond reducing pollution?",
+      "options": [
+        "It reduces the need for regular oil changes.",
+        "It improves braking performance.",
+        "It enhances the vehicle\u2019s suspension.",
+        "It increases fuel economy."
+      ],
+      "answer": "It increases fuel economy.",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It also increases fuel economy because unburned fuel in the blow-by is consumed the second time around."
+      ]
+    },
+    {
+      "id": "ch07_mcq_075",
+      "question": "What is one way the PCV valve contributes to engine longevity?",
+      "options": [
+        "By increasing the engine's compression ratio.",
+        "By reducing water vapor and acid deposits.",
+        "By improving the engine\u2019s cooling system.",
+        "By decreasing the engine\u2019s overall weight."
+      ],
+      "answer": "By reducing water vapor and acid deposits.",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The PCV valve also extends the life of the engine by reducing the water vapor and acid deposits that contaminate oil and form engine sludge."
+      ]
+    },
+    {
+      "id": "ch07_mcq_076",
+      "question": "What is the primary function of a catalytic converter?",
+      "options": [
+        "To increase engine power",
+        "To reduce toxic substances in exhaust gases",
+        "To regulate fuel flow",
+        "To cool the engine"
+      ],
+      "answer": "To reduce toxic substances in exhaust gases",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It was developed to deal with smog by further reducing the toxic substances in the exhaust gases before they can pollute the air."
+      ]
+    },
+    {
+      "id": "ch07_mcq_077",
+      "question": "Which of the following best describes the function of reduction catalysts within a catalytic converter?",
+      "options": [
+        "Converting carbon monoxide and hydrocarbons into carbon dioxide and water",
+        "Filtering particulate matter from exhaust",
+        "Increasing the temperature of exhaust gases",
+        "Converting nitrogen oxides into oxygen and nitrogen"
+      ],
+      "answer": "Converting nitrogen oxides into oxygen and nitrogen",
+      "pages": [
+        168
+      ],
+      "confidence": 4.0,
+      "justification": "\u201cReduction catalysts (rhodium and palladium) turn the NOx (nitrogen oxide) emissions to oxygen and nitrogen, which exist in the air we breathe.\u201d"
+    },
+    {
+      "id": "ch07_mcq_078",
+      "question": "What was the original impact of leaded gasoline on catalytic converters?",
+      "options": [
+        "It caused them to generate more oxygen",
+        "It improved their efficiency",
+        "It had no effect on their function",
+        "It rendered them less effective and eventually destroyed them"
+      ],
+      "answer": "It rendered them less effective and eventually destroyed them",
+      "pages": [
+        168
+      ],
+      "confidence": 4.0,
+      "justification": "Originally, the lead in gasoline fouled catalytic converters, rendering them less effective and eventually destroying them"
+    },
+    {
+      "id": "ch07_mcq_079",
+      "question": "Which of the following metals is mentioned as a component of oxidation catalysts?",
+      "options": [
+        "Palladium",
+        "Lead",
+        "Nitrogen",
+        "Rhodium"
+      ],
+      "answer": "Palladium",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Oxidation catalysts (palladium and platinum) turn carbon monoxide and hydrocarbon into harmless carbon dioxide and water."
+      ]
+    },
+    {
+      "id": "ch07_mcq_080",
+      "question": "What is a beneficial consequence of removing lead from automotive fuel, beyond the function of catalytic converters?",
+      "options": [
+        "Reduced engine noise",
+        "Increased fuel efficiency",
+        "Decreased toxicity for humans and animals",
+        "Improved catalytic converter lifespan"
+      ],
+      "answer": "Decreased toxicity for humans and animals",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": "Because lead is toxic to humans and other animals, we\u2019ve all benefited greatly from its removal from automotive fuel and its emissions."
+    },
+    {
+      "id": "ch07_mcq_081",
+      "question": "What is the primary function of an exhaust gas recirculation (EGR) valve?",
+      "options": [
+        "To lower peak combustion temperature in the combustion chambers.",
+        "To measure the amount of exhaust gases exiting the muffler.",
+        "To increase peak combustion temperature.",
+        "To directly control the fuel\/air mixture."
+      ],
+      "answer": "To lower peak combustion temperature in the combustion chambers.",
+      "pages": [
+        169
+      ],
+      "confidence": 3.0,
+      "justification": "An EGR valve on the intake manifold allows a small percentage of the exhaust gases back into the intake manifold, which lowers the peak combustion temperature in the combustion chambers and results in lower NOx emissions."
+    },
+    {
+      "id": "ch07_mcq_082",
+      "question": "What information do oxygen sensors provide to the engine control unit (ECU)?",
+      "options": [
+        "The overall health of the catalytic converter.",
+        "The current engine speed.",
+        "The level of carbon monoxide in the exhaust.",
+        "The amount of excess oxygen in the exhaust gases."
+      ],
+      "answer": "The amount of excess oxygen in the exhaust gases.",
+      "pages": [
+        169
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Also, oxygen sensors tell the ECU about excess oxygen in the exhaust gases so that the ECU can correctly control the fuel\/air mix-"
+      ]
+    },
+    {
+      "id": "ch07_mcq_083",
+      "question": "What is a key benefit of reducing automotive emissions?",
+      "options": [
+        "Increased engine horsepower.",
+        "Simplified engine design.",
+        "Reduction of the burden on landfills.",
+        "Improved fuel economy."
+      ],
+      "answer": "Reduction of the burden on landfills.",
+      "pages": [
+        169
+      ],
+      "confidence": 3.0,
+      "justification": "Chapter 10 covers a variety of hybrid and alternatively fueled vehicles that may inspire you to trade in Old Faithful for a 21st-century set of wheels. To get more specific, Chapter 9 tells you about new diesel engines and fuels that not only burn clean but also can reduce the burden on overflowing garbage dumps."
+    },
+    {
+      "id": "ch07_short_001",
+      "question": "Name two alternative power sources used in eco-friendly vehicles.",
+      "options": null,
+      "answer": "natural gas and hydrogen",
+      "pages": [
+        150
+      ],
+      "confidence": 3.0,
+      "justification": "Other eco-friendly vehicles run entirely on alternative sources of power such as natural gas (NGV) and hydrogen (fuel cells)."
+    },
+    {
+      "id": "ch07_short_002",
+      "question": "Briefly describe the purpose of tracing the flow of fuel from the fuel tank to the vehicle's exit.",
+      "options": null,
+      "answer": "To understand how all the parts work together to provide the vehicle with \u201cGO power.\u201d",
+      "pages": [
+        150
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In this chapter, I trace the flow of fuel from the fuel tank to the engine block, through the exhaust system, and out of your vehicle. When you know what each component does and where to find it, it\u2019s easy to see how all the parts work together to provide your vehicle with \u201cGO power.\u201d"
+      ]
+    },
+    {
+      "id": "ch07_short_003",
+      "question": "What is a common characteristic of most fuel systems, regardless of the era they are from?",
+      "options": null,
+      "answer": "Most fuel systems have some basic components in common.",
+      "pages": [
+        150
+      ],
+      "confidence": 3.0,
+      "justification": "Although most fuel systems have some basic components in common, fuel systems do vary."
+    },
+    {
+      "id": "ch07_short_004",
+      "question": "Define what an Engine Control Unit (ECU) does within a fuel system.",
+      "options": null,
+      "answer": "The ECU controls the fuel\/air mixture and other fuel system operations based on inputs from a mass air flow meter, a throttle position sensor, and an oxygen sensor.",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": "The ECU controls the fuel\/air mixture and other fuel system operations based on inputs from a mass air flow meter, a throttle position sensor, and an oxygen sensor."
+    },
+    {
+      "id": "ch07_short_005",
+      "question": "Besides the fuel tank, name three basic components likely to be found in a vehicle's fuel system.",
+      "options": null,
+      "answer": "Fuel line, fuel filter, and fuel pump",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Fuel line",
+        "Fuel filter",
+        "Fuel pump"
+      ]
+    },
+    {
+      "id": "ch07_short_006",
+      "question": "What is the purpose of a throttle position sensor?",
+      "options": null,
+      "answer": "The ECU controls the fuel\/air mixture and other fuel system operations based on inputs from a mass air flow meter, a throttle position sensor, and an oxygen sensor.",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ECU controls the fuel\/air mixture and other fuel system operations based on inputs from a mass air flow meter, a throttle position sensor, and an oxygen sensor."
+      ]
+    },
+    {
+      "id": "ch07_short_007",
+      "question": "Briefly describe the role of an oxygen sensor.",
+      "options": null,
+      "answer": "The oxygen sensor provides input to the engine control unit (ECU), which controls the fuel\/air mixture and other fuel system operations.",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ECU controls the fuel\/air mixture and other fuel system operations based on inputs from a mass air flow meter, a throttle position sensor, and an oxygen sensor."
+      ]
+    },
+    {
+      "id": "ch07_short_009",
+      "question": "Describe the purpose of a float within a fuel tank.",
+      "options": null,
+      "answer": "The float moves up and down as the fuel level in the tank increases or decreases. Its position relative to the top of the tank is picked up by a sensor that sends an electronic signal from the tank to the fuel gauge on your dashboard so that you can tell when you have to buy more fuel.",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Inside the fuel tank is a little float that moves up and down as the fuel level in the tank increases or decreases. The float is at its highest when the tank is full. Its position relative to the top of the tank is picked up by a sensor that sends an electronic signal from the tank to the fuel gauge on your dashboard so that you can tell when you have to buy more fuel."
+      ]
+    },
+    {
+      "id": "ch07_short_010",
+      "question": "Explain how the fuel level sensor communicates fuel level information.",
+      "options": null,
+      "answer": "The float's position relative to the top of the tank is picked up by a sensor that sends an electronic signal from the tank to the fuel gauge on your dashboard.",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": "Its position relative to the top of the tank is picked up by a sensor that sends an electronic signal from the tank to the fuel gauge on your dashboard"
+    },
+    {
+      "id": "ch07_short_011",
+      "question": "What is the function of fuel lines?",
+      "options": null,
+      "answer": "Fuel pump pumps fuel through the fuel lines that run under your vehicle from the fuel tank to the fuel injectors (or to the carburetor on older vehicles).",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": "The fuel pump (see Figure 7-2) pumps fuel through the fuel lines that run under your vehicle from the fuel tank to the fuel injectors (or to the carburetor on older vehicles)."
+    },
+    {
+      "id": "ch07_short_012",
+      "question": "Describe the potential consequences of water accumulating in a vehicle's fuel tank.",
+      "options": null,
+      "answer": "Water accumulating in a vehicle's fuel tank may cause rust to form, contaminate your fuel, and foul up your fuel filter and possibly the fuel injectors.",
+      "pages": [
+        153
+      ],
+      "confidence": 3.0,
+      "justification": "If you drive around most of the time with a near-empty fuel tank, the water in\nthe air inside the tank may cause rust to form, contaminate your fuel, and\nfoul up your fuel filter and possibly the fuel injectors."
+    },
+    {
+      "id": "ch07_short_013",
+      "question": "Where are fuel pumps most commonly located?",
+      "options": null,
+      "answer": "Inside the fuel tank or so far under the vehicle that you can\u2019t reach them easily without a hoist or crawling under your vehicle",
+      "pages": [
+        153
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Most fuel pumps are located inside the fuel tank or so far under the vehicle that you can\u2019t reach them easily without a hoist or crawling under your vehicle"
+      ]
+    },
+    {
+      "id": "ch07_short_014",
+      "question": "What is the purpose of the screen located inside a fuel tank?",
+      "options": null,
+      "answer": "To trap the dirt and rust that would otherwise foul up your fuel injectors.",
+      "pages": [
+        153
+      ],
+      "confidence": 3.0,
+      "justification": "A small screen inside this filter traps the dirt and rust that would otherwise foul up your injectors."
+    },
+    {
+      "id": "ch07_short_016",
+      "question": "Describe the typical location of an air intake manifold.",
+      "options": null,
+      "answer": "The air intake manifold is usually found near the cold air collector box.",
+      "pages": [
+        154
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The air intake manifold is usually found near the cold air collector box."
+      ]
+    },
+    {
+      "id": "ch07_short_017",
+      "question": "What condition must exist between gasoline and air to create a combustible mixture?",
+      "options": null,
+      "answer": "You need only one part of gasoline to 2,000 parts of air by volume to get a combustible mixture!",
+      "pages": [
+        155
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You need only one part of gasoline to 2,000 parts of air by volume to get a combustible mixture!"
+      ]
+    },
+    {
+      "id": "ch07_short_018",
+      "question": "Explain why liquid gasoline is not inherently flammable.",
+      "options": null,
+      "answer": "Liquid gasoline won\u2019t ignite on its own.",
+      "pages": [
+        155
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "it\u2019s because liquid gasoline won\u2019t ignite on its own"
+      ]
+    },
+    {
+      "id": "ch07_short_019",
+      "question": "What is the fundamental purpose of a fuel injection system?",
+      "options": null,
+      "answer": "Basically, fuel injection systems inject fuel at precisely the right time and place for it to mix with air and form the fuel\/air mixture that drives the engine.",
+      "pages": [
+        155
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Basically, fuel injection systems inject fuel at precisely the right time and place for it to mix with air and form the fuel\/air mixture that drives the engine."
+      ]
+    },
+    {
+      "id": "ch07_short_020",
+      "question": "Describe the role of a transistor in the fuel injection process.",
+      "options": null,
+      "answer": "A transistor turns the injector on by completing a circuit to allow electric current to flow through a solenoid in the injector.",
+      "pages": [
+        156
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A transistor turns the injector on by completing a circuit to allow electric current to flow through a solenoid in the injector."
+      ]
+    },
+    {
+      "id": "ch07_short_022",
+      "question": "Explain how the ECU controls the richness or leanness of the fuel\/air mixture.",
+      "options": null,
+      "answer": "The ECU controls the fuel\/air mixture by controlling the injector pulse width, changing the pulse width to make the mixture richer or leaner based on the information it gets from the various sensors.",
+      "pages": [
+        156
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ECU controls the fuel\/air mixture by controlling that pulse width, changing the pulse width to make the mixture richer or leaner based on the information it gets from the various sensors."
+      ]
+    },
+    {
+      "id": "ch07_short_023",
+      "question": "What is a throttle body assembly, and how does it relate to fuel injection?",
+      "options": null,
+      "answer": "The earlier throttle-body fuel injection systems are located inside the throttle body assembly (surprise!), which is kind of like an electronically controlled car-buretor.",
+      "pages": [
+        156
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The earlier throttle-body fuel injection systems are located inside the throttle body assembly (surprise!), which is kind of like an electronically controlled car-buretor."
+      ]
+    },
+    {
+      "id": "ch07_short_024",
+      "question": "What is the general location of multi-port fuel injectors?",
+      "options": null,
+      "answer": "Modern multi-port injection systems are located in the intake port just ahead of the intake valve.",
+      "pages": [
+        156
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Modern multi-port injection systems are located in the intake port just ahead of the intake valve."
+      ]
+    },
+    {
+      "id": "ch07_short_025",
+      "question": "Describe the role of the ECU in a multi-port fuel injection system.",
+      "options": null,
+      "answer": "The ECU decides how much fuel to inject at any given time.",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A whole bunch of sophisticated sensors measure a variety of factors and send messages to the ECU, which decides how much fuel to inject at any given time."
+      ]
+    },
+    {
+      "id": "ch07_short_026",
+      "question": "What is the purpose of the fuel filter?",
+      "options": null,
+      "answer": "An electrical fuel pump pumps fuel from the fuel tank through a fuel filter to the fuel rail assembly",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "An electrical fuel pump pumps fuel from the fuel tank through a fuel filter to the fuel rail assembly"
+      ]
+    },
+    {
+      "id": "ch07_short_027",
+      "question": "Explain why sequential fuel injection leads to better fuel suspension.",
+      "options": null,
+      "answer": "Because each injector opens individually just before its intake valve opens, the fuel is always sprayed right into an open port and therefore stays in suspension.",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because each injector opens individually just before its intake valve opens, the fuel is always sprayed right into an open port and therefore stays in suspension."
+      ]
+    },
+    {
+      "id": "ch07_short_028",
+      "question": "What resource does the shift towards fewer mechanical parts in fuel injection systems aim to conserve?",
+      "options": null,
+      "answer": "the world\u2019s dwindling supply of raw materials",
+      "pages": [
+        158
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Using less metal, plastic, and rubber places less strain on the world\u2019s dwin-dling supply of raw materials."
+      ]
+    },
+    {
+      "id": "ch07_short_029",
+      "question": "What type of fuel does a gasoline direct injection (GDI) system use?",
+      "options": null,
+      "answer": "gasoline",
+      "pages": [
+        158
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "It resembles diesel technology (see Chapter 9) but uses gasoline instead of diesel fuel."
+      ]
+    },
+    {
+      "id": "ch07_short_030",
+      "question": "What is one potential impact of reducing the quantity of metal, plastic, and rubber utilized in fuel injection systems?",
+      "options": null,
+      "answer": "It places less strain on the world\u2019s dwindling supply of raw materials.",
+      "pages": [
+        158
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It also reduces the amount of energy consumed by production (as well as driving) and the number of disposal facilities required to process all the worn and broken stuff that gets thrown away. So let\u2019s hope that the trend continues, wizards and all."
+      ]
+    },
+    {
+      "id": "ch07_short_031",
+      "question": "Describe the general location of the fuel injector(s) in a throttle-body fuel injection system.",
+      "options": null,
+      "answer": "The fuel injectors are mounted in the throttle body assembly.",
+      "pages": [
+        159
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A computer controls one or two fuel injectors mounted in the throttle body assembly."
+      ]
+    },
+    {
+      "id": "ch07_short_034",
+      "question": "Describe the general orientation of cylinders in rear-wheel drive vehicles.",
+      "options": null,
+      "answer": "The cylinders in the engines on vehicles with rear-wheel drive often run from the front of the engine back toward the firewall at the rear of the engine compartment.",
+      "pages": [
+        161
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The cylinders in the engines on vehicles with rear-wheel drive often run from the front of the engine back toward the firewall at the rear of the engine compartment."
+      ]
+    },
+    {
+      "id": "ch07_short_036",
+      "question": "What is the general location of a cylinder in relation to a spark plug?",
+      "options": null,
+      "answer": "A spark plug is inserted into and through a cap at one end of a cylinder.",
+      "pages": [
+        160
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "A spark plug is inserted into and through a cap at one end of a cylinder (see Figure 7-9)."
+      ]
+    },
+    {
+      "id": "ch07_short_037",
+      "question": "Briefly explain why timing is crucial for the meeting of air and fuel.",
+      "options": null,
+      "answer": "Timing is crucial because any successful rendezvous (meeting of air and fuel) must be a triumph of timing.",
+      "pages": [
+        160
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\u201c...it\u2019s truly a triumph of timing (as any successful rendezvous must be!).\u201d"
+      ]
+    },
+    {
+      "id": "ch07_short_038",
+      "question": "What is the significance of the 'rendezvous' described in the text?",
+      "options": null,
+      "answer": "The rendezvous occurs in your engine\u2019s cylinders, and it\u2019s truly a triumph of timing (as any successful rendezvous must be!).",
+      "pages": [
+        160
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The rendezvous occurs in your engine\u2019s cylinders, and it\u2019s truly a triumph of timing (as any successful rendezvous must be!)."
+      ]
+    },
+    {
+      "id": "ch07_short_039",
+      "question": "Describe the general shape of a rotor found in rotary engines.",
+      "options": null,
+      "answer": "three-lobed, or triangular",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On rotary engines (found on some Mazdas), there\u2019s a single large internal chamber inside which a three-lobed, or triangular, rotor revolves."
+      ]
+    },
+    {
+      "id": "ch07_short_040",
+      "question": "What is the primary function of coolant in an engine?",
+      "options": null,
+      "answer": "Coolant circulates throughout the engine to keep it cool",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Coolant circulates throughout the engine to keep it cool"
+      ]
+    },
+    {
+      "id": "ch07_short_041",
+      "question": "What happens during the intake stroke?",
+      "options": null,
+      "answer": "When the piston moves down, it creates a vacuum in the top portion of the cylinder, and the intake valves open up and let the fuel\/air mixture into the cylinder.",
+      "pages": [
+        163
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When the piston moves down, it creates a vacuum in the top portion of the cylinder (where the piston was at the end of its last upstroke). Then the intake valves, conveniently located in the cylinder head, open up and let the fuel\/air mix-ture into the cylinder."
+      ]
+    },
+    {
+      "id": "ch07_short_042",
+      "question": "What connects the piston to the crankshaft?",
+      "options": null,
+      "answer": "The piston is connected to the crankshaft by a connecting rod.",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The piston rides up and down inside the cylinder on a connecting rod that attaches to the crankshaft, causing the crankshaft to turn."
+      ]
+    },
+    {
+      "id": "ch07_short_043",
+      "question": "What is the sequence of events that completes a cycle called?",
+      "options": null,
+      "answer": "the four-stroke power cycle",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Four strokes \u2014 down, up, down, up \u2014 complete the cycle that creates the power to drive the engine. This process is aptly called the four-stroke power cycle."
+      ]
+    },
+    {
+      "id": "ch07_short_047",
+      "question": "Explain why automakers began to use turbocharging in vehicles with smaller engines.",
+      "options": null,
+      "answer": "turbocharging provided a way to increase the engine\u2019s power so that these bigger vehicles wouldn\u2019t be sluggish on the road.",
+      "pages": [
+        165
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "but when automakers began to put smaller engines in larger vehicles to lighten their weight and conserve fuel, turbocharging provided a way to increase the engine\u2019s power so that these bigger vehicles wouldn\u2019t be sluggish on the road."
+      ]
+    },
+    {
+      "id": "ch07_short_049",
+      "question": "What is a key engineering principle highlighted in the text?",
+      "options": null,
+      "answer": "The simpler, the better",
+      "pages": [
+        165
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Sounds simple, doesn\u2019t it? Well, usually the first thing an engineer learns is \u201cThe simpler, the better,\u201d or as the Zen monks put it, \u201cLess is more.\u201d"
+      ]
+    },
+    {
+      "id": "ch07_short_051",
+      "question": "What is one reason why understanding the exhaust system has become more important?",
+      "options": null,
+      "answer": "Now that people all over the world are finally aware of how toxic exhaust gases can be for people and how drastically they affect global warming, it\u2019s really important to understand the system that works to detoxify these pollutants and disburse them as safely as possible.",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Now that people all over the world are finally aware of how toxic exhaust gases can be for people and how drastically they affect global warming, it\u2019s really important to understand the system that works to detoxify these pollutants and disburse them as safely as possible."
+      ]
+    },
+    {
+      "id": "ch07_short_052",
+      "question": "Explain why a turbocharger can be considered an example of recycling.",
+      "options": null,
+      "answer": "A turbocharger can be considered an example of recycling because the turbine itself is powered by the hot gases that normally would go out of the exhaust pipe.",
+      "pages": [
+        166
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "because the turbine itself is powered by the hot gases that normally would go out of the exhaust pipe, you don\u2019t need to provide anything extra to drive it. What a wonderful example of recycling!"
+      ]
+    },
+    {
+      "id": "ch07_short_053",
+      "question": "What are the substances formed when fuel and air mix in cylinders?",
+      "options": null,
+      "answer": "waste products, some of them toxic",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When the fuel system brings the fuel and air together in the cylinders to drive the vehicle, waste products are formed, and some of them are toxic."
+      ]
+    },
+    {
+      "id": "ch07_short_054",
+      "question": "What type of professional should perform work on components like the tailpipe or muffler?",
+      "options": null,
+      "answer": "a professional",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the converter, the tailpipe, or the muffler needs to be replaced, have the job done by a professional."
+      ]
+    },
+    {
+      "id": "ch07_short_055",
+      "question": "Describe the role of back pressure in relation to engine efficiency.",
+      "options": null,
+      "answer": "The muffler also has an effect on the pressure required to pass the exhaust gases through it, which creates the \u201cback pressure\u201d that the engine requires to run efficiently and affects the temper-ature and therefore the efficiency of the catalytic converter.",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The muffler also has an effect on the pressure required to pass the exhaust gases through it, which creates the \u201cback pressure\u201d that the engine requires to run efficiently and affects the temper-ature and therefore the efficiency of the catalytic converter."
+      ]
+    },
+    {
+      "id": "ch07_short_056",
+      "question": "Explain why blow-by gases are rerouted in the PCV system.",
+      "options": null,
+      "answer": "The PCV system reroutes unburned gases, or blow-by, from the crankcase to the intake manifold and back to the engine, where they can be reburned in the cylinders. This process cuts the amount of pollution released into the environment. It also increases fuel economy because unburned fuel in the blow-by is consumed the second time around.",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": "The PCV valve (shown in Figure 7-17) is part of the positive crankcase ventila-\n tion system, which reroutes unburned gases, or blow-by, from the crankcase\n to the intake manifold and back to the engine, where they can be reburned in\n the cylinders. This process cuts the amount of pollution released into the\n environment. It also increases fuel economy because unburned fuel in the\n blow-by is consumed the second time around."
+    },
+    {
+      "id": "ch07_short_057",
+      "question": "What is the function of the exhaust pipe?",
+      "options": null,
+      "answer": "Exhaust pipes carry what\u2019s left of the exhaust gases through a muffler.",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Exhaust pipes carry what\u2019s left of the exhaust gases through a muffler"
+      ]
+    },
+    {
+      "id": "ch07_short_058",
+      "question": "What is the typical physical structure found inside a catalytic converter?",
+      "options": null,
+      "answer": "The catalytic converter is basically a cylinder filled with either little ceramic beads or a honeycomb structure coated with minute amounts of expensive metal catalysts.",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The catalytic converter is basically a cylinder filled with either little ceramic beads or a honeycomb structure coated with minute amounts of expensive metal catalysts"
+      ]
+    },
+    {
+      "id": "ch07_short_059",
+      "question": "Name two metals used as catalysts within a catalytic converter.",
+      "options": null,
+      "answer": "Rhodium and palladium",
+      "pages": [
+        168
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Reduction catalysts (rhodium and palladium) turn the NOx (nitrogen oxide) emissions to oxygen and nitrogen, which exist in the air we breathe."
+      ]
+    },
+    {
+      "id": "ch07_short_060",
+      "question": "What gases do oxidation catalysts transform exhaust into?",
+      "options": null,
+      "answer": "harmless carbon dioxide and water",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Oxidation catalysts (palladium and platinum) turn carbon monoxide and hydrocarbon into harmless carbon dioxide and water."
+      ]
+    },
+    {
+      "id": "ch07_short_061",
+      "question": "What is the relationship between nitrogen oxide and the gases humans breathe?",
+      "options": null,
+      "answer": "Reduction catalysts (rhodium and palladium) turn the NOx (nitrogen oxide) emissions to oxygen and nitrogen, which exist in the air we breathe.",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Reduction catalysts (rhodium and palladium) turn the NOx (nitrogen oxide) emissions to oxygen and nitrogen, which exist in the air we breathe."
+      ]
+    },
+    {
+      "id": "ch07_short_062",
+      "question": "Describe the reason why legislation was passed regarding lead in fuel.",
+      "options": null,
+      "answer": "The lead in gasoline fouled catalytic converters, rendering them less effective and eventually destroying them.",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Originally, the lead in gasoline fouled catalytic converters, rendering them less effective and eventually destroying them, so legislation was passed to remove lead from fuel."
+      ]
+    },
+    {
+      "id": "ch07_short_063",
+      "question": "Briefly describe the role of oxygen sensors in maintaining proper engine function.",
+      "options": null,
+      "answer": "Oxygen sensors tell the ECU about excess oxygen in the exhaust gases so that the ECU can correctly control the fuel\/air mix-ture.",
+      "pages": [
+        169
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Oxygen sensors tell the ECU about excess oxygen in the exhaust gases so that the ECU can correctly control the fuel\/air mix-ture."
+      ]
+    },
+    {
+      "id": "ch07_short_065",
+      "question": "What is the relationship between an EGR valve and the intake manifold?",
+      "options": null,
+      "answer": "An EGR valve on the intake manifold allows a small percentage of the exhaust gases back into the intake manifold.",
+      "pages": [
+        169
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "An EGR valve on the intake manifold allows a small percentage of the exhaust gases back into the intake manifold"
+      ]
+    },
+    {
+      "id": "ch07_true_false_001",
+      "question": "Modern vehicles exclusively use carburetors to deliver fuel to the engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        150
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Most modern vehicles employ fuel injectors to get the fuel to the engine, whereas vehicles built before the mid-1980s usually relied on carburetors."
+      ]
+    },
+    {
+      "id": "ch07_true_false_003",
+      "question": "Vehicles with gasoline engines can be understood and maintained using the information presented in this chapter.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        150
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Since many of the basic parts covered in this chapter either are common to both [carbureted and fuel injected] systems or do the same jobs as their counterparts on carbureted vehicles did, this chapter is relevant no matter which type of vehicle you have."
+      ]
+    },
+    {
+      "id": "ch07_true_false_004",
+      "question": "Older vehicles always use carburetors, while modern vehicles exclusively use fuel injectors.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Whether your vehicle is more than 20 years old or just 20 days old, has fuel injectors or a carburetor, it probably has the same basic parts in its fuel system"
+      ]
+    },
+    {
+      "id": "ch07_true_false_005",
+      "question": "The location of the fuel tank is always the same for all vehicle models.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "the fuel tank is a metal or plastic composite container that\u2019s usually located under the trunk compartment (refer to Figure 7-1), although some vehicles"
+      ]
+    },
+    {
+      "id": "ch07_true_false_006",
+      "question": "An Engine Control Unit (ECU) has no impact on fuel system operations in older vehicles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On modern vehicles, the fuel system \u2014 along with most other systems \u2014 is controlled by the engine control unit (ECU)."
+      ]
+    },
+    {
+      "id": "ch07_true_false_007",
+      "question": "The mass air flow meter provides input to the Engine Control Unit (ECU).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ECU controls the fuel\/air mixture and other fuel system operations based on inputs from a mass air flow meter, a throttle position sensor, and an oxygen sensor."
+      ]
+    },
+    {
+      "id": "ch07_true_false_008",
+      "question": "Direct observation of fuel system components is less valuable than reviewing diagrams.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        151
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If a picture is worth a thousand words, actually looking at \u2014 and maybe even\\ touching \u2014 something is worth a thousand pictures."
+      ]
+    },
+    {
+      "id": "ch07_true_false_009",
+      "question": "A mechanical fuel pump is commonly found in vehicles with fuel injection.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Engines with fuel injection use an electric fuel pump that may be located in or near the fuel tank. (On most carbureted vehicles, a mechanical pump is under the hood.)"
+      ]
+    },
+    {
+      "id": "ch07_true_false_010",
+      "question": "The fuel level sensor relays information directly to the engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        152
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Its position relative to the top of the tank is picked up by a sensor that sends an electronic signal from the tank to the fuel gauge on your dashboard so that you can tell when you have to buy more fuel."
+      ]
+    },
+    {
+      "id": "ch07_true_false_011",
+      "question": "The float is positioned highest when the fuel tank is empty.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        152
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The float is at its highest when the tank is full."
+      ]
+    },
+    {
+      "id": "ch07_true_false_012",
+      "question": "It is always cheaper to have a fuel pump rebuilt than to replace it.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        153
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your fuel pump does need replacing, ask your service facility to replace it with a new one, as their charges for rebuilding yours would probably be more expensive than for just installing a new one."
+      ]
+    },
+    {
+      "id": "ch07_true_false_013",
+      "question": "Fuel filters are designed to prevent dirt and rust from reaching the fuel injectors.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        153
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A small screen inside this filter traps the dirt and rust that would otherwise foul up your injectors."
+      ]
+    },
+    {
+      "id": "ch07_true_false_014",
+      "question": "Most fuel pumps are easily accessible without specialized equipment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        153
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Most fuel pumps are located inside the fuel tank or so far under the vehicle that you can\u2019t reach them easily without a hoist or crawling under your vehicle"
+      ]
+    },
+    {
+      "id": "ch07_true_false_015",
+      "question": "Modern fuel-injected engines typically have round air cleaners.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        154
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Today\u2019s fuel-injected engines have a rectangular air filter inside a cold air collector box located near the front of the engine compartment"
+      ]
+    },
+    {
+      "id": "ch07_true_false_016",
+      "question": "The air intake duct can help locate the cold air collector box.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        154
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To find the rectangular cold air collector box in your vehicle, pop the hood and follow the large air intake duct away from your engine."
+      ]
+    },
+    {
+      "id": "ch07_true_false_017",
+      "question": "Checking and replacing the air filter can be a simple maintenance task.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        154
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Chapter 8 helps you find your air filter, judge whether it needs to be changed, and change it yourself (it\u2019s a surprisingly easy job)."
+      ]
+    },
+    {
+      "id": "ch07_true_false_019",
+      "question": "Gasoline in liquid form is more explosive than the fuel\/air mixture.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        155
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Gasoline in liquid form will burn but not explode.",
+        "An air and gasoline vapor combination is more explosive than TNT!"
+      ]
+    },
+    {
+      "id": "ch07_true_false_020",
+      "question": "Fuel injection systems are generally more expensive to service than carburetors.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        155
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although they\u2019re more expensive to ser-vice than carburetors were, fuel injection systems with computerized elec-tronic sensing devices have shown sufficient sensitivity, accuracy, and dependability to repay their cost with better performance, greater fuel econ-omy, cleaner exhaust emissions, and more controllable power."
+      ]
+    },
+    {
+      "id": "ch07_true_false_022",
+      "question": "Fuel injection systems are designed for easy DIY adjustment and repair.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        156
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Fuel injection systems are too difficult to adjust or repair yourself"
+      ]
+    },
+    {
+      "id": "ch07_true_false_024",
+      "question": "A 'richer' fuel\/air mixture contains more air than fuel.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        156
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The ECU controls the fuel\/air mixture by controlling that pulse width, changing the pulse width to make the mixture richer or leaner based on the information it gets from the various sensors."
+      ]
+    },
+    {
+      "id": "ch07_true_false_025",
+      "question": "Throttle-body fuel injection systems are typically found in modern vehicles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        156
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The earlier throttle-body fuel injection systems are located inside the throttle body assembly...Modern multi-port injection systems are located in the intake port just ahead of the intake valve. Most modern vehicles have multi-port fuel injection (MFI)"
+      ]
+    },
+    {
+      "id": "ch07_true_false_027",
+      "question": "The electrical fuel pump delivers fuel directly to the engine cylinders.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Here\u2019s how multi-port fuel injection systems work: 1. An electrical fuel pump pumps fuel from the fuel tank through a fuel filter to the fuel rail assembly, which carries fuel under pressure to the fuel injectors (see Figure 7-6)."
+      ]
+    },
+    {
+      "id": "ch07_true_false_028",
+      "question": "The ECU uses sensor data to determine the amount of fuel to inject.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A whole bunch of sophisticated sensors measure a variety of factors and send messages to the ECU, which decides how much fuel to inject at any given time."
+      ]
+    },
+    {
+      "id": "ch07_true_false_029",
+      "question": "Sequential fuel injection fires all injectors at the same time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        157
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "sequential fuel injection (SFI) in which the fuel injectors fire in sequence rather than all at once."
+      ]
+    },
+    {
+      "id": "ch07_true_false_030",
+      "question": "The fuel pressure regulator returns unused fuel to the fuel tank.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The fuel rail assembly also may contain the fuel pressure regulator, which maintains proper fuel pressure and meters unused fuel back to the fuel tank."
+      ]
+    },
+    {
+      "id": "ch07_true_false_031",
+      "question": "The fuel injectors are located on the fuel tank.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        157
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Fuel injectors, one for each cylinder, are attached at one end to the fuel rail and at the other end to the intake port in the engine."
+      ]
+    },
+    {
+      "id": "ch07_true_false_032",
+      "question": "A gasoline direct injection system is currently less expensive to build than a standard engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        158
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Although a gasoline direct injection system is currently more expensive to build than a standard engine"
+      ]
+    },
+    {
+      "id": "ch07_true_false_033",
+      "question": "The text suggests that GDI systems have lower fuel efficiency compared to standard engines.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        158
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because of the greater fuel efficiency, automakers are currently working on gasoline direct injection systems to reduce their emissions and bring down the cost."
+      ]
+    },
+    {
+      "id": "ch07_true_false_035",
+      "question": "Throttle-body fuel injection systems are considered more sophisticated than multi-port fuel injection systems.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        159
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "This system is less complicated than the multi-port fuel injection systems found on more recent vehicles"
+      ]
+    },
+    {
+      "id": "ch07_true_false_036",
+      "question": "The throttle body assembly in this system resembles a carburetor.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        159
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The throttle body assembly looks similar to a carburetor and houses the fuel injector(s) and a fuel pressure regulator."
+      ]
+    },
+    {
+      "id": "ch07_true_false_037",
+      "question": "The engine control unit (ECU) does not play a role in the operation of the throttle-body fuel injection system.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        159
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A computer controls one or two fuel injectors mounted in the throttle body assembly. The computer applies electrical current to the injector solenoid for the proper duration (called the injector pulse width), and fuel under pressure is then injected and mixed with air as it passes through the throttle on its way to the engine."
+      ]
+    },
+    {
+      "id": "ch07_true_false_038",
+      "question": "The engine block contains the spark plugs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        160
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "So what\u2019s a cylinder? It\u2019s a hollow iron pipe that\u2019s capped at one end and has a spark plug inserted into and through that cap so the plug\u2019s electrodes are available for action (see Figure 7-9). Below the cylinder heads is the engine block itself. This piece contains the cylinders, which contain the pistons."
+      ]
+    },
+    {
+      "id": "ch07_true_false_039",
+      "question": "Cylinder heads are located below the engine block.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        160
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "At the top are the cylinder heads. Below the cylinder heads is the engine block itself."
+      ]
+    },
+    {
+      "id": "ch07_true_false_040",
+      "question": "A transverse engine\u2019s cylinders run parallel to the wheels.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        161
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On other vehicles, particularly those with front-wheel drive, the cylinders in the engine are set sideways, parallel to the wheels. These engines are called transverse engines"
+      ]
+    },
+    {
+      "id": "ch07_true_false_041",
+      "question": "The crankcase holds the spark plugs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        160
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "So what\u2019s a cylinder? It\u2019s a hollow iron pipe that\u2019s capped at one end and has a spark plug inserted into and through that cap so the plug\u2019s electrodes are available for action (see Figure 7-9)."
+      ]
+    },
+    {
+      "id": "ch07_true_false_042",
+      "question": "Timing is not a critical element for the combustion process.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        160
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "all that\u2019s needed is a spot for that passionate meeting to take place. The rendezvous occurs in your engine\u2019s cylinders, and it\u2019s truly a triumph of timing (as any successful rendezvous must be!)"
+      ]
+    },
+    {
+      "id": "ch07_true_false_043",
+      "question": "V-type engines have cylinders arranged in a single row.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        162
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "V-type engines have two parallel rows of cylinders set on an angle to each other."
+      ]
+    },
+    {
+      "id": "ch07_true_false_044",
+      "question": "Oil circulates through the engine to reduce friction.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "oil circulates to keep the parts moving freely."
+      ]
+    },
+    {
+      "id": "ch07_true_false_045",
+      "question": "The power stroke is the first step in the four-stroke cycle.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Four strokes \u2014 down, up, down, up \u2014 complete the cycle that creates the power to drive the engine. This process is aptly called the four-stroke power cycle."
+      ]
+    },
+    {
+      "id": "ch07_true_false_046",
+      "question": "The rotor in a rotary engine makes a consistent, even revolution.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        162
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The rotor makes an eccentric or uneven revolution"
+      ]
+    },
+    {
+      "id": "ch07_true_false_047",
+      "question": "Diesel engines and conventional internal combustion engines follow the exact same four-stroke power cycle.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        162
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The four-stroke power cycle varies slightly depending on whether your vehicle\u2019s engine is a conventional internal combustion engine or a diesel engine. I cover the conventional internal combustion engine in this section and the power cycle in diesel engines in Chapter 9."
+      ]
+    },
+    {
+      "id": "ch07_true_false_048",
+      "question": "The intake valve opens during the exhaust stroke.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        163
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Figure 7-11: The intake stroke.",
+        "Figure 7-14: The exhaust stroke."
+      ]
+    },
+    {
+      "id": "ch07_true_false_050",
+      "question": "The exhaust manifold is responsible for drawing air into the engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        163
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Exhaust manifold"
+      ]
+    },
+    {
+      "id": "ch07_true_false_052",
+      "question": "The turbine in a turbocharged engine is directly connected to the engine\u2019s crankshaft.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        165
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "1. The hot exhaust gases leave the exhaust manifold, but instead of\ngo directly through the exhaust system and out of the vehicle via the\ntildeailpipe, they first pass through a turbine, which is just a fan that\u2019s set in\nmotion by the expanding gases.",
+        "2. A shaft connects the fan to a compressor, which blows fresh, filtered air\ninto the cylinders."
+      ]
+    },
+    {
+      "id": "ch07_true_false_053",
+      "question": "The speed of the exhaust fumes turning the turbine is not affected by the load on the engine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        165
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The more load on the engine, the hotter and faster the exhaust fumes that turn the turbine."
+      ]
+    },
+    {
+      "id": "ch07_true_false_054",
+      "question": "Replacing a catalytic converter can typically be performed by the vehicle owner without professional assistance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the converter, the tailpipe, or the muffler needs to be replaced, have the job done by a professional."
+      ]
+    },
+    {
+      "id": "ch07_true_false_055",
+      "question": "A turbocharger can simultaneously increase power and decrease fuel consumption.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A turbocharger can increase the power of a diesel vehicle by 50 percent while lowering its fuel consumption by 20 to 25 percent!"
+      ]
+    },
+    {
+      "id": "ch07_true_false_056",
+      "question": "The exhaust system primarily functions to increase the vehicle's speed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        166
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The exhaust system, shown in Figure 7-15, is the waste disposal system of your vehicle.",
+        "When the fuel system brings the fuel and air together in the cylinders to drive the vehicle, waste products are formed, and some of them are toxic."
+      ]
+    },
+    {
+      "id": "ch07_true_false_057",
+      "question": "The PCV valve is a component of the exhaust system that requires periodic inspection.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cThere\u2019s little you can do to maintain or repair most of the parts in the exhaust system except to check and clean your PCV valve and replace it, if necessary\u201d"
+    },
+    {
+      "id": "ch07_true_false_058",
+      "question": "Innovations in diesel vehicles are causing garbage dumps to become sources of recycling.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        166
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The innovations also are turning overburdened garbage dumps into recycling opportunities."
+      ]
+    },
+    {
+      "id": "ch07_true_false_059",
+      "question": "A malfunctioning muffler can result in a traffic citation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If it fails, you can get a ticket, probably for disturbing the peace!"
+      ]
+    },
+    {
+      "id": "ch07_true_false_060",
+      "question": "The PCV valve primarily functions to increase the engine's horsepower.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The PCV valve (shown in Figure 7-17) is part of the positive crankcase ventila-\nventilation system, which reroutes unburned gases, or blow-by, from the crankcase\nto the intake manifold and back to the engine, where they can be reburned in\nthe cylinders. This process cuts the amount of pollution released into the\nenvironment. It also increases fuel economy because unburned fuel in the\nblow-by is consumed the second time around. The PCV valve also extends the\nlife of the engine by reducing the water vapor and acid deposits that contaminate\noil and form engine sludge."
+      ]
+    },
+    {
+      "id": "ch07_true_false_061",
+      "question": "The PCV system contributes to increased fuel economy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        167
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It also increases fuel economy because unburned fuel in the blow-by is consumed the second time around."
+      ]
+    },
+    {
+      "id": "ch07_true_false_062",
+      "question": "Catalytic converters are typically located before the exhaust manifold pipes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The catalytic converter (shown in Figure 7-19) is usually attached to the\\nexhaust pipe just after the exhaust manifold pipes."
+      ]
+    },
+    {
+      "id": "ch07_true_false_064",
+      "question": "The removal of lead from fuel has benefited human health.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because lead is toxic to humans and other animals, we\u2019ve all benefited greatly from its removal from automotive fuel and its emissions."
+      ]
+    },
+    {
+      "id": "ch07_true_false_065",
+      "question": "Carbon monoxide is converted into oxygen by catalytic converters.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Oxidation catalysts (palladium and platinum) turn carbon monoxide and hydrocarbon into harmless carbon dioxide and water."
+      ]
+    },
+    {
+      "id": "ch07_true_false_066",
+      "question": "Catalytic converters play a role in reducing air pollution.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        168
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It was developed to deal with smog by further reducing the toxic substances in the exhaust gases before they can pollute the air."
+      ]
+    },
+    {
+      "id": "ch07_true_false_067",
+      "question": "An EGR valve allows exhaust gases to be reintroduced directly into the exhaust pipe.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        169
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "An EGR valve on the intake manifold allows a small percentage of the exhaust gases back into the intake manifold"
+      ]
+    },
+    {
+      "id": "ch07_true_false_068",
+      "question": "The ECU uses information from oxygen sensors to control the fuel\/air mixture.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        169
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Also, oxygen sensors tell the ECU about excess oxygen in the exhaust gases so that the ECU can correctly control the fuel\/air mix-"
+      ]
+    }
+  ]
+}

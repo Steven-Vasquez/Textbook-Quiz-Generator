@@ -1,0 +1,2701 @@
+{
+  "chapter_key": "Chapter_8_Keeping_Your_Fuel_System_in_Tune",
+  "chapter_id": "ch08",
+  "title": "Chapter 8 Keeping Your Fuel System in Tune",
+  "answers": [
+    {
+      "id": "ch08_mcq_001",
+      "question": "What is a potential consequence of neglecting scheduled maintenance on fuel system components like air and fuel filters?",
+      "options": [
+        "Increased fuel efficiency",
+        "Improved catalytic converter performance",
+        "Reduced engine noise",
+        "Potential warranty voidance"
+      ],
+      "answer": "Potential warranty voidance",
+      "pages": [
+        170
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you can\u2019t, you may risk voiding your warranty."
+      ]
+    },
+    {
+      "id": "ch08_mcq_002",
+      "question": "What is a primary benefit of performing basic fuel system maintenance tasks yourself?",
+      "options": [
+        "Increased vehicle horsepower",
+        "Elimination of the need for catalytic converters",
+        "Ability to perform complex engine overhauls",
+        "Cost savings and potential prevention of major repairs"
+      ],
+      "answer": "Cost savings and potential prevention of major repairs",
+      "pages": [
+        170
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Doing so will cost you little in time and money and may prevent major repair bills."
+      ]
+    },
+    {
+      "id": "ch08_mcq_003",
+      "question": "Vehicles equipped with a carburetor require what to maintain peak operational efficiency?",
+      "options": [
+        "Periodic tune-ups",
+        "Replacement of the PCV valve",
+        "Increased use of premium fuel",
+        "Regular oil changes"
+      ],
+      "answer": "Periodic tune-ups",
+      "pages": [
+        170
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "If your vehicle has a car-buretor, it requires periodic tune-ups to keep it operating at peak efficiency."
+      ]
+    },
+    {
+      "id": "ch08_mcq_004",
+      "question": "What is a potential disadvantage of relying solely on professional mechanics for fuel system diagnosis?",
+      "options": [
+        "Immediate identification of minor issues",
+        "Increased engine lifespan",
+        "Potential for unnecessary expenses due to exploration of more costly solutions first",
+        "Guaranteed lower repair costs"
+      ],
+      "answer": "Potential for unnecessary expenses due to exploration of more costly solutions first",
+      "pages": [
+        170
+      ],
+      "confidence": 3.0,
+      "justification": "Because unethical mechanics often try the more expensive solutions first and work backwards to the cheaper ones, you end up paying for all the time, labor, and parts involved."
+    },
+    {
+      "id": "ch08_mcq_005",
+      "question": "What type of maintenance typically does NOT require jacking up the vehicle?",
+      "options": [
+        "Fuel pump replacement",
+        "Engine cylinder gauging",
+        "Basic under-the-hood maintenance",
+        "Catalytic converter servicing"
+      ],
+      "answer": "Basic under-the-hood maintenance",
+      "pages": [
+        170
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Regardless of what kind of fuel system your vehicle has, it requires the basic maintenance (such as changing air and fuel filters and PCV valves) mentioned in this chapter. All the work in this chapter is under-the-hood stuff, so you don\u2019t need to jack up your vehicle..."
+      ]
+    },
+    {
+      "id": "ch08_mcq_006",
+      "question": "What is the recommended course of action before beginning the work described in this chapter?",
+      "options": [
+        "Checking the vehicle's warranty",
+        "Consulting a mechanic",
+        "Replacing all fuel lines",
+        "Reviewing a previous chapter"
+      ],
+      "answer": "Reviewing a previous chapter",
+      "pages": [
+        171
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Before you undertake any of the work in this chapter, be sure to read (or\\n\\reread) Chapter 7."
+      ]
+    },
+    {
+      "id": "ch08_mcq_007",
+      "question": "What is a potential indicator that work outlined in this chapter might be beneficial?",
+      "options": [
+        "The vehicle's performance is noticeably rough or inconsistent",
+        "The vehicle is overdue for an oil change",
+        "The vehicle has been recently detailed",
+        "The vehicle consistently achieves maximum fuel efficiency"
+      ],
+      "answer": "The vehicle's performance is noticeably rough or inconsistent",
+      "pages": [
+        171
+      ],
+      "confidence": 3.0,
+      "justification": "If your vehicle isn\u2019t due for regular maintenance and it isn\u2019t starting right up in the morning, starts conking out at stoplights or running roughly..."
+    },
+    {
+      "id": "ch08_mcq_008",
+      "question": "Where can definitions of specialized terms be found?",
+      "options": [
+        "In Appendix A",
+        "Inside the air cleaner box",
+        "In the vehicle's owner\u2019s manual",
+        "On a sticker under the hood"
+      ],
+      "answer": "In Appendix A",
+      "pages": [
+        171
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Whenever you encounter a term set in this font, you\u2019ll find it defined in the glossary in Appendix A."
+      ]
+    },
+    {
+      "id": "ch08_mcq_009",
+      "question": "On most modern vehicles, where is the air filter located?",
+      "options": [
+        "Mounted directly on the engine block",
+        "Under the car, near the exhaust pipe",
+        "Inside a rectangular cold air collector box near the front of the engine compartment",
+        "Behind the headlights"
+      ],
+      "answer": "Inside a rectangular cold air collector box near the front of the engine compartment",
+      "pages": [
+        171
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On most modern vehicles, the air filter is under the hood inside a rectangular cold air collector box that\u2019s located up near the front of the engine compart- ment."
+      ]
+    },
+    {
+      "id": "ch08_mcq_010",
+      "question": "What is another name for the air inlet duct connected to the air cleaner?",
+      "options": [
+        "Spark plug",
+        "Air intake hose",
+        "Fuel injector",
+        "Catalytic converter"
+      ],
+      "answer": "Air intake hose",
+      "pages": [
+        171
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "As you can see in Figure 8-1, the air cleaner has a large air inlet duct (also\ncalled the air intake hose) connected to it."
+      ]
+    },
+    {
+      "id": "ch08_mcq_011",
+      "question": "What is one method to determine if an air filter needs replacement?",
+      "options": [
+        "Checking its oil content",
+        "Measuring its airflow rate",
+        "Holding it up to a strong light",
+        "Weighing it against a new filter"
+      ],
+      "answer": "Holding it up to a strong light",
+      "pages": [
+        172
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "To figure out whether your air filter needs to be replaced, just hold it up to the sun or to a strong light."
+      ]
+    },
+    {
+      "id": "ch08_mcq_012",
+      "question": "When cleaning a pleated air filter, what is a key precaution to take?",
+      "options": [
+        "Scrub it with a brush",
+        "Handle it gently to avoid crushing the pleats",
+        "Fold it repeatedly",
+        "Soak it in water"
+      ],
+      "answer": "Handle it gently to avoid crushing the pleats",
+      "pages": [
+        172
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "For both methods, handle the filter gently to avoid crushing the pleats."
+      ]
+    },
+    {
+      "id": "ch08_mcq_013",
+      "question": "What is the recommended distance to maintain between the nozzle of an air hose or vacuum cleaner and a pleated air filter during cleaning?",
+      "options": [
+        "Touching the filter's edge",
+        "Several inches away",
+        "Two inches away",
+        "Directly against the filter"
+      ],
+      "answer": "Several inches away",
+      "pages": [
+        172
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Keep the nozzle of the air hose or vacuum cleaner several inches away from the filter \u2014 don\u2019t jam it up against it."
+      ]
+    },
+    {
+      "id": "ch08_mcq_014",
+      "question": "What should be placed over the open end of the air intake hose before cleaning the cold air collector box?",
+      "options": [
+        "A rubber seal",
+        "Duct tape",
+        "A paper towel",
+        "A wet cloth"
+      ],
+      "answer": "Duct tape",
+      "pages": [
+        172
+      ],
+      "confidence": 4.0,
+      "justification": "If the interior of the box is fouled with dust or sand, before you clean the box paste some duct tape over the open end of the air intake hose so that the dirt can\u2019t get in."
+    },
+    {
+      "id": "ch08_mcq_015",
+      "question": "Why might someone choose to use a 'hand vac' for cleaning?",
+      "options": [
+        "It eliminates the need for a service station or compressed air gun.",
+        "It\u2019s faster than compressed air.",
+        "It automatically cleans the floor mats and upholstery.",
+        "It\u2019s more effective at removing heavy debris."
+      ],
+      "answer": "It eliminates the need for a service station or compressed air gun.",
+      "pages": [
+        172
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "I prefer a \u201chand vac\u201d for this job. You don\u2019t have to buy a compressed air gun or schlep the car to a service station to use theirs (and some of them are now charging for the air!)."
+      ]
+    },
+    {
+      "id": "ch08_mcq_016",
+      "question": "Under what circumstance should an air filter be replaced more frequently than every 20,000 miles or once a year?",
+      "options": [
+        "When the engine is idling for extended periods.",
+        "When driving on a racetrack.",
+        "When driving in areas with significant dust or sand.",
+        "When the vehicle is new."
+      ],
+      "answer": "When driving in areas with significant dust or sand.",
+      "pages": [
+        173
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you do most of your driving in a dusty or sandy area, you may need to replace your air filter every 5,000 miles or less."
+      ]
+    },
+    {
+      "id": "ch08_mcq_017",
+      "question": "Why is it recommended to choose well-known brands when purchasing air filters, especially at discount stores?",
+      "options": [
+        "They always come with a lifetime warranty.",
+        "They are guaranteed to increase fuel efficiency.",
+        "Lower-quality filters can lead to costly damage to the fuel system.",
+        "They are typically cheaper."
+      ],
+      "answer": "Lower-quality filters can lead to costly damage to the fuel system.",
+      "pages": [
+        173
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Unknown brands sell for very little, but they aren\u2019t always of good quality, and if your air filter lets a lot of junk get into your fuel system, you may find that the cheap filter is very costly in the long run."
+      ]
+    },
+    {
+      "id": "ch08_mcq_018",
+      "question": "What information is crucial when seeking assistance in selecting the correct air filter at an auto supply store?",
+      "options": [
+        "The amount of money available to spend.",
+        "The vehicle's make, model, and year.",
+        "The desired color of the filter.",
+        "The driver's preferred tire brand."
+      ],
+      "answer": "The vehicle's make, model, and year.",
+      "pages": [
+        173
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Give them your vehicle\u2019s make, model, and year, and they\u2019ll select the right part number for your vehicle."
+      ]
+    },
+    {
+      "id": "ch08_mcq_019",
+      "question": "What is the purpose of the rubber rim on an air filter?",
+      "options": [
+        "To allow for easy removal of the filter.",
+        "To enhance the filter's appearance.",
+        "To create a seal between the filter and the box.",
+        "To indicate the filter's expiration date."
+      ],
+      "answer": "To create a seal between the filter and the box.",
+      "pages": [
+        173
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the new filter looks right, replace the old filter with the new one, making sure that the rubber rim is facing up to create a seal between the filter and the box."
+      ]
+    },
+    {
+      "id": "ch08_mcq_020",
+      "question": "What is a potential consequence of frequently operating a vehicle with a nearly empty fuel tank?",
+      "options": [
+        "A greater likelihood of fuel filter malfunction.",
+        "Increased fuel efficiency.",
+        "Reduced emissions.",
+        "Improved engine performance."
+      ],
+      "answer": "A greater likelihood of fuel filter malfunction.",
+      "pages": [
+        173
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The likelihood of a fuel filter malfunctioning is significantly greater if you tend to ride around with an almost-empty fuel tank."
+      ]
+    },
+    {
+      "id": "ch08_mcq_021",
+      "question": "What is one reason to avoid letting a fuel tank get very low?",
+      "options": [
+        "Elimination of fuel filter replacement",
+        "Prevention of fuel line clogs",
+        "Reduced risk of rust",
+        "Increased fuel efficiency"
+      ],
+      "answer": "Prevention of fuel line clogs",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "But if you let the fuel level in the tank get too low, the fuel fed to your\\nengine could be like the last bit of coffee in the\\nbottom of the pot \u2014 full of sediment that tends\\nto stick in the throat. Some fuel tanks have fil-\\nters to prevent this junk from getting through to\\nthe engine, but the filters can get choked up if\\nyou consistently drive on an empty tank."
+      ]
+    },
+    {
+      "id": "ch08_mcq_022",
+      "question": "What is a potential consequence of water vapor condensing within a fuel tank?",
+      "options": [
+        "Increased fuel filter lifespan",
+        "Improved engine performance",
+        "Rusting of the fuel tank's interior",
+        "Reduced fuel consumption"
+      ],
+      "answer": "Rusting of the fuel tank's interior",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cThis water vapor can rust the insides of a metal fuel tank\u201d"
+    },
+    {
+      "id": "ch08_mcq_023",
+      "question": "Why might special tools be necessary when replacing a fuel filter on a fuel-injected vehicle?",
+      "options": [
+        "To disconnect fuel lines secured with various fittings",
+        "To align the filter properly",
+        "To measure fuel pressure",
+        "To test the fuel's viscosity"
+      ],
+      "answer": "To disconnect fuel lines secured with various fittings",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On fuel-injected vehi-cles, you need to disable the fuel pump to relieve the pressure on the fuel\\nlines, which may be secured to the filter with clamps, threaded fittings, or spe-\\ncial quick-connect fittings. Lines with threaded fittings require a special flare-nut\\nline wrench. Lines with special quick-connect fittings may require special tools\\nto disconnect them."
+      ]
+    },
+    {
+      "id": "ch08_mcq_024",
+      "question": "What is the initial step recommended before attempting a fuel filter replacement?",
+      "options": [
+        "Consulting a vehicle's owner\u2019s manual or service manual",
+        "Checking for leaks in the fuel tank",
+        "Replacing the fuel pump",
+        "Depressurizing the fuel lines"
+      ],
+      "answer": "Consulting a vehicle's owner\u2019s manual or service manual",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Check your owner\u2019s manual or a service manual for your vehicle\u2019s make, model, and year to find the filter and see what\u2019s involved in changing it."
+      ]
+    },
+    {
+      "id": "ch08_mcq_025",
+      "question": "What is the potential issue with sediment accumulating at the bottom of a fuel tank?",
+      "options": [
+        "It can contaminate the fuel delivered to the engine",
+        "It lubricates the fuel pump",
+        "It improves fuel combustion",
+        "It prevents rust formation"
+      ],
+      "answer": "It can contaminate the fuel delivered to the engine",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "But if you let the fuel level in the tank get too low, the fuel fed to your engine could be like the last bit of coffee in the bottom of the pot \u2014 full of sediment that tends to stick in the throat."
+      ]
+    },
+    {
+      "id": "ch08_mcq_026",
+      "question": "Where might a fuel filter with fuel injection be located?",
+      "options": [
+        "Under the vehicle near the fuel tank",
+        "Mounted on the engine block",
+        "Inside the air filter",
+        "Connected directly to the fuel injectors"
+      ],
+      "answer": "Under the vehicle near the fuel tank",
+      "pages": [
+        175
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your engine has fuel-injection, your fuel filter is located somewhere in the high-pressure fuel line, either under the vehicle near the fuel tank (see Figure 8-2) or under the hood in the fuel line near the engine (see Figure 8-3)."
+      ]
+    },
+    {
+      "id": "ch08_mcq_027",
+      "question": "What is a potential hazard when using a work light during fuel filter replacement?",
+      "options": [
+        "The light will attract insects that contaminate the fuel.",
+        "Fuel dripping on the bulb can cause a fire.",
+        "The light will interfere with the vehicle's electrical system.",
+        "The light may overheat and damage the engine."
+      ],
+      "answer": "Fuel that drips on the bulb can cause it to break and start a fire.",
+      "pages": [
+        175
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Don\u2019t use a work light with an incandescent bulb when changing a fuel filter. Fuel that drips on the bulb can cause it to break and start a fire. Use a flashlight if you need to shed some light on the subject."
+      ]
+    },
+    {
+      "id": "ch08_mcq_028",
+      "question": "What type of resource is recommended for detailed information about a vehicle's fuel system?",
+      "options": [
+        "A general automotive repair manual",
+        "A guide to basic engine maintenance",
+        "A service manual specific to the vehicle",
+        "An online forum for car enthusiasts"
+      ],
+      "answer": "A service manual specific to the vehicle",
+      "pages": [
+        175
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "consult a service manual for your vehicle\u2019s make, model, and year."
+      ]
+    },
+    {
+      "id": "ch08_mcq_029",
+      "question": "Besides the main fuel filter, what other filtration components could a vehicle have?",
+      "options": [
+        "An air filter and an oil filter",
+        "A filter screen inside the fuel tank and a fuel pump filter",
+        "A cabin air filter and a spark plug filter",
+        "A coolant filter and a transmission filter"
+      ],
+      "answer": "A filter screen inside the fuel tank and a fuel pump filter",
+      "pages": [
+        175
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Some vehicles also have a fuel filter in the fuel pump as well as a filter screen inside the fuel tank."
+      ]
+    },
+    {
+      "id": "ch08_mcq_030",
+      "question": "What is a common feature securing some fuel filters within a fuel line?",
+      "options": [
+        "Spiral wire wraps",
+        "Plastic connectors",
+        "Metal clamps",
+        "Rubber hoses"
+      ],
+      "answer": "Metal clamps",
+      "pages": [
+        175
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On some vehicles, the fuel filter is found anywhere in the fuel line from the fuel tank to the fuel injec-tors and is held in place by metal clamps on either side of it."
+      ]
+    },
+    {
+      "id": "ch08_mcq_031",
+      "question": "What is the initial step recommended before disconnecting a fuel line?",
+      "options": [
+        "Replacing the fuel pump fuse",
+        "Checking the parking brake",
+        "Inspecting the fuel filter arrow",
+        "Releasing the pressure in the fuel line"
+      ],
+      "answer": "Releasing the pressure in the fuel line",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Relieve the pressure in the fuel line before disconnecting it."
+      ]
+    },
+    {
+      "id": "ch08_mcq_032",
+      "question": "Why is it necessary to disable the electric fuel pump before starting the engine?",
+      "options": [
+        "To reduce pressure in the fuel lines",
+        "To secure the filter in place",
+        "To ensure correct fuel filter orientation",
+        "To prevent damage to the engine"
+      ],
+      "answer": "To reduce pressure in the fuel lines",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To do so, you have to disable the electric fuel pump before you start the engine."
+      ]
+    },
+    {
+      "id": "ch08_mcq_033",
+      "question": "What should be done if the new fuel filter lacks an arrow indicating fuel flow direction?",
+      "options": [
+        "Consult a mechanic",
+        "Install the filter arbitrarily",
+        "Determine the direction from the old filter",
+        "Skip this step and proceed with installation"
+      ],
+      "answer": "Determine the direction from the old filter",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": "If the new one doesn\u2019t have an arrow on it, look to see in what direction the old filter is installed so that you can tell which end of the new filter goes where."
+    },
+    {
+      "id": "ch08_mcq_034",
+      "question": "After installing a new filter, what is the final action recommended before replacing the fuse?",
+      "options": [
+        "Rotate the vehicle\u2019s tires",
+        "Verify the engine is off",
+        "Ensure the parking brake is off",
+        "Check for leaks around the filter"
+      ],
+      "answer": "Check for leaks around the filter",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cReplace the fuse for the fuel pump in the fuse box. 7. Make sure that the parking brake is on and that the vehicle is in Park or Neutral, and then start the engine and check for leaks around the filter.\u201d"
+    },
+    {
+      "id": "ch08_mcq_035",
+      "question": "What is the first step when replacing a filter insert?",
+      "options": [
+        "Dropping in the new insert",
+        "Disabling the fuel pump",
+        "Opening the filter cap",
+        "Lifting out the old insert"
+      ],
+      "answer": "Opening the filter cap",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your vehicle has a fuel filter with an insert that can be replaced, follow Step 1 in the previous section to disable the fuel pump. Then open the cap on the filter, lift out the old insert, and drop in the new one facing in the"
+      ]
+    },
+    {
+      "id": "ch08_mcq_036",
+      "question": "What is the primary function of the PCV valve?",
+      "options": [
+        "To control engine timing",
+        "To regulate fuel pressure",
+        "To filter the engine oil",
+        "To manage emissions"
+      ],
+      "answer": "To manage emissions",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The PCV valve (positive crankcase ventilation valve) is a vital part of the emissions control system on most vehicles."
+      ]
+    },
+    {
+      "id": "ch08_mcq_037",
+      "question": "When might it be necessary to inspect the PCV valve?",
+      "options": [
+        "When the vehicle is new",
+        "When the engine is idling roughly or a malfunction indicator light is on",
+        "When the vehicle is being sold",
+        "When the engine is running smoothly"
+      ],
+      "answer": "When the engine is idling roughly or a malfunction indicator light is on",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your engine has been idling roughly or a malfunction indicator light goes on, check the PCV valve"
+      ]
+    },
+    {
+      "id": "ch08_mcq_038",
+      "question": "What is a common service interval recommendation for PCV valves?",
+      "options": [
+        "Every 100,000 miles",
+        "Between 20,000 and 50,000 miles",
+        "Only when the engine is rebuilt",
+        "Every 5,000 miles"
+      ],
+      "answer": "Between 20,000 and 50,000 miles",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Car manufacturers suggest that PCV\nvalves be cleaned or replaced after\nsomewhere between 20,000 to 50,000\nmiles of driving."
+      ]
+    },
+    {
+      "id": "ch08_mcq_039",
+      "question": "Where is the PCV valve typically located?",
+      "options": [
+        "Within the fuel tank",
+        "In the air filter assembly",
+        "On or near the intake manifold or plugged into a rubber grommet in the valve cover",
+        "Connected directly to the distributor"
+      ],
+      "answer": "On or near the intake manifold or plugged into a rubber grommet in the valve cover",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The PCV valve is usually plugged into a rubber grommet in the valve cover (see Figure 8-6), although it may be located on or near the intake manifold (see Figures 8-6 and 8-7)."
+      ]
+    },
+    {
+      "id": "ch08_mcq_040",
+      "question": "What is a possible reason for a PCV valve to require service?",
+      "options": [
+        "Low engine oil levels",
+        "Excessive engine heat",
+        "Incorrect spark plug gap",
+        "Contaminants from exhaust fumes causing it to become clogged"
+      ],
+      "answer": "Contaminants from exhaust fumes causing it to become clogged",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\u201ccheck the PCV valve (shown in Figure 8-5) to make sure that it isn\u2019t clogged with sludge from the contaminants in the exhaust fumes or stuck in the wide-open position.\u201d"
+      ]
+    },
+    {
+      "id": "ch08_mcq_041",
+      "question": "What is one indicator of a properly functioning PCV valve when using Method 1?",
+      "options": [
+        "A distinct lack of suction.",
+        "No suction when a finger covers the hose opening.",
+        "A rattling sound when shaken.",
+        "A muffled rattle when shaken."
+      ],
+      "answer": "A rattling sound when shaken.",
+      "pages": [
+        178
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If it\u2019s unobstructed, it should rattle."
+      ]
+    },
+    {
+      "id": "ch08_mcq_042",
+      "question": "When performing Method 2 to check the PCV valve, what should happen if the valve is working correctly?",
+      "options": [
+        "The engine should stall.",
+        "A piece of paper placed over the oil filler hole should be sucked against it.",
+        "The oil filler cap should fall off.",
+        "The valve cover should vibrate."
+      ],
+      "answer": "A piece of paper placed over the oil filler hole should be sucked against it.",
+      "pages": [
+        178
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your PCV valve is working properly, the paper should be sucked against the hole within seconds."
+      ]
+    },
+    {
+      "id": "ch08_mcq_043",
+      "question": "Which of the following is a key requirement for both methods of checking the PCV valve?",
+      "options": [
+        "The engine should be idling.",
+        "The engine must be revved high.",
+        "The valve cover must be removed.",
+        "The vehicle must be in gear."
+      ],
+      "answer": "The engine should be idling.",
+      "pages": [
+        178
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Pick the one that seems easiest for you (the engine should be idling no matter which method you choose):"
+      ]
+    },
+    {
+      "id": "ch08_mcq_044",
+      "question": "What is the recommended course of action if a valve appears to be malfunctioning?",
+      "options": [
+        "Check the fuel tank's capacity.",
+        "Immediately replace it.",
+        "Inspect the engine's air filter.",
+        "Try cleaning it first."
+      ],
+      "answer": "Try cleaning it first.",
+      "pages": [
+        179
+      ],
+      "confidence": 3.0,
+      "justification": "If the valve doesn\u2019t seem to be working properly, before you go to the trouble to replace it, try cleaning it to see if that makes a difference..."
+    },
+    {
+      "id": "ch08_mcq_045",
+      "question": "If a valve is threaded, what is advised to prevent damage?",
+      "options": [
+        "Install it by hand.",
+        "Tighten it excessively.",
+        "Use a specialized wrench.",
+        "Apply lubricant."
+      ],
+      "answer": "Use a specialized wrench.",
+      "pages": [
+        179
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "If you can\u2019t unscrew the valve by hand, try to grasp its base with the open end of a combination wrench or a small crescent wrench."
+      ]
+    },
+    {
+      "id": "ch08_mcq_046",
+      "question": "What should be checked while the PCV valve is removed?",
+      "options": [
+        "The vehicle's tires.",
+        "The engine's spark plugs.",
+        "The transmission fluid level.",
+        "The hose and its related components."
+      ],
+      "answer": "The hose and its related components.",
+      "pages": [
+        179
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "While you have the PCV valve off, check the hose and the hose clamps or grommet."
+      ]
+    },
+    {
+      "id": "ch08_mcq_047",
+      "question": "What characteristic of a hose would indicate that it needs replacement?",
+      "options": [
+        "Being dry and brittle.",
+        "Being exceptionally long.",
+        "A vibrant color.",
+        "Being soft and pliable."
+      ],
+      "answer": "Being dry and brittle.",
+      "pages": [
+        179
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the hose is dry, brittle, soft, spongy, or full of sludge or hard deposits, you should replace it."
+      ]
+    },
+    {
+      "id": "ch08_mcq_049",
+      "question": "What is one method for restoring a malfunctioning PCV valve?",
+      "options": [
+        "Replacing it with a new one",
+        "Inspecting the oxygen sensor",
+        "Immersing it in carburetor cleaner",
+        "Adjusting the fuel mixture"
+      ],
+      "answer": "Immersing it in carburetor cleaner",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your vehicle\u2019s PCV valve isn\u2019t working, you can clean it yourself by immers-ing it in carburetor cleaner or solvent your auto supply store deems suitable."
+      ]
+    },
+    {
+      "id": "ch08_mcq_050",
+      "question": "Which of the following is a possible indication of catalytic converter malfunction?",
+      "options": [
+        "Increased acceleration",
+        "Improved fuel efficiency",
+        "Vehicle passes an emissions test",
+        "Check Engine light illumination"
+      ],
+      "answer": "Check Engine light illumination",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The MIL or Check Engine light comes on."
+      ]
+    },
+    {
+      "id": "ch08_mcq_051",
+      "question": "What is a common cause of catalytic converter failure in older vehicles?",
+      "options": [
+        "Clogging due to exhaust gas buildup",
+        "Excessive engine speed",
+        "Low engine oil levels",
+        "Damage to the cylinder head gasket"
+      ],
+      "answer": "Clogging due to exhaust gas buildup",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The most common cause of failure in a catalytic converter in an older car is that it becomes so clogged that the exhaust gases can\u2019t get through it to the muffler and out of the car."
+      ]
+    },
+    {
+      "id": "ch08_mcq_052",
+      "question": "What system has been required in all U.S. vehicles since 1996?",
+      "options": [
+        "OBD I",
+        "Fuel injection",
+        "OBD II",
+        "ABS"
+      ],
+      "answer": "OBD II",
+      "pages": [
+        180
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Every car sold in the U.S. since 1996 has had an OBD (On-Board Diagnostic) II system that tests the catalytic converter (among many other things)."
+      ]
+    },
+    {
+      "id": "ch08_mcq_053",
+      "question": "What is one reason an engine might die if a catalytic converter is clogged?",
+      "options": [
+        "The fuel mixture is too lean",
+        "The engine is receiving too much fuel",
+        "The spark plugs are malfunctioning",
+        "Exhaust gases cannot escape, inhibiting airflow"
+      ],
+      "answer": "Exhaust gases cannot escape, inhibiting airflow",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If air can\u2019t get out the rear of the vehicle, it can\u2019t come in the front end, so the engine dies because no air is coming in to form the fuel\/air mixture."
+      ]
+    },
+    {
+      "id": "ch08_mcq_054",
+      "question": "What is a potential consequence of unburned fuel in exhaust gases?",
+      "options": [
+        "Catalytic converter wear or breakdown",
+        "Improved catalytic converter efficiency",
+        "Increased fuel economy",
+        "Reduced engine noise"
+      ],
+      "answer": "Catalytic converter wear or breakdown",
+      "pages": [
+        181
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Also, if your ignition system isn\u2019t\noperating properly, unburned fuel in the exhaust gases can cause the catalytic\nconverter to wear out or break down."
+      ]
+    },
+    {
+      "id": "ch08_mcq_055",
+      "question": "What is the primary function of piston rings?",
+      "options": [
+        "To enhance the catalytic converter's performance",
+        "To regulate engine temperature",
+        "To prevent pressure escape and oil entry into cylinders",
+        "To increase engine noise"
+      ],
+      "answer": "To prevent pressure escape and oil entry into cylinders",
+      "pages": [
+        181
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "These rings prevent the pressure at the top of a cylinder from escaping and the oil that lubricates the engine from entering a cylinder."
+      ]
+    },
+    {
+      "id": "ch08_mcq_056",
+      "question": "Rough engine running or loss of power could indicate what problem?",
+      "options": [
+        "Overheating of the exhaust system",
+        "Optimal catalytic converter function",
+        "A lack of pressure in one or more cylinders",
+        "Excessive engine lubrication"
+      ],
+      "answer": "A lack of pressure in one or more cylinders",
+      "pages": [
+        181
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your vehicle has been running roughly or seems\\nto be losing power, it\u2019s possible that there\u2019s a lack\\nof pressure in one or more of the cylinders."
+      ]
+    },
+    {
+      "id": "ch08_mcq_057",
+      "question": "What is the main purpose of a compression gauge?",
+      "options": [
+        "To test the pressure exerted by the piston on the fuel\/air mixture",
+        "To measure the amount of fuel in the tank",
+        "To check the spark plug's firing strength",
+        "To monitor exhaust gas composition"
+      ],
+      "answer": "To test the pressure exerted by the piston on the fuel\/air mixture",
+      "pages": [
+        181
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "This device tests the amount of pressure that the piston exerts on the fuel\/air mixture before the spark plug fires the mixture."
+      ]
+    },
+    {
+      "id": "ch08_mcq_058",
+      "question": "Why is it important not to park a vehicle over dry grass or leaves?",
+      "options": [
+        "To improve fuel efficiency",
+        "To avoid tire damage",
+        "Because the catalytic converter can become extremely hot",
+        "To prevent theft"
+      ],
+      "answer": "Because the catalytic converter can become extremely hot",
+      "pages": [
+        181
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because the catalytic converter can become extremely hot, it\u2019s important not to park your vehicle over a bed of dry grass or dry leaves, which could catch fire and destroy not only your vehicle but also the surrounding area!"
+      ]
+    },
+    {
+      "id": "ch08_mcq_059",
+      "question": "What is one potential consequence of worn piston rings and cylinder walls?",
+      "options": [
+        "Increased fuel efficiency",
+        "Reduced compression in the cylinders",
+        "Stronger spark plug ignition",
+        "Improved exhaust sound"
+      ],
+      "answer": "Reduced compression in the cylinders",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Poor maintenance can cause the rings and cylinder walls to become thinner with wear, creating a gap between them that allows gases to bypass the rings. This reduces compression in the cylinders"
+      ]
+    },
+    {
+      "id": "ch08_mcq_060",
+      "question": "Why might it be helpful to have assistance when checking compression?",
+      "options": [
+        "To access tools more easily",
+        "To hold the compression gauge in place",
+        "To adjust the vehicle\u2019s alignment",
+        "To increase engine power"
+      ],
+      "answer": "To hold the compression gauge in place",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Checking compression is easier if\nyou have someone to assist you,\nespecially if your gauge needs to be\nheld in place (see Figure 8-10)."
+      ]
+    },
+    {
+      "id": "ch08_mcq_061",
+      "question": "What is a consideration before proceeding with a \u201cring job\u201d?",
+      "options": [
+        "The color of the distributor cap",
+        "The availability of remote starter switches",
+        "The type of parking brake used",
+        "The vehicle's blue book value"
+      ],
+      "answer": "The vehicle\u2019s blue book value",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Before you allow anyone to undertake a \u201cring job,\u201d check the compression to see whether your car really needs it and be sure that the vehicle\u2019s blue book value warrants such a costly investment."
+      ]
+    },
+    {
+      "id": "ch08_mcq_062",
+      "question": "What should be done with the metal connector after removing the wire that leads to the coil?",
+      "options": [
+        "Lean it against an unpainted metal surface",
+        "Submerge it in oil",
+        "Secure it to the distributor cap",
+        "Connect it to the spark plugs"
+      ],
+      "answer": "Lean it against an unpainted metal surface",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cPull the big wire that leads to the coil from the center of the distributor cap, and lean the metal connector against an unpainted metal surface as far away from the spark plugs as possible.\u201d"
+    },
+    {
+      "id": "ch08_mcq_063",
+      "question": "What is the purpose of disabling the fuel injection system before performing the procedure?",
+      "options": [
+        "To prevent gasoline mist from igniting",
+        "To ensure accurate spark plug labeling",
+        "To simplify spark plug removal",
+        "To allow for easier fuse removal"
+      ],
+      "answer": "To prevent gasoline mist from igniting",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\u2022 On vehicles with distributorless ignitions: Disconnect the electri- \ncal connector at the ignition control module. If you\u2019re not sure\nwhat to disconnect, ask a mechanic.\n3. For safety\u2019s sake, disable the fuel injection system so that gasoline\nmist won\u2019t spray out of the spark plug holes and possibly ignite."
+      ]
+    },
+    {
+      "id": "ch08_mcq_064",
+      "question": "Why is it important to label the boots that connect each spark plug wire?",
+      "options": [
+        "To assist in identifying the fuel pump fuse",
+        "To simplify the removal of the remote starter switch",
+        "To ensure proper engine lubrication",
+        "To prevent mixing up the spark plug wires"
+      ],
+      "answer": "To prevent mixing up the spark plug wires",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you get the plug wires mixed up, you can really screw up your engine."
+      ]
+    },
+    {
+      "id": "ch08_mcq_065",
+      "question": "If a compression gauge reading remains the same after oil is added to the spark plug opening, what is a likely cause?",
+      "options": [
+        "A faulty remote starter switch",
+        "A disconnected electrical connector",
+        "Worn or misadjusted valves",
+        "Incorrect spark plug labeling"
+      ],
+      "answer": "Worn or misadjusted valves",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the reading is the same, the valves either are worn (and letting pressure escape) or are out of adjustment."
+      ]
+    },
+    {
+      "id": "ch08_mcq_066",
+      "question": "What should be the maximum allowable percentage difference between the highest and lowest compression gauge readings?",
+      "options": [
+        "15 percent",
+        "20 percent",
+        "10 percent",
+        "5 percent"
+      ],
+      "answer": "15 percent",
+      "pages": [
+        183
+      ],
+      "confidence": 4.0,
+      "justification": "The highest and lowest shouldn\u2019t vary by more than 15 percent."
+    },
+    {
+      "id": "ch08_mcq_067",
+      "question": "If you do not have a remote starter switch, what is the recommended action during the compression test?",
+      "options": [
+        "Have a friend turn the ignition until the engine cranks approximately six times",
+        "Label the boots that connect each spark plug wire",
+        "Remove the fuse labeled 'Fuel Pump'",
+        "Disconnect the electrical connector at the ignition control module"
+      ],
+      "answer": "Have a friend turn the ignition until the engine cranks approximately six times",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "8. If you don\u2019t have a remote starter switch, have a friend turn on the ignition until the engine cranks over about six times. Otherwise, press the button of the remote starter switch."
+      ]
+    },
+    {
+      "id": "ch08_mcq_068",
+      "question": "What is indicated by a cylinder pressure reading less than 100 psi?",
+      "options": [
+        "The spark plugs need replacing.",
+        "The cylinder is not mechanically sound.",
+        "The cylinder is mechanically sound.",
+        "The engine is ready for a tune-up."
+      ],
+      "answer": "The cylinder is not mechanically sound.",
+      "pages": [
+        184
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the pressure recorded by the gauges is less than 100 psi, the cylinder definitely isn\u2019t mechanically sound."
+      ]
+    },
+    {
+      "id": "ch08_mcq_069",
+      "question": "If a vehicle is nearing the end of its lifespan, what is suggested regarding necessary engine repairs?",
+      "options": [
+        "The engine should be replaced with a new one.",
+        "The vehicle should be discarded.",
+        "The vehicle should be taken to a dealership.",
+        "The engine should be rebuilt immediately."
+      ],
+      "answer": "The vehicle should be discarded.",
+      "pages": [
+        184
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your vehicle was on its way out anyway, it\u2019s time to get rid of it."
+      ]
+    },
+    {
+      "id": "ch08_mcq_070",
+      "question": "Before reconnecting spark plug wires, what precaution should be taken?",
+      "options": [
+        "Ensure the engine is running.",
+        "Tighten the spark plugs by hand.",
+        "Confirm the correct spark plug is being used.",
+        "Make sure the ignition is off."
+      ],
+      "answer": "Make sure the ignition is off.",
+      "pages": [
+        184
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Make sure that the ignition is off before you reconnect the spark plug wires, and be sure to put the correct spark plug wire boot back on each plug."
+      ]
+    },
+    {
+      "id": "ch08_mcq_071",
+      "question": "What action should be taken if the \u201cCheck Engine\u201d warning light remains illuminated after a compression test?",
+      "options": [
+        "Ignore the light.",
+        "Replace the engine.",
+        "Have it reset at the dealership.",
+        "Tighten all bolts."
+      ],
+      "answer": "Have it reset at the dealership.",
+      "pages": [
+        184
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the \u201cCheck Engine\u201d warning light comes on after you perform a compres- \n test and doesn\u2019t disappear in a couple of days, have it reset at the "
+      ]
+    },
+    {
+      "id": "ch08_mcq_072",
+      "question": "When seeking assistance for persistent vehicle issues, what is advised regarding communicating suspicions to a service facility?",
+      "options": [
+        "Directly tell them your diagnosis.",
+        "Demand specific tests be performed.",
+        "Suggest potential causes to appear informed.",
+        "Request a complete engine overhaul."
+      ],
+      "answer": "Suggest potential causes to appear informed.",
+      "pages": [
+        184
+      ],
+      "confidence": 3.0,
+      "justification": "Notice that I don\u2019t say \u201ctell them\u201d because if you do and the work turns out not to have been necessary, you\u2019ll get charged for it anyway. Just suggest that these may be the culprits to impress them with the fact that you\u2019re an informed customer (and no longer a dummy . . .)."
+    },
+    {
+      "id": "ch08_mcq_073",
+      "question": "What action is recommended if a suggested repair appears excessively expensive?",
+      "options": [
+        "Research the repair yourself",
+        "Perform the repair immediately",
+        "Consult the vehicle's owner's manual",
+        "Decline the repair and seek a different opinion"
+      ],
+      "answer": "Decline the repair and seek a different opinion",
+      "pages": [
+        185
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Even if your vehicle has a traditional internal combustion engine, you may\nwant to brush up on newer and more fuel-efficient alternatives that await you\nwhen it\u2019s time to buy a new one. Chapters 9 and 10 tell you all about vehicles\nequipped with diesel engines and alternative fuel systems."
+      ]
+    },
+    {
+      "id": "ch08_mcq_074",
+      "question": "What does the text suggest one might consider when planning for future vehicle purchases?",
+      "options": [
+        "Traditional internal combustion engines",
+        "Diesel engines and alternative fuel systems",
+        "Extended warranties",
+        "Lower insurance premiums"
+      ],
+      "answer": "Diesel engines and alternative fuel systems",
+      "pages": [
+        185
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Even if your vehicle has a traditional internal combustion engine, you may want to brush up on newer and more fuel-efficient alternatives that await you when it\u2019s time to buy a new one. Chapters 9 and 10 tell you all about vehicles equipped with diesel engines and alternative fuel systems."
+      ]
+    },
+    {
+      "id": "ch08_short_001",
+      "question": "Name three fuel system components that should be checked and replaced at specified intervals.",
+      "options": null,
+      "answer": "air and fuel filters, and PCV valves",
+      "pages": [
+        170
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your vehicle has fuel injection, air and fuel filters, and PCV valves, they should be checked and replaced, if necessary, at the intervals specified in your owner\u2019s manual, or you may risk voiding your warranty."
+      ]
+    },
+    {
+      "id": "ch08_short_003",
+      "question": "Briefly describe the advantage of being able to discuss less-expensive solutions with a service facility.",
+      "options": null,
+      "answer": "If less-expensive solutions are discussed and tried first, the service facility won\u2019t waste time (and your money) on lengthy test drives and diagnostics.",
+      "pages": [
+        170
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cIf these work, they won\u2019t waste their time (and your money) on lengthy test drives and diagnostics.\u201d"
+    },
+    {
+      "id": "ch08_short_004",
+      "question": "Describe how to initially access the air filter within its housing.",
+      "options": null,
+      "answer": "Loosen the hose clamp that seals the air intake hose to the box, and then undo all the screws, clamps, or wing nuts that hold the lid of the box in place.",
+      "pages": [
+        171
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Loosen the hose clamp that seals it to the box, and then undo all the screws, clamps, or wing nuts that hold the lid of the box in place."
+      ]
+    },
+    {
+      "id": "ch08_short_005",
+      "question": "What type of air filter might you find in an older or off-road vehicle?",
+      "options": null,
+      "answer": "Some older vehicles have permanent air filters, and some off-road vehicles have more-complex filters with wet and dry elements.",
+      "pages": [
+        171
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Some older vehicles have permanent air filters, and some off-road vehicles have more-complex filters with wet and dry elements."
+      ]
+    },
+    {
+      "id": "ch08_short_006",
+      "question": "Explain why it's important to keep track of fasteners removed during maintenance.",
+      "options": null,
+      "answer": "To prevent them from rolling off into oblivion.",
+      "pages": [
+        171
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Put the fasteners you removed somewhere safe so that they don\u2019t roll off into oblivion."
+      ]
+    },
+    {
+      "id": "ch08_short_007",
+      "question": "Describe the proper direction to blow dirt off a pleated air filter when using an air hose.",
+      "options": null,
+      "answer": "blow the dirt off (not through) it",
+      "pages": [
+        172
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To clean a pleated air filter either use an air hose to blow the dirt off (not through) it or a vacuum to suck it out."
+      ]
+    },
+    {
+      "id": "ch08_short_008",
+      "question": "What is one advantage of using a battery-powered hand vac?",
+      "options": null,
+      "answer": "You don\u2019t have to buy a compressed air gun or schlep the car to a service station to use theirs (and some of them are now charging for the air!).",
+      "pages": [
+        172
+      ],
+      "confidence": 3.0,
+      "justification": "You don\u2019t have to buy a compressed air gun or schlep the car to a service station to use theirs (and some of them are now charging for the air!)."
+    },
+    {
+      "id": "ch08_short_009",
+      "question": "What is the primary purpose of the cold air collector box?",
+      "options": null,
+      "answer": "The cold air collector box houses the air filter.",
+      "pages": [
+        172
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Figure 8-1: The cold air collector box houses the air filter."
+      ]
+    },
+    {
+      "id": "ch08_short_010",
+      "question": "What should you do in the parking lot after purchasing an air filter to ensure it is the correct one?",
+      "options": null,
+      "answer": "To save yourself a trip back to the auto supply store, take the time to open your cold air collector box and check the filter you purchase against your current filter while you\u2019re still in the store parking lot. Make sure that the filter you get matches your old filter in size and shape. It should look exactly like the old one.",
+      "pages": [
+        173
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To save yourself a trip back to the auto supply store, take the time to open your cold air collector box and check the filter you purchase against your current filter while you\u2019re still in the store parking lot. Make sure that the filter you get matches your old filter in size and shape. It should look exactly like the old one."
+      ]
+    },
+    {
+      "id": "ch08_short_011",
+      "question": "Where should the part number of the air filter be recorded?",
+      "options": null,
+      "answer": "When you have the correct part number for the filter, enter it in the Specifications Record in Appendix B.",
+      "pages": [
+        173
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "When you have the correct part number for the filter, enter it in the Specifications Record in Appendix B."
+      ]
+    },
+    {
+      "id": "ch08_short_013",
+      "question": "Describe one reason why keeping a fuel tank well-filled is beneficial.",
+      "options": null,
+      "answer": "Keeping a fuel tank well-filled reduces the amount of water vapor hanging around.",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you keep your fuel tank well-filled, there\u2019s less room for air and therefore less water vapor hanging around."
+      ]
+    },
+    {
+      "id": "ch08_short_014",
+      "question": "What type of fittings might secure fuel lines to a filter, potentially requiring specialized tools?",
+      "options": null,
+      "answer": "Lines with threaded fittings require a special flare-nut line wrench. Lines with special quick-connect fittings may require special tools to disconnect them.",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Lines with threaded fittings require a special flare-nut line wrench. Lines with special quick-connect fittings may require special tools to disconnect them."
+      ]
+    },
+    {
+      "id": "ch08_short_015",
+      "question": "What might happen if a fuel tank is consistently driven close to empty?",
+      "options": null,
+      "answer": "The fuel fed to your engine could be like the last bit of coffee in the bottom of the pot \u2014 full of sediment that tends to stick in the throat.",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "But if you let the fuel level in the tank get too low, the fuel fed to your engine could be like the last bit of coffee in the bottom of the pot \u2014 full of sediment that tends to stick in the throat."
+      ]
+    },
+    {
+      "id": "ch08_short_016",
+      "question": "What is the purpose of a fuel filter?",
+      "options": null,
+      "answer": "Some fuel tanks have filters to prevent this junk from getting through to the engine",
+      "pages": [
+        174
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Some fuel tanks have filters to prevent this junk from getting through to the engine"
+      ]
+    },
+    {
+      "id": "ch08_short_017",
+      "question": "Why might it be more cost-effective to have a technician replace a fuel filter?",
+      "options": null,
+      "answer": "If doing this infrequent job requires purchasing special tools, it\u2019s probably cheaper to have it done by a technician.",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If doing this infrequent job requires purchasing special tools, it\u2019s probably cheaper to have it done by a technician."
+      ]
+    },
+    {
+      "id": "ch08_short_018",
+      "question": "What type of light is advised to use instead of a work light with an incandescent bulb when working on a fuel filter?",
+      "options": null,
+      "answer": "a flashlight",
+      "pages": [
+        175
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Don\u2019t use a work light with an incandescent bulb when changing a fuel filter... Use a flashlight if you need to shed some light on the subject."
+      ]
+    },
+    {
+      "id": "ch08_short_019",
+      "question": "Where can a service manual for a vehicle typically be found if a vehicle owner does not own one?",
+      "options": null,
+      "answer": "at your local library",
+      "pages": [
+        175
+      ],
+      "confidence": 3.0,
+      "justification": "Although it\u2019s a good idea to own one, you can usually find these manuals at your local library."
+    },
+    {
+      "id": "ch08_short_020",
+      "question": "What professional should address filtration issues related to a fuel tank filter screen?",
+      "options": null,
+      "answer": "a professional",
+      "pages": [
+        175
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If they get blocked up, only a professional should deal with them."
+      ]
+    },
+    {
+      "id": "ch08_short_021",
+      "question": "Where can instructions for locating the fuel pump fuse be found?",
+      "options": null,
+      "answer": "your owner\u2019s manual",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "With the engine off, remove the fuel pump fuse from the fuse box (your owner\u2019s manual should show you where it is), following the instructions in Chapter 6."
+      ]
+    },
+    {
+      "id": "ch08_short_022",
+      "question": "What position should the vehicle be in before starting the engine to relieve fuel line pressure?",
+      "options": null,
+      "answer": "Park or Neutral",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Make sure that the parking brake is on and that the vehicle is in Park or Neutral, and then start the engine."
+      ]
+    },
+    {
+      "id": "ch08_short_023",
+      "question": "Describe the significance of the arrow typically found on fuel filters.",
+      "options": null,
+      "answer": "The arrow shows in which direction the fuel flows through it.",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You should see an arrow stamped on both filters that shows in which direction the fuel flows through it."
+      ]
+    },
+    {
+      "id": "ch08_short_024",
+      "question": "After installation, what is checked for after starting the engine?",
+      "options": null,
+      "answer": "leaks around the filter",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "make sure that the parking brake is on and that the vehicle is in Park or Neutral, and then start the engine and check for leaks around the filter."
+      ]
+    },
+    {
+      "id": "ch08_short_025",
+      "question": "What should be done with the old filter insert when replacing an insert in a fuel filter?",
+      "options": null,
+      "answer": "Lift out the old insert",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your vehicle has a fuel filter with an insert that can be replaced, follow Step 1 in the previous section to disable the fuel pump. Then open the cap on the filter, lift out the old insert, and drop in the new one facing in the"
+      ]
+    },
+    {
+      "id": "ch08_short_026",
+      "question": "What does PCV stand for?",
+      "options": null,
+      "answer": "positive crankcase ventilation valve",
+      "pages": [
+        177
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The PCV valve (positive crankcase ventilation valve) is a vital part of the emissions control system on most vehicles."
+      ]
+    },
+    {
+      "id": "ch08_short_027",
+      "question": "Besides the valve cover, where else might the PCV valve be located?",
+      "options": null,
+      "answer": "on or near the intake manifold",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": "The PCV valve is usually plugged into a rubber grommet in the valve cover (see Figure 8-6), although it may be located on or near the intake manifold (see Figures 8-6 and 8-7)."
+    },
+    {
+      "id": "ch08_short_028",
+      "question": "What might cover the end of a hose leading to the PCV valve?",
+      "options": null,
+      "answer": "A little L-shaped housing",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Sometimes there\u2019s a little L-shaped housing on the end of the hose that covers the end of the valve."
+      ]
+    },
+    {
+      "id": "ch08_short_031",
+      "question": "Describe what a \u2018fouled\u2019 PCV valve would sound like when shaken, according to the described method.",
+      "options": null,
+      "answer": "If it\u2019s fouled, the rattle will be indistinct or non-existent.",
+      "pages": [
+        178
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If it\u2019s fouled, the rattle will be indistinct or non-existent."
+      ]
+    },
+    {
+      "id": "ch08_short_032",
+      "question": "What is the purpose of keeping the hose attached when removing the PCV valve for Method 1?",
+      "options": null,
+      "answer": "To place your finger over the open end of the hose.",
+      "pages": [
+        178
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Then place your finger over the open end of the hose (see Figure 8-8)."
+      ]
+    },
+    {
+      "id": "ch08_short_034",
+      "question": "Describe two potential signs that a hose should be replaced.",
+      "options": null,
+      "answer": "If the hose is dry, brittle, soft, spongy, or full of sludge or hard deposits, you should replace it.",
+      "pages": [
+        179
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the hose is dry, brittle, soft, spongy, or full of sludge or hard deposits, you should replace it."
+      ]
+    },
+    {
+      "id": "ch08_short_035",
+      "question": "Why is it important to check the hose and hose clamps or grommet when replacing the PCV valve?",
+      "options": null,
+      "answer": "You don\u2019t want to have to make two trips to the auto parts store!",
+      "pages": [
+        179
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You don\u2019t want to have to make two trips to the auto parts store!"
+      ]
+    },
+    {
+      "id": "ch08_short_036",
+      "question": "What is one reason why a valve might be held in place?",
+      "options": null,
+      "answer": "Some PCV valves are held in place with a rubber grommet.",
+      "pages": [
+        179
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Some PCV valves are held in place with a rubber grommet and can just be pulled free."
+      ]
+    },
+    {
+      "id": "ch08_short_037",
+      "question": "Briefly describe the purpose of a catalytic converter.",
+      "options": null,
+      "answer": "The catalytic converter is a very important part of the emissions control system on your vehicle.",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The catalytic converter is a very important part of the emissions control system on your vehicle."
+      ]
+    },
+    {
+      "id": "ch08_short_038",
+      "question": "What tools might a technician use to diagnose a catalytic converter problem?",
+      "options": null,
+      "answer": "Technicians will put your vehicle on an electronic diagnostic machine and use a 'scan tool'.",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Technicians will put your vehicle on an electronic diagnostic machine to locate the source of the problem, possibly remove the oxygen sensor from the exhaust manifold or exhaust pipe ahead of the catalytic converter to see if that changes things, and replace the catalytic converter, if necessary.",
+        "If the unit allows too much pollution to escape from the tailpipe, it illuminates the MIL and produces a trouble code that can be read by a technician with what\u2019s called a \u201cscan tool.\u201d"
+      ]
+    },
+    {
+      "id": "ch08_short_039",
+      "question": "Explain why a damaged cylinder head gasket can contribute to catalytic converter failure.",
+      "options": null,
+      "answer": "A damaged cylinder head gasket can contribute to catalytic converter failure if it allows oil or coolant to get into the combustion chamber.",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "if the cylinder head gasket is damaged, allowing oil or coolant to get into the combustion"
+      ]
+    },
+    {
+      "id": "ch08_short_040",
+      "question": "What is the MIL, and what does it do?",
+      "options": null,
+      "answer": "The MIL or Check Engine light comes on.",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The MIL or Check Engine light comes on."
+      ]
+    },
+    {
+      "id": "ch08_short_041",
+      "question": "Name three possible locations where pressure can escape from a cylinder.",
+      "options": null,
+      "answer": "out through one of the valve openings, down past the rings on the piston, or through a blown head gasket",
+      "pages": [
+        181
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cBasically, three places: either out through one of the valve openings (because the valve is improperly adjusted or so worn that it doesn\u2019t close properly) or down past the rings on the piston or through a blown head gasket.\u201d"
+    },
+    {
+      "id": "ch08_short_043",
+      "question": "What are the consequences if the piston rings become worn?",
+      "options": null,
+      "answer": "When the rings get worn, oil gets in and pressure gets out.",
+      "pages": [
+        181
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When the rings get worn, oil gets in and pressure gets out."
+      ]
+    },
+    {
+      "id": "ch08_short_044",
+      "question": "Describe what happens when compression decreases in cylinders.",
+      "options": null,
+      "answer": "This reduces compression in the cylinders and, as you know from the section on the four-stroke power cycle in Chapter 7, you don\u2019t get as big a bang for your buck, so your vehicle loses power.",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cThis reduces compression in the cylinders and, as you know from the section on the four-stroke power cycle in Chapter 7, you don\u2019t get as big a bang for your buck, so your vehicle loses power.\u201d"
+    },
+    {
+      "id": "ch08_short_045",
+      "question": "What should be done to a shield covering the engine before removing it?",
+      "options": null,
+      "answer": "carefully remove any dust on the surface of the shield",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your engine is covered by a shield, carefully remove any dust on the surface of the shield before you remove it."
+      ]
+    },
+    {
+      "id": "ch08_short_046",
+      "question": "Why is a remote starter switch mentioned?",
+      "options": null,
+      "answer": "Unless you buy or borrow a remote starter switch, have someone sit in the driver\u2019s seat with the engine off, the gearshift in Park or Neutral, and the parking brake on.",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Unless you buy or borrow a remote starter switch, have someone sit in the driver\u2019s seat with the engine off, the gearshift in Park or Neutral, and the parking brake on."
+      ]
+    },
+    {
+      "id": "ch08_short_047",
+      "question": "What is the first step mentioned to disable the fuel injection system?",
+      "options": null,
+      "answer": "Remove the fuse labeled \u201cFuel Pump\u201d",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Remove the fuse labeled \u201cFuel Pump\u201d; then start the car and let it run until it stalls from lack of gasoline."
+      ]
+    },
+    {
+      "id": "ch08_short_048",
+      "question": "What unit of measurement is used for the compression gauge readings?",
+      "options": null,
+      "answer": "psi (pounds per square inch)",
+      "pages": [
+        183
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Look at the gauge and write down the reading, which will be in psi (pounds per square inch)."
+      ]
+    },
+    {
+      "id": "ch08_short_049",
+      "question": "Where should the compression gauge be inserted?",
+      "options": null,
+      "answer": "Insert the compression gauge into the hole in the engine where the first spark plug screwed into the cylinder",
+      "pages": [
+        183
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Insert the compression gauge into the hole in the engine where the first spark plug screwed into the cylinder"
+      ]
+    },
+    {
+      "id": "ch08_short_050",
+      "question": "What tool is used to send oil down the spark plug opening?",
+      "options": null,
+      "answer": "a trigger-type oil can",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "use a trigger-type oil can to send a good squirt of motor oil down the spark plug opening"
+      ]
+    },
+    {
+      "id": "ch08_short_051",
+      "question": "What is the purpose of a remote starter switch in this procedure?",
+      "options": null,
+      "answer": "To crank the engine.",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Otherwise, press the button of the remote starter switch."
+      ]
+    },
+    {
+      "id": "ch08_short_052",
+      "question": "What should be done to avoid damaging the threads when installing spark plugs?",
+      "options": null,
+      "answer": "Screw the plugs in by hand to avoid damaging the threads in the aluminum valve cover.",
+      "pages": [
+        184
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Screw the plugs in by hand to avoid damaging the threads in the aluminum valve cover."
+      ]
+    },
+    {
+      "id": "ch08_short_053",
+      "question": "What two types of gas mixtures should a service facility test for?",
+      "options": null,
+      "answer": "a fuel\/air mixture that\u2019s too lean or too rich",
+      "pages": [
+        184
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Ask whether they intend to test your exhaust gases to see whether you\u2019re running on a fuel\/air mixture that\u2019s too lean or too rich or whether your catalytic converter may be at fault."
+      ]
+    },
+    {
+      "id": "ch08_short_054",
+      "question": "Why is it advised to \u201csuggest\u201d rather than \u201ctell\u201d a service facility about potential problems?",
+      "options": null,
+      "answer": "If you 'tell' them and the work turns out not to have been necessary, you\u2019ll get charged for it anyway.",
+      "pages": [
+        184
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you do and the work turns out not to have been necessary, you\u2019ll get charged for it anyway."
+      ]
+    },
+    {
+      "id": "ch08_short_055",
+      "question": "Briefly explain why it might be beneficial to consider alternative fuel systems when purchasing a new vehicle.",
+      "options": null,
+      "answer": "It may be beneficial to consider alternative fuel systems when purchasing a new vehicle because they are newer and more fuel-efficient.",
+      "pages": [
+        185
+      ],
+      "confidence": 3.0,
+      "justification": "Even if your vehicle has a traditional internal combustion engine, you may want to brush up on newer and more fuel-efficient alternatives that await you when it\u2019s time to buy a new one."
+    },
+    {
+      "id": "ch08_short_056",
+      "question": "What two topics are discussed in Chapters 9 and 10?",
+      "options": null,
+      "answer": "vehicles equipped with diesel engines and alternative fuel systems",
+      "pages": [
+        185
+      ],
+      "confidence": 4.0,
+      "justification": "Chapters 9 and 10 tell you all about vehicles equipped with diesel engines and alternative fuel systems."
+    },
+    {
+      "id": "ch08_true_false_001",
+      "question": "Performing your own basic maintenance tasks can potentially save you money.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        170
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cDoing so will cost you little in time and money and may prevent major repair bills.\u201d"
+    },
+    {
+      "id": "ch08_true_false_002",
+      "question": "If your vehicle has fuel injection, it does not require any scheduled maintenance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        170
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your vehicle has fuel injection, air and fuel filters, and PCV valves, they should be checked and replaced, if necessary, at the intervals specified in your owner\u2019s manual, or you may risk voiding your warranty."
+      ]
+    },
+    {
+      "id": "ch08_true_false_003",
+      "question": "Replacing a fuel pump is typically a less expensive repair compared to replacing a fuel filter.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        170
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Others, such as replacing a fuel pump, are costly."
+      ]
+    },
+    {
+      "id": "ch08_true_false_004",
+      "question": "It is always necessary to replace an air filter immediately upon inspection.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        171
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Some older vehicles have permanent air filters, and some off-road vehicles have more-complex filters with wet and dry elements. Clean and replace these according to the instructions in your owner\u2019s manual."
+      ]
+    },
+    {
+      "id": "ch08_true_false_005",
+      "question": "Modern vehicles typically have round metal air cleaners.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        171
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On most modern vehicles, the air filter is under the hood inside a rectangular cold air collector box that\u2019s located up near the front of the engine compartment. (Other vehicles, including those with carburetors, have big round metal air cleaners that are hard to miss.)"
+      ]
+    },
+    {
+      "id": "ch08_true_false_006",
+      "question": "Performing preventative maintenance can be beneficial even if a more significant repair is ultimately required.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        171
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your vehicle isn\u2019t due for regular maintenance and it isn\u2019t starting right up in the morning, starts conking out at stoplights or running roughly, or is producing readings that indicate problems on the electronic diagnostic machine at your repair shop, it may be a good idea to try the work outlined in this chapter before opting for major surgery. Even if it turns out that the problem calls for more drastic measures, you\u2019ll still have taken care of maintenance that would have been necessary before too long."
+      ]
+    },
+    {
+      "id": "ch08_true_false_007",
+      "question": "It is recommended to use compressed air near the vehicle when cleaning the cold air collector box.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        172
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "And if you\u2019re using compressed air, do it away from the vehicle to avoid blowing the dirt around under the hood."
+      ]
+    },
+    {
+      "id": "ch08_true_false_008",
+      "question": "If an air filter still appears dirty after being dropped on a hard surface, it should be cleaned.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        172
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the filter is still too dirty to see through after you\u2019ve dropped it a few times and it looks as though it just needs a bit of cleaning, you can try to clean it following the directions below."
+      ]
+    },
+    {
+      "id": "ch08_true_false_009",
+      "question": "A 'hand vac' requires electricity from a car battery to operate.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        172
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "I keep a battery-powered hand vac in the trunk of my car to do stuff like this as well"
+      ]
+    },
+    {
+      "id": "ch08_true_false_010",
+      "question": "Fuel filters on modern fuel-injected vehicles typically require replacement at fixed intervals, regardless of vehicle condition.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        173
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Unless your vehicle suddenly starts to hesitate or run roughly, fuel filters on modern fuel-injected vehicles only need to be checked \u2014 and replaced, if necessary \u2014 during the tune-up inspections specified in your owner\u2019s manual."
+      ]
+    },
+    {
+      "id": "ch08_true_false_012",
+      "question": "An air filter's part number is unimportant, as long as it fits the air collector box.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        173
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "When you have the correct part number for the filter, enter it in the Specifications Record in Appendix B."
+      ]
+    },
+    {
+      "id": "ch08_true_false_013",
+      "question": "Keeping a fuel tank consistently full guarantees that rust will never form.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        174
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Because the space in the fuel tank above the\nfuel level is filled with air, and because air con-\ntains quite a bit of water vapor, the water in the\nair tends to condense on the sides of the fuel\ntank and elsewhere on cool mornings. This\nwater vapor can rust the insides of a metal fuel\ntank..."
+      ]
+    },
+    {
+      "id": "ch08_true_false_015",
+      "question": "A vehicle\u2019s owner\u2019s manual can provide information about the location of the fuel filter.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Your owner\u2019s manual should show you where your fuel filter is and whether there\u2019s more than one on your vehicle."
+      ]
+    },
+    {
+      "id": "ch08_true_false_016",
+      "question": "Fuel filters never need to be replaced.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        174
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "the filters can get choked up if you consistently drive on an empty tank"
+      ]
+    },
+    {
+      "id": "ch08_true_false_018",
+      "question": "It is safe to use a work light with an incandescent bulb when replacing a fuel filter.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        175
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Don\u2019t use a work light with an incandescent bulb when changing a fuel filter. Fuel that drips on the bulb can cause it to break and start a fire. Use a flashlight if you need to shed some light on the subject."
+      ]
+    },
+    {
+      "id": "ch08_true_false_019",
+      "question": "Fuel filters located in the fuel line might be held in place by metal clamps.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        175
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On some vehicles, the fuel filter is found anywhere in the fuel line from the fuel tank to the fuel injec-tors and is held in place by metal clamps on either side of it."
+      ]
+    },
+    {
+      "id": "ch08_true_false_020",
+      "question": "Replacing a fuel filter is always a task that can be safely handled by any vehicle owner, regardless of experience.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        175
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Some fuel filters on fuel-injected engines require special tools to disconnect the fuel lines in order to get to the filters.",
+        "If they get blocked up, only a professional should deal with them."
+      ]
+    },
+    {
+      "id": "ch08_true_false_021",
+      "question": "It is safe to start the engine without first disabling the electric fuel pump.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To do so, you have to disable the electric fuel pump before you start the engine."
+      ]
+    },
+    {
+      "id": "ch08_true_false_022",
+      "question": "The direction of the arrow on the new filter does not matter.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You should see an arrow stamped on both filters that shows in which direction the fuel flows through it.",
+        "Put the new filter on with the arrow facing toward the engine or in the same position as the old one was."
+      ]
+    },
+    {
+      "id": "ch08_true_false_023",
+      "question": "Replacing a filter insert requires the fuel pump to be disabled.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your vehicle has a fuel filter with an insert that can be replaced, follow Step 1 in the previous section to disable the fuel pump."
+      ]
+    },
+    {
+      "id": "ch08_true_false_024",
+      "question": "A vehicle in Neutral can be used in place of the parking brake.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        176
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Make sure that the parking brake is on and that the vehicle is in Park or Neutral, and then start the engine."
+      ]
+    },
+    {
+      "id": "ch08_true_false_025",
+      "question": "The owner\u2019s manual does not provide information on locating the fuel pump fuse.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        176
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "your owner\u2019s manual should show you where it is"
+      ]
+    },
+    {
+      "id": "ch08_true_false_026",
+      "question": "Most vehicles do not have a PCV valve.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Not every vehicle has a PCV valve, but most do."
+      ]
+    },
+    {
+      "id": "ch08_true_false_027",
+      "question": "The recommended service interval for PCV valves is consistent across all vehicle manufacturers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Car manufacturers suggest that PCV valves be cleaned or replaced after somewhere between 20,000 to 50,000 miles of driving. Consult your owner\u2019s manual to see where the PCV valve is located on your vehicle and what the recommended service intervals are."
+      ]
+    },
+    {
+      "id": "ch08_true_false_028",
+      "question": "A clamp is sometimes used to secure a hose leading to the PCV valve.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        177
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A hose leading to the PCV valve is often kept in place by a clamp."
+      ]
+    },
+    {
+      "id": "ch08_true_false_029",
+      "question": "Replacing the PCV valve is always a job best left to a professional mechanic.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        177
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "The valve is usually replaced during sched-uled tune-ups, but depending on its type and location, you may be able to check, clean, and replace it yourself. This section has instructions for doing all the jobs."
+      ]
+    },
+    {
+      "id": "ch08_true_false_030",
+      "question": "The PCV valve is a part of the emissions control system.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        177
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The PCV valve (positive crankcase ventilation valve) is a vital part of the emissions control system on most vehicles."
+      ]
+    },
+    {
+      "id": "ch08_true_false_032",
+      "question": "A strong suction when a finger covers the hose opening suggests a faulty PCV valve.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        178
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the valve\u2019s working well, you will feel strong suction."
+      ]
+    },
+    {
+      "id": "ch08_true_false_035",
+      "question": "Checking for leaks after re-connecting the hose is a necessary final step.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        179
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "5. Reconnect the hose to the PCV valve.",
+        "6. Start the engine, and check around the PCV valve for leaks."
+      ]
+    },
+    {
+      "id": "ch08_true_false_036",
+      "question": "Replacing the PCV valve is generally an inexpensive repair.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        179
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "The good news is a PCV valve isn\u2019t terribly expensive."
+      ]
+    },
+    {
+      "id": "ch08_true_false_037",
+      "question": "A catalytic converter typically needs frequent replacement throughout a vehicle\u2019s lifespan.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It\u2019s usually good for the life of a vehicle, but occasionally it does fail."
+      ]
+    },
+    {
+      "id": "ch08_true_false_038",
+      "question": "A scan tool can be used by technicians to read trouble codes related to the catalytic converter.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        180
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Every car sold in the U.S. since 1996 has had an OBD (On-Board Diagnostic) II system that tests the catalytic converter (among many other things). If the unit allows too much pollution to escape from the tailpipe, it illuminates the MIL and produces a trouble code that can be read by a technician with what\u2019s called a \u201cscan tool.\u201d"
+      ]
+    },
+    {
+      "id": "ch08_true_false_040",
+      "question": "Vehicles manufactured before 1996 were not required to have an OBD system.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        180
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Every car sold in the U.S. since 1996 has had an OBD (On-Board Diagnostic) II system..."
+      ]
+    },
+    {
+      "id": "ch08_true_false_041",
+      "question": "If a catalytic converter is clogged, exhaust gases can freely escape from the tailpipe.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        180
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The most common cause of failure in a catalytic converter in an older car is that it becomes so clogged that the exhaust gases can\u2019t get through it to the muffler and out of the car."
+      ]
+    },
+    {
+      "id": "ch08_true_false_042",
+      "question": "It is legal in all states to operate a vehicle without a catalytic converter.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        181
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It\u2019s against the law in many states to remove a catalytic converter and run a vehicle without one."
+      ]
+    },
+    {
+      "id": "ch08_true_false_043",
+      "question": "A compression gauge measures the pressure of the fuel\/air mixture before the spark plug fires.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        181
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "This device tests the amount of pressure that the piston exerts on the fuel\/air mixture before the spark plug fires the mixture."
+      ]
+    },
+    {
+      "id": "ch08_true_false_044",
+      "question": "Worn valve openings can cause pressure to escape from a cylinder.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        181
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "basically, three places: either out through one of the valve openings (because the valve is improperly adjusted or so worn that it doesn\u2019t close properly) or down past the rings on the piston or through a blown head gasket."
+      ]
+    },
+    {
+      "id": "ch08_true_false_045",
+      "question": "It is safe to proceed with a 'ring job' without first checking compression.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Before you allow anyone to undertake a \u201cring job,\u201d check the compression to see whether your car really needs it"
+      ]
+    },
+    {
+      "id": "ch08_true_false_046",
+      "question": "Checking engine compression is simpler with assistance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Checking compression is easier if you have someone to assist you, especially if your gauge needs to be held in place"
+      ]
+    },
+    {
+      "id": "ch08_true_false_047",
+      "question": "Dust on the engine shield is beneficial during compression checks.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        182
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your engine is covered by a shield, carefully remove any dust on the surface of the shield before you remove it."
+      ]
+    },
+    {
+      "id": "ch08_true_false_048",
+      "question": "It is safe to mix up the spark plug wires during this procedure.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you get the plug wires mixed up, you can really screw up your engine."
+      ]
+    },
+    {
+      "id": "ch08_true_false_049",
+      "question": "Removing the 'Fuel Pump' fuse disables the fuel injection system.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Remove the fuse labeled \u201cFuel Pump\u201d; then start the car and let it run until it stalls from lack of gasoline. Be sure to keep the gauge plug firmly inserted while the engine is crank-ing. (The car won\u2019t run because the engine has been disabled.)"
+      ]
+    },
+    {
+      "id": "ch08_true_false_050",
+      "question": "The compression gauge should be kept firmly inserted while the engine is cranking.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        183
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Be sure to keep the gauge plug firmly inserted while the engine is crank-ing."
+      ]
+    },
+    {
+      "id": "ch08_true_false_052",
+      "question": "If you are unsure what to disconnect, it is acceptable to proceed without guidance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        183
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you\u2019re not sure what to disconnect, ask a mechanic."
+      ]
+    },
+    {
+      "id": "ch08_true_false_053",
+      "question": "If a vehicle is in good condition, a complete engine rebuild is always the best course of action.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        184
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If it\u2019s otherwise in good shape, you may want to have the engine rebuilt or replaced with a new or remanufactured one."
+      ]
+    },
+    {
+      "id": "ch08_true_false_054",
+      "question": "It is recommended to firmly tighten spark plugs with a wrench to ensure a secure connection.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        184
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Screw the plugs in by hand to avoid damaging the threads in the aluminum valve cover."
+      ]
+    },
+    {
+      "id": "ch08_true_false_055",
+      "question": "The text advises customers to appear knowledgeable about vehicle issues to avoid unnecessary charges.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        184
+      ],
+      "confidence": 3.0,
+      "justification": "Notice that I don\u2019t say \u201ctell them\u201d because if you do and the work turns out not to have been necessary, you\u2019ll get charged for it anyway. Just suggest that these may be the culprits to impress them with the fact that you\u2019re an informed customer (and no longer a dummy . . .)."
+    },
+    {
+      "id": "ch08_true_false_056",
+      "question": "It is suggested that even owners of older vehicles should research more fuel-efficient technologies.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        185
+      ],
+      "confidence": 3.0,
+      "justification": "Even if your vehicle has a traditional internal combustion engine, you may want to brush up on newer and more fuel-efficient alternatives that await you when it\u2019s time to buy a new one."
+    }
+  ]
+}

@@ -1,0 +1,4155 @@
+{
+  "chapter_key": "Chapter_6_Keeping_Your_Electrical_System_in_Tune",
+  "chapter_id": "ch06",
+  "title": "Chapter 6 Keeping Your Electrical System in Tune",
+  "answers": [
+    {
+      "id": "ch06_mcq_001",
+      "question": "For which types of vehicles are ignition tune-ups generally no longer needed annually?",
+      "options": [
+        "Vehicles that are frequently driven off-road",
+        "Vehicles with manual transmissions",
+        "Older model vehicles",
+        "Vehicles with electronic ignition systems"
+      ],
+      "answer": "Vehicles with electronic ignition systems",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\u201cU nlike older vehicles, which needed ignition tune-ups at least once a year, most vehicles on the road today have electronic ignition systems that are built to go for years without the need for them.\u201d"
+      ]
+    },
+    {
+      "id": "ch06_mcq_002",
+      "question": "What is a typical component of a modern tune-up?",
+      "options": [
+        "Replacing the transmission",
+        "Adjusting the suspension",
+        "Refinishing the exterior paint",
+        "Performing an electronic diagnostic check"
+      ],
+      "answer": "Performing an electronic diagnostic check",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In case you\u2019re wondering what a modern tune-up includes, it generally involves doing an electronic diagnostic check, changing spark plugs, replacing air and fuel filters, and checking fluid levels."
+      ]
+    },
+    {
+      "id": "ch06_mcq_003",
+      "question": "Why should scheduled tune-ups be performed?",
+      "options": [
+        "To increase fuel efficiency only",
+        "To maintain vehicle warranty or leasing agreements",
+        "To improve the vehicle\u2019s resale value only",
+        "To maximize the vehicle's horsepower"
+      ],
+      "answer": "To maintain vehicle warranty or leasing agreements",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "And remember, if you fail to get a scheduled tune-up you could violate your vehicle\u2019s warranty or leas-ing agreement."
+      ]
+    },
+    {
+      "id": "ch06_mcq_004",
+      "question": "Which of the following electrical system tasks are generally suitable for a vehicle owner to perform?",
+      "options": [
+        "Rebuilding the transmission",
+        "Replacing the vehicle's computer",
+        "Troubleshooting and replacing fuses",
+        "Performing a major engine overhaul"
+      ],
+      "answer": "Troubleshooting and replacing fuses",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "There are several jobs involving the electrical system that you can deal with yourself...You also can troubleshoot and replace fuses..."
+      ]
+    },
+    {
+      "id": "ch06_mcq_005",
+      "question": "What is the recommended tune-up interval for most older vehicles with non-electronic ignitions?",
+      "options": [
+        "Every 100,000 miles",
+        "Every 25,000 miles",
+        "Every 10,000 to 12,000 miles",
+        "Every 5,000 to 10,000 miles"
+      ],
+      "answer": "Every 10,000 to 12,000 miles",
+      "pages": [
+        125
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Most older vehicles with\nnon-electronic ignitions should be tuned every 10,000 to 12,000 miles or\nevery year, whichever comes first."
+      ]
+    },
+    {
+      "id": "ch06_mcq_006",
+      "question": "Which of the following systems is explicitly advised against attempting to repair without professional assistance?",
+      "options": [
+        "Defroster",
+        "Air Conditioner",
+        "Stereo System",
+        "Anti-theft Device"
+      ],
+      "answer": "Air Conditioner",
+      "pages": [
+        125
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Don\u2019t attempt to work on your air conditioner under any circumstances. It con- \ncontains refrigerant under pressure that can blind you if it escapes. For service \nor repairs, head to the dealership or to an automotive air-conditioning \nspecialist."
+      ]
+    },
+    {
+      "id": "ch06_mcq_007",
+      "question": "According to the text, what might contribute to a vehicle stalling?",
+      "options": [
+        "Fouled spark plugs",
+        "Optimal fuel system performance",
+        "Correct spark plug gap",
+        "Regular tune-up intervals"
+      ],
+      "answer": "Fouled spark plugs",
+      "pages": [
+        125
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The car stalls a lot. The spark plugs may be fouled or worn, the gap between the spark plug electrodes may need adjusting, or an elec-\\ntronic sensing device may need to be adjusted."
+      ]
+    },
+    {
+      "id": "ch06_mcq_008",
+      "question": "What is suggested as a benefit of periodically checking a vehicle's efficiency, even if the owner\u2019s manual doesn't recommend frequent tune-ups?",
+      "options": [
+        "To ensure peak performance",
+        "To avoid professional repair costs",
+        "To save money on fuel",
+        "To extend the lifespan of the engine"
+      ],
+      "answer": "To ensure peak performance",
+      "pages": [
+        125
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Refer to your owner\u2019s manual for recommended tune-up intervals, but be\naware that even if it says that the vehicle doesn\u2019t require scheduled tune-ups\nvery often, it\u2019s in your best interest to check periodically that your vehicle\u2019s\nworking at peak efficiency."
+      ]
+    },
+    {
+      "id": "ch06_mcq_010",
+      "question": "What is one possible cause for a vehicle experiencing difficulty starting?",
+      "options": [
+        "Incorrect tire pressure",
+        "A faulty fuel pump",
+        "Excessive engine oil",
+        "A weak engine block"
+      ],
+      "answer": "A faulty fuel pump",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": "The car gets harder to start. The problem can be in the starting system (for example, a weak battery), in the fuel system (for example, a weak fuel pump), in the ignition system, or can be due to an electronic compo-nent, such as the electronic control unit (ECU)."
+    },
+    {
+      "id": "ch06_mcq_011",
+      "question": "What is a potential indicator that a vehicle needs a tune-up?",
+      "options": [
+        "Rough idling or acceleration",
+        "Easy starting",
+        "Consistent fuel efficiency",
+        "Smooth engine operation"
+      ],
+      "answer": "Rough idling or acceleration",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The engine is running roughly when idling or when you accelerate. Chances are the vehicle needs a tune-up."
+      ]
+    },
+    {
+      "id": "ch06_mcq_012",
+      "question": "What is a key difference between 30,000-mile spark plugs and those with platinum tips?",
+      "options": [
+        "30,000-mile plugs are better suited for V-type engines.",
+        "Platinum-tipped plugs can sometimes last up to 100,000 miles.",
+        "Platinum-tipped plugs typically require less frequent replacement.",
+        "30,000-mile plugs are generally more expensive."
+      ],
+      "answer": "Platinum-tipped plugs can sometimes last up to 100,000 miles.",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You may have 30,000-mile plugs, or if the plugs have platinum tips, they may be good for up to 100,000 miles, although some professionals recommend replacement every 60,000 miles to avoid damage to the engine."
+      ]
+    },
+    {
+      "id": "ch06_mcq_013",
+      "question": "What component do spark plug wires connect to?",
+      "options": [
+        "The ignition coil or distributor",
+        "The exhaust system",
+        "The fuel tank",
+        "The engine block"
+      ],
+      "answer": "The ignition coil or distributor",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": "These spark-plug wires run from the ignition coil (or the distributor on older vehicles) to the spark plugs."
+    },
+    {
+      "id": "ch06_mcq_014",
+      "question": "What is a characteristic of engines with a V-type configuration?",
+      "options": [
+        "They always use platinum-tipped spark plugs.",
+        "They typically have larger engine blocks.",
+        "They have spark plug wires on both sides.",
+        "They have spark plug wires on one side."
+      ],
+      "answer": "They have spark plug wires on both sides.",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "on both sides if you have a V-type engine or on one side if you have a 4- or 6-cylinder in-line engine"
+      ]
+    },
+    {
+      "id": "ch06_mcq_015",
+      "question": "What is the most significant potential consequence of cross-threading a spark plug?",
+      "options": [
+        "Need to remove the engine",
+        "Increased fuel consumption",
+        "Air pollution",
+        "Need for a multi-thousand dollar repair"
+      ],
+      "answer": "Need for a multi-thousand dollar repair",
+      "pages": [
+        127
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Both are bad news. You could end up needing a multi-thousand dollar repair."
+      ]
+    },
+    {
+      "id": "ch06_mcq_016",
+      "question": "Why might removing a metal shield covering the engine be problematic?",
+      "options": [
+        "It increases fuel consumption.",
+        "It requires specialized tools.",
+        "It limits access to the spark plugs.",
+        "It can affect the ECU."
+      ],
+      "answer": "It can affect the ECU.",
+      "pages": [
+        127
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Still other engines conceal the plugs beneath a metal shield that covers\\n the engine. Removing this shield can require disconnecting cables that\\n can seriously affect the ECU. That\u2019s why the shield is there!"
+      ]
+    },
+    {
+      "id": "ch06_mcq_020",
+      "question": "What is the recommended quantity of spark plugs to purchase?",
+      "options": [
+        "One for every other cylinder",
+        "One for every two cylinders",
+        "One for each cylinder",
+        "One for each two cylinders"
+      ],
+      "answer": "One for each cylinder",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Buy one for each cylinder in your engine."
+      ]
+    },
+    {
+      "id": "ch06_mcq_021",
+      "question": "Why should you cover the fender while working?",
+      "options": [
+        "To protect it from scratches",
+        "To keep it dry",
+        "To prevent rust",
+        "To keep it clean from grease"
+      ],
+      "answer": "To protect it from scratches",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": "\u201cAn old blanket, mattress pad, or padded car protector to place over\nthe fender where you\u2019ll be working to protect it from scratches"
+    },
+    {
+      "id": "ch06_mcq_022",
+      "question": "What is suggested as an alternative to commercial car protectors?",
+      "options": [
+        "Using a commercial flashlight",
+        "Purchasing new work clothes",
+        "Using a new set of spark plugs",
+        "Using an old blanket or mattress pad"
+      ],
+      "answer": "Using an old blanket or mattress pad",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Commercial car protectors often come with handy pockets that hold\ntools and little parts while you work. You can make such a pocket your-\ns \\self by pinning up the bottom edge of your folded blanket or pad."
+      ]
+    },
+    {
+      "id": "ch06_mcq_023",
+      "question": "According to the material, why shouldn't you change just a few spark plugs?",
+      "options": [
+        "It is not possible to change just a few plugs",
+        "It will require more specialized tools",
+        "It can negatively affect engine performance",
+        "It is more difficult to change just a few plugs"
+      ],
+      "answer": "It can negatively affect engine performance",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Never change just a few plugs; it\u2019s all or nothing for even engine perfor-mance."
+      ]
+    },
+    {
+      "id": "ch06_mcq_024",
+      "question": "What is a suggested purpose of having an extra spark plug?",
+      "options": [
+        "To use during your next engine overhaul",
+        "To provide a backup for your work light",
+        "To have in case of damage or defects",
+        "To replace worn-out wires"
+      ],
+      "answer": "To have in case of damage or defects",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you\u2019re feeling especially wealthy, buy an extra plug in case you get home and find that one of them is defective, or in case you acciden- tally ruin one by dropping and cracking it or by cross-threading it when you install it."
+      ]
+    },
+    {
+      "id": "ch06_mcq_025",
+      "question": "What is one reason to apply silicone lubricant to spark plug boots?",
+      "options": [
+        "To improve engine performance.",
+        "To extend the life of the engine.",
+        "To reduce noise during operation.",
+        "To prevent them from sticking to the spark plug."
+      ],
+      "answer": "to prevent them from sticking to the porcelain",
+      "pages": [
+        129
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "silicone lubricant to them to prevent them from sticking to the porcelain"
+      ]
+    },
+    {
+      "id": "ch06_mcq_026",
+      "question": "What tool is used to adjust the gap between a spark plug's electrodes?",
+      "options": [
+        "Silicone lubricant applicator",
+        "Wire or taper feeler gauge",
+        "Socket wrench",
+        "Ratchet handle"
+      ],
+      "answer": "Wire or taper feeler gauge",
+      "pages": [
+        129
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A wire or taper feeler gauge: You use this to gap spark plugs."
+      ]
+    },
+    {
+      "id": "ch06_mcq_027",
+      "question": "Where can you typically find spark plug specifications for a vehicle?",
+      "options": [
+        "Inside the fenders",
+        "On the radiator",
+        "Inside the glove compartment",
+        "Owner's manual or a 'Tune-Up Specification Guide'"
+      ],
+      "answer": "Owner's manual or a 'Tune-Up Specification Guide'",
+      "pages": [
+        129
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Your owner\u2019s manual may have specifications for buying and gapping the spark plugs on your vehicle. If you don\u2019t have an owner\u2019s manual, or if yours lacks the necessary information, you can find the correct spark plugs and spark plug gap in a general \u201cTune-Up Specification Guide\u201d"
+      ]
+    },
+    {
+      "id": "ch06_mcq_028",
+      "question": "Which of the following is NOT a piece of information needed to obtain spark plug specifications?",
+      "options": [
+        "The number of cylinders",
+        "The vehicle's model year",
+        "The vehicle\u2019s make",
+        "The vehicle's paint color"
+      ],
+      "answer": "The vehicle\u2019s paint color",
+      "pages": [
+        129
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "These identifi...paint it has, and so on, but don\u2019t worry about that information right now."
+      ]
+    },
+    {
+      "id": "ch06_mcq_030",
+      "question": "What does engine displacement refer to?",
+      "options": [
+        "The presence of air conditioning in a vehicle.",
+        "The number of barrels in a carburetor.",
+        "The amount of room in each cylinder when the piston is at its lowest point.",
+        "The type of fuel system used in an engine."
+      ],
+      "answer": "The amount of room in each cylinder when the piston is at its lowest point.",
+      "pages": [
+        130
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The engine displacement: How much room there is in each cylinder when the piston is at its lowest point?"
+      ]
+    },
+    {
+      "id": "ch06_mcq_031",
+      "question": "Modern vehicles typically list engine displacement in which units?",
+      "options": [
+        "A combination of barrels and liters.",
+        "Cubic inches only.",
+        "Liters or cubic centimeters.",
+        "Barrels only."
+      ],
+      "answer": "Liters or cubic centimeters.",
+      "pages": [
+        130
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Modern vehicles are usually listed in liters (1.8, 2.3, 5.9) or cubic centimeters (2200, 3400, 3800)."
+      ]
+    },
+    {
+      "id": "ch06_mcq_032",
+      "question": "Which of the following best describes a key difference between older and newer vehicles regarding engine displacement?",
+      "options": [
+        "Older vehicles generally used liters, while newer vehicles used cubic inches.",
+        "Older vehicles generally used cubic inches, while newer vehicles use liters or cubic centimeters.",
+        "Both older and newer vehicles exclusively use cubic inches.",
+        "Both older and newer vehicles exclusively use liters."
+      ],
+      "answer": "Older vehicles generally used cubic inches, while newer vehicles use liters or cubic centimeters.",
+      "pages": [
+        130
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The displacement of engines on older vehicles may be listed in cubic inches, such as 302, 350, 454, and so on. Modern vehicles are usually listed in liters (1.8, 2.3, 5.9) or cubic centimeters (2200, 3400, 3800)."
+      ]
+    },
+    {
+      "id": "ch06_mcq_033",
+      "question": "What is one potential distinction between fuel systems in older engines?",
+      "options": [
+        "The number of barrels in the carburetor.",
+        "The presence or absence of fuel injection.",
+        "The type of spark plug used.",
+        "The resistance of the camshaft position sensor."
+      ],
+      "answer": "The number of barrels in the carburetor.",
+      "pages": [
+        130
+      ],
+      "confidence": 3.0,
+      "justification": "Carburetors, on the other hand, were distinguished by how many \u201cbarrels\u201d they had."
+    },
+    {
+      "id": "ch06_mcq_034",
+      "question": "According to the material, what is the best approach when purchasing spark plugs?",
+      "options": [
+        "Asking for a plug by a general description of your vehicle.",
+        "Relying solely on a salesperson's recommendation.",
+        "Consulting a spec sheet based on your vehicle's make, model, and year.",
+        "Purchasing the most expensive spark plugs available."
+      ],
+      "answer": "Consulting a spec sheet based on your vehicle's make, model, and year.",
+      "pages": [
+        131
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "At the auto supply store, don\u2019t just ask a salesperson which type of plug you\nshould buy \u2014 you have a very good chance of getting the wrong one. First\nlook up the specifications yourself, and then ask for the plug by number. If\nyou\u2019re unsure, have a salesperson double-check it for you.",
+        "Look up your vehicle by make and model under the proper year on the spec\nsheet at the store."
+      ]
+    },
+    {
+      "id": "ch06_mcq_035",
+      "question": "What is the \u2018spark plug gap\u2019?",
+      "options": [
+        "The part number for spark plugs.",
+        "The vehicle\u2019s engine displacement.",
+        "The place where the spark plug wire connects to the spark plug.",
+        "The amount of space between the center and side electrodes of a spark plug."
+      ],
+      "answer": "The amount of space between the center and side electrodes of a spark plug.",
+      "pages": [
+        131
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "This is the amount of space that there should be between the center and side electrodes of each spark plug."
+      ]
+    },
+    {
+      "id": "ch06_mcq_036",
+      "question": "Why should you work on one spark plug at a time?",
+      "options": [
+        "Because it\u2019s required by law.",
+        "To make the job faster.",
+        "To avoid confusing yourself and potentially creating a larger problem.",
+        "To show off your skills to onlookers."
+      ],
+      "answer": "To avoid confusing yourself and potentially creating a larger problem.",
+      "pages": [
+        131
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "One way to royally confuse yourself and turn the relatively simple task of changing spark plugs into a nightmare is to pull all your spark plugs out at one time. To keep your sanity and to avoid turning this job into an all-weekend project, work on one spark plug at a time: Remove it, inspect it, clean it, and \u2014 if it\u2019s salvageable \u2014 gap it. Then replace it before you move on to the next spark plug in cylinder sequence order."
+      ]
+    },
+    {
+      "id": "ch06_mcq_039",
+      "question": "What is the purpose of cleaning around the spark plug before removal?",
+      "options": [
+        "To improve the spark plug's electrical conductivity.",
+        "To ensure the plug is properly tightened.",
+        "To prevent debris from entering the cylinder.",
+        "To lubricate the threads."
+      ],
+      "answer": "To prevent debris from entering the cylinder.",
+      "pages": [
+        132
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Cleaning the area keeps loose junk from falling down the hole into the cylinder when you remove the plug."
+      ]
+    },
+    {
+      "id": "ch06_mcq_040",
+      "question": "When removing a spark plug, what type of force is recommended?",
+      "options": [
+        "Sudden and forceful.",
+        "Gentle and hesitant.",
+        "Even and controlled.",
+        "Erratic and unpredictable."
+      ],
+      "answer": "Even and controlled.",
+      "pages": [
+        132
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "But do it in an even, controlled manner."
+      ]
+    },
+    {
+      "id": "ch06_mcq_041",
+      "question": "What tool is specifically designed for removing spark plugs?",
+      "options": [
+        "A screwdriver.",
+        "A wrench.",
+        "A spark plug socket.",
+        "A pair of pliers."
+      ],
+      "answer": "A spark plug socket.",
+      "pages": [
+        132
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "3. Place your spark plug socket (the big one with the rubber lining) over the spark plug; exert some pressure while turning it slightly to be sure that it\u2019s all the way down."
+      ]
+    },
+    {
+      "id": "ch06_mcq_043",
+      "question": "According to the text, what is suggested when a spark plug is difficult to reach?",
+      "options": [
+        "Using a smaller socket.",
+        "Ignoring the problem.",
+        "Asking a professional.",
+        "Saving it for last."
+      ],
+      "answer": "Saving it for last.",
+      "pages": [
+        132
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Almost every vehicle has at least one plug that\u2019s a miserable thing to reach. If you have one, and it\u2019s safe for you to deal with, save it for last."
+      ]
+    },
+    {
+      "id": "ch06_mcq_044",
+      "question": "What is the recommended direction to turn a spark plug to loosen it?",
+      "options": [
+        "Clockwise",
+        "Vertically",
+        "Counterclockwise",
+        "Diagonally"
+      ],
+      "answer": "Counterclockwise",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "5. Loosen the spark plug by turning it counterclockwise.",
+        "Every screw, nut, bolt, screw-on cap, and so on that you encounter should loosen counter- clockwise and tighten clockwise (\u201clefty loosey, righty tighty\u201d)."
+      ]
+    },
+    {
+      "id": "ch06_mcq_045",
+      "question": "What is suggested if a spark plug is difficult to loosen?",
+      "options": [
+        "Apply a spray lubricant",
+        "Tighten it slightly",
+        "Apply more force",
+        "Use a larger wrench"
+      ],
+      "answer": "Apply a spray lubricant",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If it feels stuck, try a little spray lubricant."
+      ]
+    },
+    {
+      "id": "ch06_mcq_046",
+      "question": "What is the purpose of the knob located on the back of a ratchet handle?",
+      "options": [
+        "To adjust the socket size",
+        "To increase leverage",
+        "To reverse the direction of socket rotation",
+        "To secure the handle to the wrench"
+      ],
+      "answer": "To reverse the direction of socket rotation",
+      "pages": [
+        133
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The little knob on the back of the ratchet handle causes the ratchet to turn the socket either clockwise or counterclockwise. You can tell which way the handle will turn the plug by lis- tening to the clicks that the handle makes when you move it in one direction. If it clicks when you move it to the right, it will turn the socket counterclockwise when you move it, silently, to the left. If the clicks are audible on the leftward swing, it will move the socket clockwise on the rightward swing."
+      ]
+    },
+    {
+      "id": "ch06_mcq_047",
+      "question": "What general principle applies to loosening most fasteners?",
+      "options": [
+        "Upward movement loosens",
+        "Righty-tighty, lefty-loosey",
+        "Left-tightening, right-loosening",
+        "Downward movement tightens"
+      ],
+      "answer": "Righty-tighty, lefty-loosey",
+      "pages": [
+        133
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Every screw, nut, bolt, screw-on cap, and so on that you encounter should loosen counter-\nclockwise and tighten clockwise (\u201clefty loosey, righty tighty\u201d)."
+      ]
+    },
+    {
+      "id": "ch06_mcq_048",
+      "question": "What should you ensure before applying force when loosening a spark plug?",
+      "options": [
+        "The socket is loosely fitted",
+        "The ratchet is at a different angle than the plug",
+        "The socket is securely over the plug",
+        "The plug is already free"
+      ],
+      "answer": "The socket is securely over the plug",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It\u2019s okay to exert some strength; just be sure your socket is securely over the plug and that the ratchet is at the same angle as the plug to avoid stripping the threads on the plug or in the spark plug hole in the engine head."
+      ]
+    },
+    {
+      "id": "ch06_mcq_049",
+      "question": "What is the purpose of the gap between the center and side electrodes of a spark plug?",
+      "options": [
+        "To regulate the flow of exhaust gases",
+        "To insulate the plug from the engine block",
+        "To provide a secure connection to the engine\u2019s wiring harness",
+        "To allow the spark to jump and ignite the fuel\/air mixture"
+      ],
+      "answer": "To allow the spark to jump and ignite the fuel\/air mixture",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The spark comes up the center of the plug and jumps the gap between these two electrodes."
+      ]
+    },
+    {
+      "id": "ch06_mcq_050",
+      "question": "What should be done before proceeding to the next spark plug after it has been removed?",
+      "options": [
+        "It should be tested for electrical conductivity",
+        "It should be immediately discarded",
+        "It should be cleaned with a solvent",
+        "It should be inspected, gapped, and replaced"
+      ],
+      "answer": "It should be inspected, gapped, and replaced",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "But don\u2019t go on to the next plug until you\u2019ve read the plug (see the section \u201cReading your spark plugs\u201d and Table 6-1) and gapped and replaced it, following the instructions later in this chapter."
+      ]
+    },
+    {
+      "id": "ch06_mcq_051",
+      "question": "What does a large gap between the center and side electrodes likely indicate?",
+      "options": [
+        "The center electrode has worn down",
+        "The spark plug is new and in perfect condition",
+        "The engine is running too cold",
+        "The spark plug is burning fuel\/air mixture efficiently"
+      ],
+      "answer": "The center electrode has worn down",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the gauge has a lot of room to wiggle around, it may be because your\nold plug has worn down its center electrode, causing a gap that\u2019s too\nlarge."
+      ]
+    },
+    {
+      "id": "ch06_mcq_052",
+      "question": "What part of the spark plug is referred to as the 'firing end'?",
+      "options": [
+        "The end that was inside the cylinder",
+        "The terminal that connects to the spark plug socket",
+        "The threaded portion of the plug",
+        "The part that connects to the ignition coil"
+      ],
+      "answer": "The end that was inside the cylinder",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Look at the plug\u2019s firing end (the end that was inside the cylinder)."
+      ]
+    },
+    {
+      "id": "ch06_mcq_053",
+      "question": "What should you check for on the plug\u2019s shell, insulator, and gaskets?",
+      "options": [
+        "Signs of cracking or chipping",
+        "Signs of corrosion",
+        "Signs of excessive heat",
+        "Signs of oil leakage"
+      ],
+      "answer": "Signs of cracking or chipping",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Check the plug\u2019s shell, insula-tor, and gaskets for signs of cracking or chipping, which indicate that the plug should be replaced."
+      ]
+    },
+    {
+      "id": "ch06_mcq_054",
+      "question": "What is a probable cause of carbon-fouled spark plugs?",
+      "options": [
+        "Engine overheating",
+        "Severely worn electrodes",
+        "Oil leaking into cylinders",
+        "A fuel\/air mixture that is too rich"
+      ],
+      "answer": "A fuel\/air mixture that is too rich",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": "Carbon-fouled Black, dry, fluffy soot \nOverly rich fuel\/air \nmixture, dirty air"
+    },
+    {
+      "id": "ch06_mcq_055",
+      "question": "What remedy is suggested for oil-fouled spark plugs?",
+      "options": [
+        "Replace the plug and find the leak",
+        "Clean and regap the plug",
+        "Adjust the spark plug gap",
+        "Switch to hotter plugs"
+      ],
+      "answer": "Clean and regap the plug",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Oil-fouled plug Wet, black, oily deposits on insulator tip and electrodes Oil may be leaking into cylinders past worn pistons or poorly adjusted or worn valves Clean and regap the plug, or replace it, but find out where the leak is coming from."
+      ]
+    },
+    {
+      "id": "ch06_mcq_056",
+      "question": "What characteristic suggests a spark plug is burned?",
+      "options": [
+        "Black, dry, fluffy soot",
+        "Severely eroded electrodes",
+        "Wet, black, oily deposits",
+        "Blisters on the insulator tip"
+      ],
+      "answer": "Blisters on insulator tip",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Burned plug\nBlisters on insulator \ntip, melted electrodes, gap is too wide, \nwrong or loose \nplugs, overly lean \nfuel\/air mixture, or \nincorrect timing"
+      ]
+    },
+    {
+      "id": "ch06_mcq_057",
+      "question": "What is the consequence of a center electrode wearing down?",
+      "options": [
+        "The plug becomes oil-fouled",
+        "The insulator tip blisters",
+        "The plug becomes carbon-fouled",
+        "The spark plug gap becomes too large"
+      ],
+      "answer": "The spark plug gap becomes too large",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When the center electrode wears down, the gap becomes too large."
+      ]
+    },
+    {
+      "id": "ch06_mcq_058",
+      "question": "What is recommended regarding new spark plugs?",
+      "options": [
+        "They should be inspected for carbon buildup.",
+        "They should be scrubbed with a wire brush.",
+        "They should always be replaced immediately.",
+        "They do not need to be cleaned, but they do need to be gapped."
+      ],
+      "answer": "They do not need to be cleaned, but they do need to be gapped.",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Keep in mind that although you don\u2019t need to clean new spark plugs, you do need to gap them."
+      ]
+    },
+    {
+      "id": "ch06_mcq_059",
+      "question": "What is the recommended approach when replacing spark plugs to maintain engine efficiency?",
+      "options": [
+        "Clean only the spark plugs that appear worn.",
+        "Replace only the worn spark plugs.",
+        "Mix new and old spark plugs to extend the lifespan of the old ones.",
+        "Replace all spark plugs with new ones or clean and reinstall all old ones."
+      ],
+      "answer": "Replace all spark plugs with new ones or clean and reinstall all old ones.",
+      "pages": [
+        136
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To keep your engine operating efficiently, don\u2019t mix plugs in varying states of\nwear. Either replace all the plugs with new ones or clean and reinstall all the old\nones."
+      ]
+    },
+    {
+      "id": "ch06_mcq_060",
+      "question": "What is the significance of the number assigned to a spark plug?",
+      "options": [
+        "It determines the plug's engine compatibility.",
+        "It denotes the plug's heat range; higher numbers indicate hotter plugs.",
+        "It signifies the plug's manufacturing date.",
+        "It indicates the spark plug's material composition."
+      ],
+      "answer": "It denotes the plug's heat range; higher numbers indicate hotter plugs.",
+      "pages": [
+        136
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\"You can identify these by the plug number: The higher the number, the hotter the plug.\""
+      ]
+    },
+    {
+      "id": "ch06_mcq_061",
+      "question": "When dealing with spark plugs that exhibit varying degrees of wear, what course of action is suggested?",
+      "options": [
+        "Clean and regap the usable plugs and store them for future emergencies.",
+        "Discard the plugs with the most wear.",
+        "Install the most worn plugs in the front of the engine.",
+        "Replace all plugs with the newest version available."
+      ],
+      "answer": "Clean and regap the usable plugs and store them for future emergencies.",
+      "pages": [
+        136
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you find that a few of your old plugs aren\u2019t too worn and are in fairly good shape but you need to replace the others, clean and regap the salvageable plugs and store them in your trunk compartment tool kit for emergencies."
+      ]
+    },
+    {
+      "id": "ch06_mcq_062",
+      "question": "What is the purpose of gapping spark plugs?",
+      "options": [
+        "To adjust the distance between the electrodes for efficient firing.",
+        "To determine the spark plug's heat range.",
+        "To measure the spark plug's remaining lifespan.",
+        "To ensure the plugs are free from carbon buildup."
+      ],
+      "answer": "To adjust the distance between the electrodes for efficient firing.",
+      "pages": [
+        136
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "As I mention in the preceding section, the space, or gap, between the center and side electrodes needs to be an exact distance across; otherwise, your plugs don\u2019t fire efficiently. Adjusting the distance between the two electrodes is called gapping your spark plugs."
+      ]
+    },
+    {
+      "id": "ch06_mcq_063",
+      "question": "What should be done before regapping a used spark plug?",
+      "options": [
+        "Apply a sealant to prevent corrosion.",
+        "Test the plug's ability to spark.",
+        "Measure the plug's resistance.",
+        "Clean the plug with a wire brush."
+      ],
+      "answer": "Clean the plug with a wire brush.",
+      "pages": [
+        136
+      ],
+      "confidence": 3.0,
+      "justification": "1. If you\u2019re regapping a used plug, make sure that it\u2019s clean (gently scrub it with a wire brush)."
+    },
+    {
+      "id": "ch06_mcq_064",
+      "question": "What should be done if a feeler gauge passes through the gap too easily without touching the electrodes?",
+      "options": [
+        "The gap is too wide and needs to be narrowed.",
+        "The feeler gauge should be replaced.",
+        "The gap is too narrow and needs to be widened.",
+        "The electrodes need to be cleaned."
+      ],
+      "answer": "The gap is too wide and needs to be narrowed.",
+      "pages": [
+        137
+      ],
+      "confidence": 3.0,
+      "justification": "If the gauge goes through too easily without touching the electrodes, the gap is wide. Press the side electrode very gently against a clean, mar-proof surface until it\u2019s slightly bent down toward the center electrode."
+    },
+    {
+      "id": "ch06_mcq_065",
+      "question": "When installing a spark plug, what is the recommended direction to wipe the spark plug hole?",
+      "options": [
+        "Away from the hole.",
+        "It doesn't matter which direction.",
+        "In a circular motion.",
+        "Towards the hole."
+      ],
+      "answer": "Away from the hole.",
+      "pages": [
+        137
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Wipe away from the hole; don\u2019t shove any dirt into it."
+      ]
+    },
+    {
+      "id": "ch06_mcq_066",
+      "question": "Where should oil be obtained to lightly coat the threads of the spark plug?",
+      "options": [
+        "The air filter.",
+        "The oil dipstick.",
+        "The fuel tank.",
+        "The oil pan."
+      ],
+      "answer": "The oil dipstick.",
+      "pages": [
+        137
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Lightly coat the threads of the spark plug with a dab of oil from the oil dipstick, being careful not to get any on the center or side electrodes."
+      ]
+    },
+    {
+      "id": "ch06_mcq_067",
+      "question": "In what direction should a spark plug be threaded when initially installing it?",
+      "options": [
+        "Clockwise.",
+        "It can be either direction.",
+        "It depends on the engine model.",
+        "Counterclockwise."
+      ],
+      "answer": "Clockwise.",
+      "pages": [
+        137
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Carefully begin threading the spark plug into the engine by hand, turning it clockwise."
+      ]
+    },
+    {
+      "id": "ch06_mcq_068",
+      "question": "What characteristic indicates the spark plug gap is properly adjusted?",
+      "options": [
+        "The electrodes spark visibly.",
+        "The feeler gauge passes through the gap very easily.",
+        "The feeler gauge passes through the gap with difficulty, just catching the electrodes.",
+        "The feeler gauge does not pass through the gap."
+      ],
+      "answer": "The feeler gauge passes through the gap with difficulty, just catching the electrodes.",
+      "pages": [
+        137
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You want the gauge to go through fairly easily, just catching the elec-\\trodes as it passes."
+      ]
+    },
+    {
+      "id": "ch06_mcq_070",
+      "question": "According to the instructions, how many turns should a spark plug be turned by hand before using a socket and ratchet?",
+      "options": [
+        "One full turn B. Two full turns C. Three full turns D. Half a turn"
+      ],
+      "answer": "B. Two full turns",
+      "pages": [
+        138
+      ],
+      "confidence": 4.0,
+      "justification": "4. After you engage the plug by hand, turn it at least two full turns before utilizing the spark plug socket and ratchet."
+    },
+    {
+      "id": "ch06_mcq_071",
+      "question": "What is a potential consequence of over-tightening a spark plug?",
+      "options": [
+        "Increased fuel efficiency B. Cracking the porcelain C. Extending the spark plug's lifespan D. Reducing engine noise"
+      ],
+      "answer": "Cracking the porcelain",
+      "pages": [
+        138
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Don\u2019t over-tighten the plug (you can crack the porcelain); just get it in nice and tight with no wiggle."
+      ]
+    },
+    {
+      "id": "ch06_mcq_072",
+      "question": "What characteristic of a spark plug cable might indicate the need for replacement?",
+      "options": [
+        "A shiny exterior B. A uniform color C. Cracks, brittleness, or fraying D. A perfectly smooth surface"
+      ],
+      "answer": "Cracks, brittleness, or fraying",
+      "pages": [
+        138
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you have trouble holding onto the plug, you can buy a spark plug\nstarter and fit it over the plug. Or, you can use just about anything you\ncan wrap around or slip over the plug top, including an old spark plug\nwire boot, a finger cut from a vinyl glove, an old piece of thin plastic\ntubing, or a piece of vacuum hose.\n4. After you engage the plug by hand, turn it at least two full turns\nbefore utilizing the spark plug socket and ratchet.\n5. Slip the spark plug socket over the spark plug, attach the ratchet handle,\nand continue turning the plug clockwise until you meet resistance. Don\u2019t\novertighten the plug (you can crack the porcelain); just get it in\nnice and tight with no wiggle. The plug should stick a little when you try\nto loosen it, but you should be able to loosen it again without straining\nyourself. Tighten and loosen the first plug once or twice to get the\nproper feel of the thing.\n6. Take a look at the spark plug cable before attaching its boot to the\nplug. If the cable appears cracked, brittle, or frayed or is saturated\nwith oil, have it replaced."
+      ]
+    },
+    {
+      "id": "ch06_mcq_074",
+      "question": "What is the recommended action after completing a task on a vehicle's electrical system?",
+      "options": [
+        "Wash your hands with hand cleaner.",
+        "Check the engine's oil level.",
+        "Consult Chapter 21.",
+        "Immediately take on another task."
+      ],
+      "answer": "Wash your hands with hand cleaner.",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When you\u2019re done, start your engine to prove to yourself that everything still\\nworks. Then wash your hands with hand cleaner."
+      ]
+    },
+    {
+      "id": "ch06_mcq_075",
+      "question": "What is the purpose of recording a battery's purchase and expected lifespan?",
+      "options": [
+        "To assist with monthly under-the-hood checks.",
+        "To prevent being stranded with a dead battery.",
+        "To extend the battery's life expectancy.",
+        "To determine when to jump-start the vehicle."
+      ],
+      "answer": "To prevent being stranded with a dead battery.",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To prevent being stuck on the road with a dead battery, enter that information in your Specifications Record in Appendix B and have the battery replaced before it comes to the end of its life expectancy."
+      ]
+    },
+    {
+      "id": "ch06_mcq_076",
+      "question": "According to the material, which chapter provides instructions for jump-starting a vehicle?",
+      "options": [
+        "Figure 6-5",
+        "Appendix B",
+        "Chapter 21",
+        "Chapter 2"
+      ],
+      "answer": "Chapter 21",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "And if it has just run out of juice temporarily because you left the lights on, Chapter 21 tells you all about jumping a start."
+      ]
+    },
+    {
+      "id": "ch06_mcq_077",
+      "question": "What is the primary reason to consider having a battery professionally installed?",
+      "options": [
+        "Because it is easier than replacing it yourself.",
+        "To prevent damage to other vehicle components.",
+        "If installation and disposal costs are included in the new battery price.",
+        "It is always more efficient."
+      ],
+      "answer": "If installation and disposal costs are included in the new battery price.",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "However, if installation and disposal are included in the price of a new battery, there may be no advan- tage in undertaking the job."
+      ]
+    },
+    {
+      "id": "ch06_mcq_078",
+      "question": "If a battery is concealed under a plastic shield, what should be assessed before attempting replacement?",
+      "options": [
+        "The voltage of the battery.",
+        "The overall condition of the engine.",
+        "The vehicle's Specifications Record.",
+        "The complexity of the shield's attachment."
+      ],
+      "answer": "The complexity of the shield's attachment.",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the battery on your vehicle is concealed under a plastic shield, take a look at what\u2019s holding it in place. If you see just a few screws or bolts, you can probably unscrew them and remove the shield without much trouble. If it looks diffi-cult to get the thing off, have the battery installed wher-ever you buy it."
+      ]
+    },
+    {
+      "id": "ch06_mcq_079",
+      "question": "Where should you find specifications for the battery designed for your vehicle?",
+      "options": [
+        "Your Specifications Record",
+        "An inexpensive pair of safety goggles",
+        "A reputable dealership",
+        "Chapter 1"
+      ],
+      "answer": "Your Specifications Record",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you haven\u2019t already put the information on your Specifications Record, consult your owner\u2019s manual to find the specifications for the battery designed for your vehicle."
+      ]
+    },
+    {
+      "id": "ch06_mcq_080",
+      "question": "Batteries are typically priced based on what factor?",
+      "options": [
+        "Brand name",
+        "Size and shape",
+        "Life expectancy",
+        "Vehicle make and model"
+      ],
+      "answer": "Life expectancy",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Batteries are priced by their life expectancy."
+      ]
+    },
+    {
+      "id": "ch06_mcq_081",
+      "question": "What is the primary purpose of wearing disposable latex gloves during a battery replacement?",
+      "options": [
+        "To avoid damaging battery terminals",
+        "To protect your vehicle\u2019s paint",
+        "To prevent skin contact with battery deposits",
+        "To easily grip the battery"
+      ],
+      "answer": "To prevent skin contact with battery deposits",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To protect your eyes from any deposits that can hurt them, invest in an inexpensive pair of safety goggles, too."
+      ]
+    },
+    {
+      "id": "ch06_mcq_082",
+      "question": "What should you do if the new battery you purchased does not match the original battery's size, shape, or configuration?",
+      "options": [
+        "Proceed with the installation anyway.",
+        "Adjust the battery to fit.",
+        "Return the battery and obtain the correct one.",
+        "Consult Chapter 1 for guidance."
+      ],
+      "answer": "Return the battery and obtain the correct one.",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If it isn\u2019t, march right back in and return it for the right one."
+      ]
+    },
+    {
+      "id": "ch06_mcq_083",
+      "question": "What is the purpose of placing a blanket or pad over the fender when replacing a battery?",
+      "options": [
+        "To act as a cushion for tools.",
+        "To prevent the vehicle from moving.",
+        "To protect the battery from damage.",
+        "To protect the fender from scratches."
+      ],
+      "answer": "To protect the fender from scratches.",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To protect your eyes from any deposits that can hurt them, invest in an inexpensive pair of safety goggles, too.\nHow to remove and install a battery\nWhen you have your equipment handy and you\u2019re ready to start, follow these\neasy steps:\n1. Make sure that your vehicle is in Park, with the engine shut off and\nthe parking brake on.\n2. Open the hood and place a blanket or pad over the fender to protect it."
+      ]
+    },
+    {
+      "id": "ch06_mcq_084",
+      "question": "If a bolt is difficult to loosen, what is a recommended technique?",
+      "options": [
+        "Using two wrenches and moving them in opposite directions",
+        "Tightening both nuts simultaneously",
+        "Using a single wrench and applying more force",
+        "Applying penetrating oil and waiting"
+      ],
+      "answer": "Applying penetrating oil and waiting",
+      "pages": [
+        141
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you have trouble loosening the bolt, grab it with one wrench and the\n nut with another, and move the wrenches in opposite directions."
+      ]
+    },
+    {
+      "id": "ch06_mcq_085",
+      "question": "What is the primary reason to avoid discarding old batteries in regular trash?",
+      "options": [
+        "They are expensive to replace",
+        "They are too heavy",
+        "They contain a toxic, corrosive liquid",
+        "They can be reused for other purposes"
+      ],
+      "answer": "They contain a toxic, corrosive liquid",
+      "pages": [
+        141
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Batteries are filled with a toxic, corrosive liquid and must be disposed of properly."
+      ]
+    },
+    {
+      "id": "ch06_mcq_086",
+      "question": "What is a potential remedy for a rusty battery tray?",
+      "options": [
+        "Using a wire brush",
+        "Applying paint",
+        "Cleaning with baking soda dissolved in water",
+        "Scrubbing with sandpaper"
+      ],
+      "answer": "Cleaning with baking soda dissolved in water",
+      "pages": [
+        141
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "6. If the tray on which the battery was standing is rusty or has deposits\\n on it, clean it with a little baking soda dissolved in water."
+      ]
+    },
+    {
+      "id": "ch06_mcq_087",
+      "question": "What is the usual order for replacing battery cables if a vehicle has a negative ground?",
+      "options": [
+        "It doesn't matter which cable is replaced first",
+        "The positive cable first, then the negative cable",
+        "The negative cable first, then the positive cable",
+        "Both cables simultaneously"
+      ],
+      "answer": "The positive cable first, then the negative cable",
+      "pages": [
+        141
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "(If your vehicle has negative ground, the positive cable goes back first.)"
+      ]
+    },
+    {
+      "id": "ch06_mcq_088",
+      "question": "What is a common cause of malfunctions in vehicle electronics such as stereos or turn signals?",
+      "options": [
+        "Low tire pressure",
+        "Leaking fluids",
+        "Blown fuses",
+        "Engine overheating"
+      ],
+      "answer": "Blown fuses",
+      "pages": [
+        142
+      ],
+      "confidence": 3.0,
+      "justification": "If your stereo goes dead, your turn signals don\u2019t blink, a light goes out, or\n some other gadget stops working, it\u2019s often just the result of a blown fuse."
+    },
+    {
+      "id": "ch06_mcq_089",
+      "question": "What is one reason to locate fuse boxes?",
+      "options": [
+        "To understand the engine's operation.",
+        "To familiarize yourself with the vehicle's design.",
+        "To improve the vehicle's fuel efficiency.",
+        "To avoid unnecessary equipment replacement or repairs."
+      ],
+      "answer": "To avoid unnecessary equipment replacement or repairs.",
+      "pages": [
+        142
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "than paying for new equipment or repairs that you don\u2019t need (even if you"
+      ]
+    },
+    {
+      "id": "ch06_mcq_090",
+      "question": "Prior to working on a fuse box, what safety measure should be taken?",
+      "options": [
+        "Check the owner's manual for troubleshooting tips.",
+        "Turn off the vehicle\u2019s ignition.",
+        "Disconnect the battery.",
+        "Consult a mechanic."
+      ],
+      "answer": "Turn off the vehicle\u2019s ignition.",
+      "pages": [
+        142
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Before you open or work on a fuse box, be sure that your vehicle\u2019s ignition is\n        turned off."
+      ]
+    },
+    {
+      "id": "ch06_mcq_091",
+      "question": "Where can you typically find information regarding the location of fuse boxes?",
+      "options": [
+        "The vehicle\u2019s owner\u2019s manual.",
+        "An online vehicle forum.",
+        "The vehicle\u2019s engine compartment.",
+        "A local automotive repair shop."
+      ],
+      "answer": "The vehicle\u2019s owner\u2019s manual.",
+      "pages": [
+        142
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Your owner\u2019s manual can help you locate them."
+      ]
+    },
+    {
+      "id": "ch06_mcq_092",
+      "question": "If a headlight fails to operate on the low beam setting but functions correctly on the high beam setting, what is the likely solution?",
+      "options": [
+        "Replacing the entire headlight unit",
+        "Replacing a fuse",
+        "Adjusting the headlight alignment",
+        "Checking the wiring connection"
+      ],
+      "answer": "Replacing the entire headlight unit",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": "If a headlight doesn\u2019t work on Low beam but does work on High, you have to replace the whole sealed-beam unit or headlamp."
+    },
+    {
+      "id": "ch06_mcq_093",
+      "question": "When both headlights simultaneously cease to function, what is the most probable cause?",
+      "options": [
+        "A faulty wiring connection",
+        "A problem with the sealed-beam units",
+        "Incorrect headlight alignment",
+        "A blown fuse"
+      ],
+      "answer": "A blown fuse",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If both of your headlights go out at the same time, chances are the units are okay but the fuse that controls them has blown and needs to be changed."
+      ]
+    },
+    {
+      "id": "ch06_mcq_094",
+      "question": "What is one way to determine the type of headlights your vehicle has?",
+      "options": [
+        "Checking the vehicle's registration",
+        "Consulting a mechanic",
+        "Checking the owner's manual",
+        "Observing their appearance when illuminated at night"
+      ],
+      "answer": "Observing their appearance when illuminated at night",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": "You can tell which type of headlights you have by looking at them when they\u2019re on at night."
+    },
+    {
+      "id": "ch06_mcq_095",
+      "question": "If a headlight is not working in either the high or low beam settings, what is the most likely cause?",
+      "options": [
+        "A sealed-beam unit failure",
+        "A blown fuse",
+        "Incorrect headlight adjustment",
+        "A bad connection in the wiring"
+      ],
+      "answer": "A bad connection in the wiring",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": "If a headlight doesn\u2019t work on either High or Low beam, you probably just have a bad connection in the wiring."
+    },
+    {
+      "id": "ch06_mcq_096",
+      "question": "What is suggested for improving visibility at night?",
+      "options": [
+        "Using premium fuel",
+        "Adjusting tire pressure",
+        "Increasing Vitamin A intake",
+        "Washing the exterior of headlights and taillights"
+      ],
+      "answer": "Washing the exterior of headlights and taillights",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It doesn\u2019t hurt to wash the outside of your headlights and taillights occasion- \nally; clean lights provide better visibility at night."
+      ]
+    },
+    {
+      "id": "ch06_mcq_097",
+      "question": "Which of the following is a characteristic of light emitted from Xenon lamps?",
+      "options": [
+        "A green hue",
+        "A bluish cast",
+        "A red hue",
+        "A yellow hue"
+      ],
+      "answer": "A bluish cast",
+      "pages": [
+        145
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Light from Xenon lamps has a bluish cast."
+      ]
+    },
+    {
+      "id": "ch06_mcq_098",
+      "question": "What is a primary advantage of modern headlight units compared to sealed-beam units?",
+      "options": [
+        "They are less creative in design",
+        "They allow drivers to see farther",
+        "They consume more power",
+        "They provide a wider range of color options"
+      ],
+      "answer": "They allow drivers to see farther",
+      "pages": [
+        145
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although they are far more powerful than sealed-beam units and enable a\\ndriver to see 20 percent farther, these modern units require less power to\\noperate."
+      ]
+    },
+    {
+      "id": "ch06_mcq_099",
+      "question": "If a headlight lens cover is marked D1R, what type of lamps does the vehicle most likely have?",
+      "options": [
+        "Incandescent lamps",
+        "Halogen lamps",
+        "Sealed-beam units",
+        "HID lamps"
+      ],
+      "answer": "HID lamps",
+      "pages": [
+        145
+      ],
+      "confidence": 4.0,
+      "justification": "If it\u2019s marked with D1R, D1S, D2R or D2S, you have HID lamps. (Those markings denote the type of bulb.)"
+    },
+    {
+      "id": "ch06_mcq_100",
+      "question": "Which of the following is a reason that modern headlights allow for more design creativity?",
+      "options": [
+        "They are typically round in shape",
+        "They are larger and require more housing space",
+        "They consume a large amount of power",
+        "They use small, replaceable lamps"
+      ],
+      "answer": "They use small, replaceable lamps",
+      "pages": [
+        145
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Halogen and Xenon headlamps have also allowed designers to get pretty creative with shapes because they use small, replaceable lamps that don\u2019t have to be contained in round or rectangular housings."
+      ]
+    },
+    {
+      "id": "ch06_mcq_101",
+      "question": "What is the first step recommended before replacing a headlamp bulb?",
+      "options": [
+        "Removing the bulb assembly",
+        "Disconnecting the electrical connector",
+        "Opening the hood",
+        "Ensuring the vehicle's ignition is off"
+      ],
+      "answer": "Ensuring the vehicle's ignition is off",
+      "pages": [
+        145
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "1. Make sure that your vehi-\\ncle\u2019s ignition is off before\\nyou open the unit."
+      ]
+    },
+    {
+      "id": "ch06_mcq_102",
+      "question": "Why should you avoid touching the glass portion of a replacement bulb?",
+      "options": [
+        "Natural oils can create a hotspot causing premature burnout.",
+        "To prevent damage to the bulb's filament.",
+        "Because the glass is electrically charged.",
+        "To avoid transferring dirt and dust to the bulb."
+      ],
+      "answer": "Natural oils can create a hotspot causing premature burnout.",
+      "pages": [
+        146
+      ],
+      "confidence": 3.0,
+      "justification": "Don\u2019t touch the replacement glass bulb! Natural oils from the skin on your fingers will create a hotspot that will cause the new bulb to burn out pre-maturely."
+    },
+    {
+      "id": "ch06_mcq_103",
+      "question": "What is the primary concern regarding HID headlamps?",
+      "options": [
+        "The complexity of their adjustment process.",
+        "The cost of replacement bulbs.",
+        "Their high power consumption.",
+        "Their potential to temporarily blind others."
+      ],
+      "answer": "Their potential to temporarily blind others.",
+      "pages": [
+        146
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because HID headlamps are so intensely bright, it\u2019s most important that they be properly focused to avoid temporarily blinding other drivers, pedestrians, or animals."
+      ]
+    },
+    {
+      "id": "ch06_mcq_104",
+      "question": "What is the function of the bottom adjustment screw on a halogen headlamp?",
+      "options": [
+        "To lock the headlamp in place.",
+        "To focus the beam horizontally.",
+        "To adjust the beam\u2019s intensity.",
+        "To angle the beam higher or lower."
+      ],
+      "answer": "To angle the beam higher or lower.",
+      "pages": [
+        146
+      ],
+      "confidence": 3.0,
+      "justification": "The screw on the bottom will angle the beam higher or lower"
+    },
+    {
+      "id": "ch06_mcq_105",
+      "question": "What is the recommended course of action if you need to replace a sealed-beam headlight and your owner\u2019s manual does not provide instructions?",
+      "options": [
+        "Use specialized tools to force the unit open.",
+        "Attempt the replacement regardless.",
+        "Follow general replacement steps described in instructions.",
+        "Consult a professional mechanic."
+      ],
+      "answer": "Consult a professional mechanic.",
+      "pages": [
+        146
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If it doesn\u2019t, the following steps should get you through the job with a minimum of hassle:\n1. Make sure that the vehicle\u2019s ignition is off before you open the unit.\n2. Remove any exterior rings or frames that surround the headlight.\nIf you need some exotic tool to do this, forget the job and have it done professionally."
+      ]
+    },
+    {
+      "id": "ch06_mcq_106",
+      "question": "What is recommended if retaining screws are difficult to loosen?",
+      "options": [
+        "Spray with penetrating solvent",
+        "Use pliers",
+        "Ignore them and proceed",
+        "Apply excessive force"
+      ],
+      "answer": "Spray with penetrating solvent",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the retaining screws stick, spray a little penetrating solvent (like WD-40) on them."
+      ]
+    },
+    {
+      "id": "ch06_mcq_107",
+      "question": "How many screws typically secure round headlights?",
+      "options": [
+        "Two",
+        "Three",
+        "One",
+        "Four"
+      ],
+      "answer": "Three",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "round headlights have three screws that loosen the plate"
+      ]
+    },
+    {
+      "id": "ch06_mcq_108",
+      "question": "When installing a new bulb, what should be positioned at the top?",
+      "options": [
+        "The wiring connector",
+        "The unit number",
+        "The base of the bulb",
+        "The locking slots"
+      ],
+      "answer": "The unit number",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Be sure to put the new bulb into its locking slots with the unit number at the top."
+      ]
+    },
+    {
+      "id": "ch06_mcq_109",
+      "question": "If a fuse is okay but a bulb still doesn\u2019t work, what should be done?",
+      "options": [
+        "Check the owner\u2019s manual again",
+        "Replace the wiring",
+        "Tighten the retaining plate",
+        "Have a professional diagnose the problem"
+      ],
+      "answer": "Have a professional diagnose and fix the problem",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the bulb is still out and the fuse is okay, have a professional diagnose and fix the problem."
+      ]
+    },
+    {
+      "id": "ch06_mcq_110",
+      "question": "What is suggested when performing a visual check of headlight alignment?",
+      "options": [
+        "Drive at high speed",
+        "Drive on a fairly straight road at night",
+        "Check on a curved road",
+        "Use only high beams"
+      ],
+      "answer": "Drive on a fairly straight road at night",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": "When you\u2019re driving on a fairly straight road at night, see if your headlights appear to be shining straight ahead and are low enough to illuminate enough of the road in front of you to enable you to stop safely if an obstruction appears."
+    },
+    {
+      "id": "ch06_mcq_111",
+      "question": "What is one alternative to a repair shop for checking headlight alignment?",
+      "options": [
+        "Contacting a highway patrol station",
+        "Replacing directional signals",
+        "Checking vehicle emissions",
+        "Consulting Chapter 20"
+      ],
+      "answer": "Contacting a highway patrol station",
+      "pages": [
+        148
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A cheaper way to check out headlight adjustment is to contact a highway\\npatrol station."
+      ]
+    },
+    {
+      "id": "ch06_mcq_112",
+      "question": "What consequence might be imposed if a vehicle\u2019s emissions are found to be incorrect?",
+      "options": [
+        "Replacing directional signals",
+        "Receiving a certificate of proper adjustment",
+        "Having to fix the problem within a set timeframe or paying a fine",
+        "Contacting a highway patrol station"
+      ],
+      "answer": "Having to fix the problem within a set timeframe or paying a fine",
+      "pages": [
+        148
+      ],
+      "confidence": 3.0,
+      "justification": "Of course, if the highway patrol finds that your headlights aren\u2019t in focus or finds anything wrong with your vehi-\ncle\u2019s emissions, you\u2019ll have to get the problem fixed within a stipulated\nperiod or face a fine."
+    },
+    {
+      "id": "ch06_mcq_113",
+      "question": "What should be obtained after adjusting headlight alignment personally?",
+      "options": [
+        "Contact information for a highway patrol station",
+        "A certificate confirming proper adjustment",
+        "A copy of Chapter 20",
+        "New directional signals"
+      ],
+      "answer": "A certificate confirming proper adjustment",
+      "pages": [
+        148
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you try to fix the alignment problem yourself by turning the adjustment screws on your headlights, go back to the checkpoint afterward for a certifi-cate saying that the lights have been adjusted and meet the proper standards."
+      ]
+    },
+    {
+      "id": "ch06_mcq_114",
+      "question": "What could be the reason for non-functioning directional signals?",
+      "options": [
+        "The frame around the signal needs replacement",
+        "The adjustment screws are in the correct position",
+        "The dashboard indicators are flashing correctly",
+        "The signal lights are malfunctioning"
+      ],
+      "answer": "The signal lights are malfunctioning",
+      "pages": [
+        148
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If any of your directional signals stop flashing or don\u2019t flash in synch, or if the directional signal indicators on your dashboard don\u2019t flash, the signal lights themselves may not be malfunctioning."
+      ]
+    },
+    {
+      "id": "ch06_short_001",
+      "question": "What does the term 'tune-up' currently refer to?",
+      "options": null,
+      "answer": "routine maintenance, which varies with a vehicle\u2019s make, model, and year, so check your owner\u2019s manual for scheduling recommendations.",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The term \u201ctune-up\u201d is still\nused to refer to routine maintenance, which varies with a vehicle\u2019s make, model,\nand year, so check your owner\u2019s manual for scheduling recommendations."
+      ]
+    },
+    {
+      "id": "ch06_short_002",
+      "question": "Besides changing spark plugs, what are two other maintenance items commonly included in a modern tune-up?",
+      "options": null,
+      "answer": "replacing air and fuel filters, and checking fluid levels",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "replacing air and fuel filters, and checking fluid levels"
+      ]
+    },
+    {
+      "id": "ch06_short_004",
+      "question": "What is the purpose of consulting your owner\u2019s manual regarding tune-up intervals?",
+      "options": null,
+      "answer": "To find recommended tune-up intervals, but also to be aware that periodic checks are in your best interest even if the manual indicates infrequent tune-ups.",
+      "pages": [
+        125
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Refer to your owner\u2019s manual for recommended tune-up intervals, but be \naware that even if it says that the vehicle doesn\u2019t require scheduled tune-ups\nvery often, it\u2019s in your best interest to check periodically that your vehicle\u2019s\nworking at peak efficiency."
+      ]
+    },
+    {
+      "id": "ch06_short_005",
+      "question": "Describe a situation where a vehicle's ignition system might need more frequent tuning.",
+      "options": null,
+      "answer": "If you do a lot of stop-and-go driving or pull heavy loads (like a camper or boat), your ignition system may need to be tuned more often.",
+      "pages": [
+        125
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you do a lot of stop-and-go driving or pull heavy loads (like a camper or boat), your ignition system may need to be tuned more often."
+      ]
+    },
+    {
+      "id": "ch06_short_006",
+      "question": "Why is it important to be familiar with the glossary at the end of the document?",
+      "options": null,
+      "answer": "Whenever you encounter a term set in this font, you\u2019ll find it defined in the glossary in Appendix A.",
+      "pages": [
+        125
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Whenever you encounter a term set in this font, you\u2019ll find it defined in the glossary in Appendix A."
+      ]
+    },
+    {
+      "id": "ch06_short_007",
+      "question": "What might need to be reevaluated if spark plugs are difficult to locate?",
+      "options": null,
+      "answer": "your plan to work on them",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Don\u2019t see your plugs? They may be hidden or hard to reach, which means that you need to reevaluate your plan to work on them."
+      ]
+    },
+    {
+      "id": "ch06_short_008",
+      "question": "What is one reason a professional might recommend replacing spark plugs more often than the manufacturer\u2019s suggestion?",
+      "options": null,
+      "answer": "Some professionals recommend replacement every 60,000 miles to avoid damage to the engine.",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "However, if they become fouled with oil or become defective, spark plugs may need to be replaced ahead of schedule.",
+        "However, if they become fouled with oil or become defective, spark plugs may need to be replaced ahead of schedule."
+      ]
+    },
+    {
+      "id": "ch06_short_009",
+      "question": "Describe a potential consequence of attempting spark plug replacement in a vehicle with a cramped engine compartment.",
+      "options": null,
+      "answer": "access can be difficult, which can damage the spark plug wires and the threads in the cylinder",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because so many modern vehicles have crammed engine compartments that make access diffi-cult, which can damage the spark plug wires and the threads in the cylinder"
+      ]
+    },
+    {
+      "id": "ch06_short_011",
+      "question": "Describe a situation where specialized tools might be required to access spark plugs.",
+      "options": null,
+      "answer": "On some transverse engines, you\u2019d have to remove the top engine mount bolts in order to tilt the engine forward to replace the rear spark plugs.",
+      "pages": [
+        127
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On some transverse engines, you\u2019d have to remove the top engine mount bolts in order to tilt the engine forward to replace the rear spark plugs."
+      ]
+    },
+    {
+      "id": "ch06_short_012",
+      "question": "What potential problem can arise if a mechanic neglects to dismount the engine to change a difficult-to-reach spark plug?",
+      "options": null,
+      "answer": "If a mechanic neglects to dismount the engine to change a difficult-to-reach spark plug, that one funky plug can increase your fuel consumption, add to air pollution, and cause other problems.",
+      "pages": [
+        127
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Studies have found that many shops just don\u2019t bother to dismount the engine to get at difficult plugs. If left unchanged, that one funky plug can increase your fuel consumption, add to air pollution, and cause other problems."
+      ]
+    },
+    {
+      "id": "ch06_short_013",
+      "question": "Why is a metal shield sometimes placed over the engine?",
+      "options": null,
+      "answer": "Removing this shield can require disconnecting cables that can seriously affect the ECU. That\u2019s why the shield is there!",
+      "pages": [
+        127
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Removing this shield can require disconnecting cables that can seriously affect the ECU. That\u2019s why the shield is there!"
+      ]
+    },
+    {
+      "id": "ch06_short_015",
+      "question": "Where can you find detailed explanations of cylinder sequence and firing order?",
+      "options": null,
+      "answer": "Chapter 5 has detailed explanations for these terms and illustrations of most of the major configurations",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Chapter 5 has detailed explanations for these terms and illustrations of most of the major configurations, so if you haven\u2019t read them, stop for a moment and check them out."
+      ]
+    },
+    {
+      "id": "ch06_short_016",
+      "question": "What type of lubricant can be applied to the threads of the spark plugs during installation?",
+      "options": null,
+      "answer": "engine oil off the oil dipstick or with anti-seize lubricant",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The threads of the spark plugs should be lightly coated with a dab of engine oil off the oil dipstick or with anti-seize lubricant before you install them in the engine."
+      ]
+    },
+    {
+      "id": "ch06_short_017",
+      "question": "Besides an engine oil dipstick, what is another source for applying lubricant to spark plug threads?",
+      "options": null,
+      "answer": "anti-seize lubricant",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The threads of the spark plugs should be lightly coated with a dab of engine oil off the oil dipstick or with anti-seize lubricant before you install them in the engine."
+      ]
+    },
+    {
+      "id": "ch06_short_018",
+      "question": "What type of clothing is recommended to wear while changing spark plugs?",
+      "options": null,
+      "answer": "Wear something that you don\u2019t mind getting stained with grease, oil, and other stuff.",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Wear something that you don\u2019t mind getting stained with grease, oil, and other stuff."
+      ]
+    },
+    {
+      "id": "ch06_short_019",
+      "question": "Where should a spare spark plug be stored if not immediately used?",
+      "options": null,
+      "answer": "keep it in your trunk compartment tool kit for emergencies",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you don\u2019t use it, keep it in your trunk compartment tool kit for emergencies."
+      ]
+    },
+    {
+      "id": "ch06_short_021",
+      "question": "Where are identification tags related to a vehicle's specifications typically located?",
+      "options": null,
+      "answer": "Inside your hood, inside the fenders, or inside the hood \u2014 anywhere the auto manufacturer thinks you\u2019ll find them. One vehicle has its decal inside the lid of the glove compartment.",
+      "pages": [
+        129
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Inside your hood, inside the fenders, or inside the hood \u2014 anywhere the auto manufacturer thinks you\u2019ll find them. One vehicle has its decal inside the lid of the glove compartment."
+      ]
+    },
+    {
+      "id": "ch06_short_023",
+      "question": "Define 'engine displacement'.",
+      "options": null,
+      "answer": "The engine displacement: How much room there is in each cylinder when the piston is at its lowest point?",
+      "pages": [
+        130
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The engine displacement: How much room there is in each cylinder when the piston is at its lowest point?"
+      ]
+    },
+    {
+      "id": "ch06_short_024",
+      "question": "List two units commonly used to measure engine displacement in modern vehicles.",
+      "options": null,
+      "answer": "liters and cubic centimeters",
+      "pages": [
+        130
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Modern vehicles are usually listed in liters (1.8, 2.3, 5.9) or cubic centimeters (2200, 3400, 3800)."
+      ]
+    },
+    {
+      "id": "ch06_short_025",
+      "question": "Explain how older vehicles typically listed engine displacement.",
+      "options": null,
+      "answer": "Older vehicles may be listed in cubic inches, such as 302, 350, 454, and so on.",
+      "pages": [
+        130
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The displacement of engines on older vehicles may be listed in cubic inches, such as 302, 350, 454, and so on."
+      ]
+    },
+    {
+      "id": "ch06_short_030",
+      "question": "Explain why it\u2019s important to keep the ratchet handle aligned with the spark plug when using extensions.",
+      "options": null,
+      "answer": "To avoid stripping the threads.",
+      "pages": [
+        132
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Just remember that you must keep the ratchet handle right in line with the angle of the plug it\u2019s contacting to avoid stripping the threads."
+      ]
+    },
+    {
+      "id": "ch06_short_031",
+      "question": "What are some alternative ratchet handle types mentioned for dealing with hard-to-reach spark plugs?",
+      "options": null,
+      "answer": "There are universal extensions that allow the ratchet handle to be held at odd angles; T-bar handles for better leverage; and offset handles for hard-to-reach places.",
+      "pages": [
+        132
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "There are universal extensions that allow the ratchet handle to be held at odd angles; T-bar handles for better leverage; and offset handles for hard-to-reach places"
+      ]
+    },
+    {
+      "id": "ch06_short_032",
+      "question": "Briefly describe the recommended technique for applying force when using a wrench to loosen a spark plug.",
+      "options": null,
+      "answer": "To get the proper leverage, place your free hand over the head of the wrench, grasping the head firmly, and pull the handle, hitting it gently with the palm of your hand to get it going.",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To get the proper leverage, place your free hand over the head of the wrench, grasping the head firmly, and pull the handle, hitting it gently with the palm of your hand to get it going (see Figure 6-2)."
+      ]
+    },
+    {
+      "id": "ch06_short_033",
+      "question": "Why might a spark plug be difficult to loosen on the first attempt?",
+      "options": null,
+      "answer": "Grease, sludge, and other junk may have caused the plug to stick in place, especially if it\u2019s been a long time since it was changed.",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Grease, sludge, and other junk may have caused the plug to stick in place, especially if it\u2019s been a long time since it was changed."
+      ]
+    },
+    {
+      "id": "ch06_short_034",
+      "question": "How can you determine which direction the ratchet handle will turn the socket?",
+      "options": null,
+      "answer": "You can tell which way the handle will turn the plug by listening to the clicks that the handle makes when you move it in one direction.",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You can tell which way the handle will turn the plug by listening to the clicks that the handle makes when you move it in one direction."
+      ]
+    },
+    {
+      "id": "ch06_short_035",
+      "question": "Explain what a ratchet handle allows you to do.",
+      "options": null,
+      "answer": "Ratchet handles can make many jobs much easier.",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Ratchet handles can make many jobs much easier."
+      ]
+    },
+    {
+      "id": "ch06_short_036",
+      "question": "What is meant by the phrase 'lefty loosey, righty tighty'?",
+      "options": null,
+      "answer": "Every screw, nut, bolt, screw-on cap, and so on that you encounter should loosen counterclockwise and tighten clockwise.",
+      "pages": [
+        133
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Every screw, nut, bolt, screw-on cap, and so on that you encounter should loosen counterclockwise and tighten clockwise (\u201clefty loosey, righty tighty\u201d)."
+      ]
+    },
+    {
+      "id": "ch06_short_037",
+      "question": "According to the provided information, what is the function of the side electrode?",
+      "options": null,
+      "answer": "The spark comes up the center of the plug and jumps the gap between these two electrodes.",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The spark comes up the center of the plug and jumps the gap between these two electrodes."
+      ]
+    },
+    {
+      "id": "ch06_short_038",
+      "question": "What tool can be used to measure the gap between the electrodes of a spark plug?",
+      "options": null,
+      "answer": "a wire or taper feeler gauge",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Take your wire or taper feeler gauge and locate the proper wire."
+      ]
+    },
+    {
+      "id": "ch06_short_039",
+      "question": "What is the purpose of a taper feeler gauge?",
+      "options": null,
+      "answer": "To locate the proper wire and slip it between the two electrodes on your old plug to determine the gap distance.",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Take your wire or taper feeler gauge and locate the proper wire. (If your spark-plug gap specifications say .035, look for this number on the gauge.) Then slip that part of the gauge between the two electrodes on your old plug."
+      ]
+    },
+    {
+      "id": "ch06_short_040",
+      "question": "Describe what the center electrode is and what happens near it.",
+      "options": null,
+      "answer": "The bump right under the side electrode's tip is called the center electrode. The spark comes up the center of the plug and jumps the gap between these two electrodes.",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The bump right under its tip is called the center electrode.",
+        "The spark comes up the center of the plug and jumps the gap between these two electrodes."
+      ]
+    },
+    {
+      "id": "ch06_short_041",
+      "question": "What does it mean if the taper gauge can't fit between the electrodes?",
+      "options": null,
+      "answer": "the gap is too small, which means that the spark plug isn\u2019t burning the fuel\/air mixture efficiently.",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the gauge can\u2019t fit between the center and side electrodes, the\ngap is too small, which means that the spark plug isn\u2019t burning the\nfuel\/air mixture efficiently."
+      ]
+    },
+    {
+      "id": "ch06_short_042",
+      "question": "Describe the appearance of a normal spark plug.",
+      "options": null,
+      "answer": "nice and cylindrical",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Is it nice and cylindrical, like the center electrodes on your new spark plugs?"
+      ]
+    },
+    {
+      "id": "ch06_short_043",
+      "question": "What does a higher plug number indicate?",
+      "options": null,
+      "answer": "the hotter the plug",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Switch to \u201chotter\u201d plugs. (The higher the plug number, the hotter the plug.)"
+      ]
+    },
+    {
+      "id": "ch06_short_044",
+      "question": "Why is it important to determine the cause of oil-fouled spark plugs?",
+      "options": null,
+      "answer": "To find out where the leak is coming from.",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Oil-fouled plug Wet, black, oily deposits on insulator tip and electrodes Oil may be leaking into cylinders past worn pistons or poorly adjusted or worn valves Clean and regap the plug, or replace it, but find out where the leak is coming from."
+      ]
+    },
+    {
+      "id": "ch06_short_045",
+      "question": "What should be done with spark plugs that have severely eroded or worn electrodes?",
+      "options": null,
+      "answer": "Replace the plug.",
+      "pages": [
+        135
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Worn plug\nSeverely eroded or \nworn electrodes\nPlug has been in \nthere too long\nReplace the plug."
+      ]
+    },
+    {
+      "id": "ch06_short_046",
+      "question": "What is the purpose of using a feeler gauge when working with spark plugs?",
+      "options": null,
+      "answer": "Some plugs are sold \u201cpre-gapped,\u201d but I recommend checking them with a feeler gauge anyway.",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Some plugs are sold \u201cpre-gapped,\u201d but I recommend checking them with a feeler gauge anyway."
+      ]
+    },
+    {
+      "id": "ch06_short_047",
+      "question": "Why is it recommended to get a second opinion when a major vehicle repair is suggested?",
+      "options": null,
+      "answer": "It is recommended to get a second opinion because you wisely get a second opinion when a doctor tells you that you need major surgery; why not give your vehicle the same thorough attention before incurring a major expense?",
+      "pages": [
+        136
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It is recommended to get a second opinion because you wisely get a second opinion when a doctor tells you that you need major surgery; why not give your vehicle the same thorough attention before incurring a major expense?"
+      ]
+    },
+    {
+      "id": "ch06_short_048",
+      "question": "Why should you work on only one spark plug at a time?",
+      "options": null,
+      "answer": "To avoid problems",
+      "pages": [
+        136
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To avoid problems, work on only one plug at a time, in cylinder sequence order."
+      ]
+    },
+    {
+      "id": "ch06_short_049",
+      "question": "What characteristics should be checked for when inspecting a new spark plug?",
+      "options": null,
+      "answer": "You shouldn\u2019t see any cracks or bubbles in the porcelain insulator, and the threads should be unbroken.",
+      "pages": [
+        136
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You shouldn\u2019t see any cracks or bubbles in the porcelain insulator, and the threads should be unbroken."
+      ]
+    },
+    {
+      "id": "ch06_short_050",
+      "question": "What is the purpose of using a feeler gauge when dealing with spark plugs?",
+      "options": null,
+      "answer": "To determine the distance between the electrodes and adjust the gap as necessary.",
+      "pages": [
+        137
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the gauge doesn\u2019t go through, or if it goes through too easily without touching the electrodes, you need to adjust the distance between the electrodes."
+      ]
+    },
+    {
+      "id": "ch06_short_051",
+      "question": "Why is it important to use a lint-free cloth when cleaning the spark plug hole?",
+      "options": null,
+      "answer": "To avoid shoving any dirt into it.",
+      "pages": [
+        137
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "1. Clean the spark plug hole in the cylinder block with a clean, lint-free cloth.\nWipe away from the hole; don\u2019t shove any dirt into it."
+      ]
+    },
+    {
+      "id": "ch06_short_052",
+      "question": "What precaution should be taken when applying oil to the spark plug threads?",
+      "options": null,
+      "answer": "be careful not to get any on the center or side electrodes",
+      "pages": [
+        137
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Lightly coat the threads of the spark plug with a dab of oil from the oil dipstick, being careful not to get any on the center or side electrodes."
+      ]
+    },
+    {
+      "id": "ch06_short_053",
+      "question": "Describe the process of widening a spark plug gap that is too narrow.",
+      "options": null,
+      "answer": "Hook the part of the feeler gauge that\u2019s used for bending electrodes under the side electrode and tug very gently to widen the gap.",
+      "pages": [
+        137
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Hook the part of the feeler gauge that\u2019s used for bending electrodes under the side electrode and tug very gently to widen the gap."
+      ]
+    },
+    {
+      "id": "ch06_short_055",
+      "question": "Describe the proper technique for initially seating a spark plug during installation.",
+      "options": null,
+      "answer": "You have to do it by hand",
+      "pages": [
+        138
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "This is called \u201cseating the plug.\u201d You have to do it by hand or you run\nthe risk of starting the plug crooked and ruining the threads on the plug\nor the threads in the spark plug hole in the engine."
+      ]
+    },
+    {
+      "id": "ch06_short_056",
+      "question": "What is meant by \u2018seating the plug\u2019?",
+      "options": null,
+      "answer": "You have to do it by hand",
+      "pages": [
+        138
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "This is called \u201cseating the plug.\u201d You have to do it by hand or you run the risk of starting the plug crooked and ruining the threads on the plug or the threads in the spark plug hole in the engine."
+      ]
+    },
+    {
+      "id": "ch06_short_057",
+      "question": "What should be done to the first spark plug after it is initially tightened?",
+      "options": null,
+      "answer": "Turn it at least two full turns before utilizing the spark plug socket and ratchet.",
+      "pages": [
+        138
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "4. After you engage the plug by hand, turn it at least two full turns before utilizing the spark plug socket and ratchet."
+      ]
+    },
+    {
+      "id": "ch06_short_058",
+      "question": "Why should most ignition system testing and servicing be left to professionals?",
+      "options": null,
+      "answer": "Because they\u2019re easily damaged if hooked up improperly, and they employ high voltage that can also damage you.",
+      "pages": [
+        138
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "trained professionals because they\u2019re easily\ndamaged if hooked up improperly, and they\nemploy high voltage that can also damage you."
+      ]
+    },
+    {
+      "id": "ch06_short_059",
+      "question": "What information is typically found on a vehicle battery?",
+      "options": null,
+      "answer": "A battery usually has a sticker on it that shows when you bought it and how long you can expect it to survive.",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A battery usually has a sticker on it that shows when you bought it and how long you can expect it to survive."
+      ]
+    },
+    {
+      "id": "ch06_short_061",
+      "question": "Briefly describe a situation where professional battery installation might be the preferable option.",
+      "options": null,
+      "answer": "If the battery on your vehicle is concealed under a plastic shield that is difficult to get off, having it installed by a professional might be preferable.",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the battery on your vehicle is concealed under a plastic shield that\u2019s difficult to get off, have the battery installed wherever you buy it."
+      ]
+    },
+    {
+      "id": "ch06_short_063",
+      "question": "What is one benefit of replacing a battery before it reaches the end of its expected lifespan?",
+      "options": null,
+      "answer": "To prevent being stuck on the road with a dead battery",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To prevent being stuck on the road with a dead battery, enter that information in your Specifications Record in Appendix B and have the battery replaced before it comes to the end of its life expectancy."
+      ]
+    },
+    {
+      "id": "ch06_short_064",
+      "question": "What markings may be found on a negative battery terminal?",
+      "options": null,
+      "answer": "The post with the little \u201c\u2013\u201d or \u201cNEG\u201d on it.",
+      "pages": [
+        140
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Look in your owner\u2019s manual to see whether your vehicle has negative ground (most do). If it does, use an adjustable wrench to first loosen the nut and bolt on the clamp that holds the battery cable on the negative terminal. (That\u2019s the post with the little \u201c\u2013\u201d or \u201cNEG\u201d on it.)"
+      ]
+    },
+    {
+      "id": "ch06_short_065",
+      "question": "Name three items, besides the battery itself, needed for the battery replacement process.",
+      "options": null,
+      "answer": "An adjustable wrench, a pair of disposable latex gloves, and a battery brush.",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you don\u2019t have an adjustable wrench (see Chapter 3), buy or borrow one.",
+        "You\u2019ll also need a couple of clean lint-free rags, a pair of disposable latex gloves, some water and baking soda, and a battery brush.",
+        "To protect your eyes from any deposits that can hurt them, invest in an inexpensive pair of safety goggles, too."
+      ]
+    },
+    {
+      "id": "ch06_short_066",
+      "question": "What is the recommended position of the vehicle's transmission and parking brake before beginning a battery replacement?",
+      "options": null,
+      "answer": "The vehicle should be in Park, with the engine shut off and the parking brake on.",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "1. Make sure that your vehicle is in Park, with the engine shut off and the parking brake on."
+      ]
+    },
+    {
+      "id": "ch06_short_067",
+      "question": "Describe the importance of securing a bolt by hand during removal.",
+      "options": null,
+      "answer": "To have a firm grip on it when it comes loose and it doesn\u2019t drop and roll into obscurity.",
+      "pages": [
+        141
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When you\u2019re removing a bolt or screw, after you\u2019ve loosened it with a tool, turn it the last few turns by hand so that you have a firm grip on it when it comes loose and it doesn\u2019t drop and roll into obscurity."
+      ]
+    },
+    {
+      "id": "ch06_short_068",
+      "question": "What is one potential benefit of having a shop recycle an old battery when purchasing a new one?",
+      "options": null,
+      "answer": "The shop will recycle the old one for you.",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you have your new battery installed when you buy it, the shop will recycle the old one for you."
+      ]
+    },
+    {
+      "id": "ch06_short_069",
+      "question": "Where are fuse boxes commonly located in a vehicle?",
+      "options": null,
+      "answer": "Many vehicles have two fuse boxes: one under the hood and one under the dash.",
+      "pages": [
+        141
+      ],
+      "confidence": 3.0,
+      "justification": "Many vehicles have two fuse boxes: one under the hood and one under the dash."
+    },
+    {
+      "id": "ch06_short_071",
+      "question": "Explain why recycling old batteries is beneficial for the environment.",
+      "options": null,
+      "answer": "Batteries are filled with a toxic, corrosive liquid and must be disposed of properly. What\u2019s more, old batteries are usually rebuilt into new ones, so just throwing one in the trash is doubly bad for the environment.",
+      "pages": [
+        141
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Batteries are filled with a toxic, corrosive liquid and must be disposed of properly. What\u2019s more, old batteries are usually rebuilt into new ones, so just throwing one in the trash is doubly bad for the environment."
+      ]
+    },
+    {
+      "id": "ch06_short_072",
+      "question": "Why is it beneficial to know the location of your vehicle's fuse boxes?",
+      "options": null,
+      "answer": "It is beneficial to know the location of your vehicle's fuse boxes than paying for new equipment or repairs that you don\u2019t need.",
+      "pages": [
+        142
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "than paying for new equipment or repairs that you don\u2019t need (even if you chicken out and have an automotive technician do it), so take a few minutes to find your fuse boxes."
+      ]
+    },
+    {
+      "id": "ch06_short_073",
+      "question": "What is the first step you should take before working on a fuse box?",
+      "options": null,
+      "answer": "Before you open or work on a fuse box, be sure that your vehicle\u2019s ignition is turned off.",
+      "pages": [
+        142
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Before you open or work on a fuse box, be sure that your vehicle\u2019s ignition is turned off."
+      ]
+    },
+    {
+      "id": "ch06_short_074",
+      "question": "What is a characteristic of older vehicles' headlights?",
+      "options": null,
+      "answer": "Older vehicles have headlights with sealed-beam units (bulbs).",
+      "pages": [
+        144
+      ],
+      "confidence": 4.0,
+      "justification": "Older vehicles have headlights with sealed-beam units (bulbs)."
+    },
+    {
+      "id": "ch06_short_077",
+      "question": "What is one potential issue if a headlight doesn't work in either beam setting?",
+      "options": null,
+      "answer": "you probably just have a bad connection in the wiring",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If a headlight doesn\u2019t work on either High or Low beam, you probably just have a bad connection in the wiring."
+      ]
+    },
+    {
+      "id": "ch06_short_078",
+      "question": "What is a preliminary step before attempting to replace or adjust headlights?",
+      "options": null,
+      "answer": "Before attempting to replace or adjust your headlights, you need to know whether you have halogen or Xenon headlamps or the old-style sealed-beam units.",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": "Before attempting to replace or adjust your headlights, you need to know whether you have halogen or Xenon headlamps or the old-style sealed-beam units."
+    },
+    {
+      "id": "ch06_short_079",
+      "question": "Name three different markings found on a headlight lens cover that would indicate the presence of HID lamps.",
+      "options": null,
+      "answer": "D1R, D1S, D2R or D2S",
+      "pages": [
+        145
+      ],
+      "confidence": 4.0,
+      "justification": "If it\u2019s marked with D1R, D1S, D2R or D2S, you have HID lamps."
+    },
+    {
+      "id": "ch06_short_080",
+      "question": "Compared to sealed-beam units, how much farther can a driver see with modern headlight units?",
+      "options": null,
+      "answer": "20 percent farther",
+      "pages": [
+        145
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although they are far more powerful than sealed-beam units and enable a\\ndriver to see 20 percent farther, these modern units require less power to\\noperate."
+      ]
+    },
+    {
+      "id": "ch06_short_081",
+      "question": "Describe one method used to secure an electrical connector to a bulb assembly.",
+      "options": null,
+      "answer": "The connector can be held in place by a ring that unlocks by twisting it counterclockwise, by a little catch that you need to press down while pulling on the plug, or by a metal clip that pulls off.",
+      "pages": [
+        145
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The connector can be held in place by a ring that unlocks by twisting it counterclockwise, by a little catch that you need to press down while pulling on the plug, or by a metal clip that pulls off (don\u2019t lose it!)."
+      ]
+    },
+    {
+      "id": "ch06_short_082",
+      "question": "What safety precaution should be taken before attempting to replace a sealed-beam headlight?",
+      "options": null,
+      "answer": "Make sure that the vehicle\u2019s ignition is off before you open the unit.",
+      "pages": [
+        146
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "1. Make sure that the vehicle\u2019s ignition is off before you open the unit."
+      ]
+    },
+    {
+      "id": "ch06_short_083",
+      "question": "What type of tools should you avoid using when replacing a headlight?",
+      "options": null,
+      "answer": "If you need some exotic tool to do this, forget the job and have it done professionally.",
+      "pages": [
+        146
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you need some exotic tool to do this, forget the job and have it done professionally."
+      ]
+    },
+    {
+      "id": "ch06_short_084",
+      "question": "Describe the purpose of the top or side adjustment screw on a halogen headlamp.",
+      "options": null,
+      "answer": "The screw on the top or side will focus the beam to the left or right.",
+      "pages": [
+        146
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The screw on the top or side will focus the beam to the left or right."
+      ]
+    },
+    {
+      "id": "ch06_short_086",
+      "question": "Describe what to do to ensure the new bulb is properly seated in the receptacle.",
+      "options": null,
+      "answer": "Be sure to put the new bulb into its locking slots with the unit number at the top. Any small bumps you find on the back edge of the bulb should align with corresponding little depressions in the socket.",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Be sure to put the new bulb into its locking slots with the unit number at the top. Any small bumps you find on the back edge of the bulb should align with corresponding little depressions in the socket."
+      ]
+    },
+    {
+      "id": "ch06_short_087",
+      "question": "What potential issue could indicate a problem with the wiring rather than the bulb itself?",
+      "options": null,
+      "answer": "If the connector is very corroded or the wiring looks bad, the problem with the light may be in the wiring rather than the bulb.",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": "If the connector is very corroded or the wiring looks bad, the problem with the light may be in the wiring rather than the bulb."
+    },
+    {
+      "id": "ch06_short_088",
+      "question": "What is a potential consequence of seeking a Motor Vehicle Bureau inspection solely to check headlight alignment?",
+      "options": null,
+      "answer": "You\u2019ll probably have to pay them for checking the lights and for an inspection certificate whether or not they have to adjust your lights.",
+      "pages": [
+        148
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Note, though, that if you go to a repair facility that does MVB inspections just to see whether your headlights are aimed properly, you\u2019ll probably have to pay them for checking the lights and for an inspection certificate whether or not they have to adjust your lights."
+      ]
+    },
+    {
+      "id": "ch06_short_089",
+      "question": "Explain the purpose of the small depressions found in the socket when installing a new bulb.",
+      "options": null,
+      "answer": "Any small bumps you find on the back edge of the bulb should align with corresponding little depressions in the socket.",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Any small bumps you find on the back edge of the bulb should align with corresponding little depressions in the socket."
+      ]
+    },
+    {
+      "id": "ch06_short_090",
+      "question": "Describe one potential location for accessing a directional signal bulb.",
+      "options": null,
+      "answer": "On others, you can access the bulb from the trunk.",
+      "pages": [
+        149
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On others, you can access the bulb from the trunk."
+      ]
+    },
+    {
+      "id": "ch06_short_091",
+      "question": "What could indicate that the directional signal indicators are not the source of a problem?",
+      "options": null,
+      "answer": "If any of your directional signals stop flashing or don\u2019t flash in synch, or if the directional signal indicators on your dashboard don\u2019t flash, the signal lights themselves may not be malfunctioning.",
+      "pages": [
+        148
+      ],
+      "confidence": 3.0,
+      "justification": "If any of your directional signals stop flashing or don\u2019t flash in synch, or if the directional signal indicators on your dashboard don\u2019t flash, the signal lights themselves may not be malfunctioning."
+    },
+    {
+      "id": "ch06_short_092",
+      "question": "What is one possible reason why directional signals might not flash in synchronicity?",
+      "options": null,
+      "answer": "The signal lights themselves may not be malfunctioning.",
+      "pages": [
+        148
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "If any of your directional signals stop flashing or don\u2019t flash in synch, or if the directional signal indicators on your dashboard don\u2019t flash, the signal lights themselves may not be malfunctioning."
+      ]
+    },
+    {
+      "id": "ch06_true_false_001",
+      "question": "Older vehicles often require ignition tune-ups annually.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "unlike older vehicles, which needed ignition tune-ups at least once a year, most vehicles on the road today have electronic ignition systems that are built to go for years without the need for them"
+      ]
+    },
+    {
+      "id": "ch06_true_false_002",
+      "question": "Major tune-ups typically require specialized equipment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "because major tune-ups require electronic diagnostic equip-ment and sensitive onboard computers, they should be done by profession-als at the dealership or a qualified service facility"
+      ]
+    },
+    {
+      "id": "ch06_true_false_003",
+      "question": "It is always advisable to perform all electrical system maintenance yourself.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Although this chapter provides instructions for quite a number of jobs you can do yourself, because major tune-ups require electronic diagnostic equip-ment and sensitive onboard computers, they should be done by professionals at the dealership or a qualified service facility."
+      ]
+    },
+    {
+      "id": "ch06_true_false_004",
+      "question": "Replacing air and fuel filters can be part of a tune-up.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        124
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "In case you\u2019re wondering what a modern tune-up includes, it generally involves doing an electronic diagnostic check, changing spark plugs, replacing air and fuel filters, and checking fluid levels."
+      ]
+    },
+    {
+      "id": "ch06_true_false_005",
+      "question": "Newer vehicles with electronic ignition and fuel injection systems typically require more frequent tune-ups than older vehicles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        125
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Most older vehicles with non-electronic ignitions should be tuned every 10,000 to 12,000 miles or every year, whichever comes first. Newer cars with electronic ignition and fuel injection systems are scheduled to go from 25,000 miles to as many as 100,000 miles without needing a major tune-up."
+      ]
+    },
+    {
+      "id": "ch06_true_false_006",
+      "question": "Refrigerant escaping from an air conditioning system can be harmful.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        125
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "It contains refrigerant under pressure that can blind you if it escapes."
+      ]
+    },
+    {
+      "id": "ch06_true_false_007",
+      "question": "A vehicle stalling only when the air conditioner is on provides useful information for troubleshooting.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        125
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "If you\u2019re having trouble pinpointing why your vehicle is stalling, you can\\nhelp your automotive technician diagnose the problem by paying atten-\\nion to whether the engine stalls when it\u2019s hot, cold, or when the air \\nconditioner is on."
+      ]
+    },
+    {
+      "id": "ch06_true_false_009",
+      "question": "A vehicle\u2019s spark plugs always need to be replaced according to a strict mileage schedule.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "How often you replace spark plugs depends on the type of plugs you have...Although some professionals recommend replacement every 60,000 miles to avoid damage to the engine."
+      ]
+    },
+    {
+      "id": "ch06_true_false_010",
+      "question": "Spark plug wires can be identified by looking for thick wires or thin cables entering the engine block.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": "To locate your spark plugs, look for a set of thick wires (or thin cables) that enter your engine block in neat rows..."
+    },
+    {
+      "id": "ch06_true_false_011",
+      "question": "Modern vehicles often have engine compartments that make spark plug replacement straightforward.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        126
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because so many modern vehicles have crammed engine compartments that make access diffi-cult"
+      ]
+    },
+    {
+      "id": "ch06_true_false_012",
+      "question": "It is safe to proceed with spark plug replacement on any vehicle, provided you have the correct tools.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        127
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If I were you, I\u2019d leave all these vehicles to the professionals who have hoists and special tools that allow them to do the work safely and with relative ease."
+      ]
+    },
+    {
+      "id": "ch06_true_false_013",
+      "question": "Replacing a spark plug on a vehicle with an aluminum cylinder head carries a lower risk of damage compared to those with steel heads.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        127
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Your engine has an aluminum cylinder head. Because the metal is soft, it\u2019s easy to strip the threads in the spark plug\u2019s hole. If you do, the head will probably have to be removed for repair, and that means more mega-bucks."
+      ]
+    },
+    {
+      "id": "ch06_true_false_014",
+      "question": "If spark plugs are hidden, it might require removing other components to access them.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        127
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "On some vehicles, you can\u2019t get at the plugs until you remove other parts that are in the way. For example, on some transverse engines, you\u2019d have to remove the top engine mount bolts in order to tilt the engine forward to replace the rear spark plugs. And on other engines, you can only get to some spark plugs from underneath or through the wheel well area."
+      ]
+    },
+    {
+      "id": "ch06_true_false_015",
+      "question": "Ignoring the accessibility of spark plugs can lead to problems like increased fuel consumption.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        127
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Studies have found that many shops just don\u2019t bother to dismount the\\nengine to get at difficult plugs. If left unchanged, that one funky plug can\\nincrease your fuel consumption, add to air pollution, and cause other\\nproblems."
+      ]
+    },
+    {
+      "id": "ch06_true_false_016",
+      "question": "Older domestic engines are generally less likely to have systems that place an ignition coil directly atop each spark plug.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        127
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Some older domestic engines, most modern import engines, and an increasing number of modern domestic engines have systems that place an ignition coil directly atop each spark plug."
+      ]
+    },
+    {
+      "id": "ch06_true_false_017",
+      "question": "It is acceptable to change only a few spark plugs to save money.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Never change just a few plugs; it\u2019s all or nothing for even engine performance."
+      ]
+    },
+    {
+      "id": "ch06_true_false_018",
+      "question": "Spark plugs can become stale over time and should be used quickly.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        128
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Spark plugs don\u2019t get stale."
+      ]
+    },
+    {
+      "id": "ch06_true_false_019",
+      "question": "A work light or flashlight is necessary for this procedure.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        128
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "A work light (or flashlight, at least)"
+      ]
+    },
+    {
+      "id": "ch06_true_false_020",
+      "question": "The spark plugs should be installed without any lubricant.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        128
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The threads of the spark plugs should be lightly coated with a dab of engine oil off the oil dipstick or with anti-seize lubricant before you install them in the engine."
+      ]
+    },
+    {
+      "id": "ch06_true_false_023",
+      "question": "A vehicle's owner\u2019s manual is the only place to find spark plug specifications.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        129
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Your owner\u2019s manual may have specifications for buying and gapping the spark plugs on your vehicle. If you don\u2019t have an owner\u2019s manual, or if yours lacks the necessary information, you can find the correct spark plugs and spark plug gap in a general \u201cTune-Up Specification Guide\u201d."
+      ]
+    },
+    {
+      "id": "ch06_true_false_024",
+      "question": "The type of transmission (automatic or manual) is irrelevant when determining spark plug specifications.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        129
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Whether the vehicle has an automatic or a manual (standard) transmission."
+      ]
+    },
+    {
+      "id": "ch06_true_false_025",
+      "question": "Air conditioning is a crucial factor to consider when purchasing most automotive parts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        130
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It\u2019s not usually necessary to take this into account when buying most parts, but you never know when you\u2019ll need it."
+      ]
+    },
+    {
+      "id": "ch06_true_false_026",
+      "question": "The number of barrels in a carburetor is not a distinguishing factor for older engines.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        130
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Carburetors, on the other hand, were distinguished by how many \u201cbarrels\u201d they had."
+      ]
+    },
+    {
+      "id": "ch06_true_false_027",
+      "question": "Engine displacement directly correlates to the amount of fuel and air that cylinders hold.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        130
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The bigger the displace- ment, the more fuel and air the cylinders in the engine hold."
+      ]
+    },
+    {
+      "id": "ch06_true_false_028",
+      "question": "It is advisable to remove all spark plugs at once to speed up the replacement process.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        131
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "One way to royally confuse yourself and turn the relatively simple task of\\nchanging spark plugs into a nightmare is to pull all your spark plugs out\\n at one time. To keep your sanity and to avoid turning this job into an all-\\ weekend project, work on one spark plug at a time: Remove it, inspect it, clean it, and \u2014 if it\u2019s salvageable \u2014 gap it. Then replace it before you move on\\nto the next spark plug in cylinder sequence order."
+      ]
+    },
+    {
+      "id": "ch06_true_false_029",
+      "question": "The material suggests that it is always better to attempt a repair yourself, regardless of your skill level.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        131
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "\u201cDeciding if you should do the job yourself,\u201d and if your vehicle fits even one of those descriptions, don\u2019t try to do the work in this section. It\u2019s better to pay a professional than to risk damaging your engine or ECU!\u201d"
+      ]
+    },
+    {
+      "id": "ch06_true_false_030",
+      "question": "Maintaining the correct firing order is important for proper engine function.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        131
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To maintain the proper firing order, each spark-plug wire must go from the spark source to the proper spark plug."
+      ]
+    },
+    {
+      "id": "ch06_true_false_032",
+      "question": "Universal extensions can allow the ratchet handle to be held at unusual angles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        132
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "There are universal extensions that allow the ratchet handle to be held at odd angles"
+      ]
+    },
+    {
+      "id": "ch06_true_false_033",
+      "question": "A service station will be delighted to change just one spark plug.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you absolutely can\u2019t reach the offending plug, you can always drive to your service station and humbly ask them to change just that one plug. They won\u2019t like it, but it is a last resort."
+      ]
+    },
+    {
+      "id": "ch06_true_false_034",
+      "question": "It is recommended to apply maximum force to loosen a stuck spark plug.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It\u2019s okay to exert some strength; just be sure your socket is securely over the plug..."
+      ]
+    },
+    {
+      "id": "ch06_true_false_035",
+      "question": "The ratchet handle allows for precise control over the direction of socket rotation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The little knob on the back of the ratchet handle causes the ratchet to turn the socket either clockwise or counterclockwise.",
+        "If your ratchet clicks in the wrong direction, just move that little knob to reverse the direction."
+      ]
+    },
+    {
+      "id": "ch06_true_false_036",
+      "question": "If the ratchet clicks in the wrong direction, it is necessary to replace the ratchet.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If your ratchet clicks in the wrong direction, just move that little knob to reverse the direction."
+      ]
+    },
+    {
+      "id": "ch06_true_false_037",
+      "question": "Once the ratchet turns freely, it\u2019s best to continue using the ratchet handle to remove the plug.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "6. When the ratchet turns freely, finish the job by removing the ratchet handle and turning the socket by hand until the plug is free from the engine."
+      ]
+    },
+    {
+      "id": "ch06_true_false_038",
+      "question": "Consistent maintenance can make it easier to remove spark plugs in the future.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        133
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You\u2019ll feel better knowing that after you\u2019ve installed your new plugs by hand, it will be a lot easier to get them loose the next time."
+      ]
+    },
+    {
+      "id": "ch06_true_false_039",
+      "question": "It\u2019s acceptable to skip reading a spark plug and immediately proceed with replacing it.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "But don\u2019t go on to the next plug until you\u2019ve read the plug (see the section \u201cReading your spark plugs\u201d and Table 6-1) and gapped and replaced it, following the instructions later in this chapter."
+      ]
+    },
+    {
+      "id": "ch06_true_false_041",
+      "question": "A smaller-than-specified gap between the electrodes improves engine efficiency.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        134
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the gauge can\u2019t fit between the center and side electrodes, the gap is too small, which means that the spark plug isn\u2019t burning the fuel\/air mixture efficiently."
+      ]
+    },
+    {
+      "id": "ch06_true_false_042",
+      "question": "The center electrode and side electrode are responsible for creating the spark.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        134
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "The spark comes up the center of the plug and jumps the gap between these two electrodes."
+      ]
+    },
+    {
+      "id": "ch06_true_false_044",
+      "question": "New spark plugs always require cleaning before installation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Keep in mind that although you don\u2019t need to clean new spark plugs, you do need to gap them."
+      ]
+    },
+    {
+      "id": "ch06_true_false_045",
+      "question": "A burned spark plug is likely caused by a lean fuel\/air mixture.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Burned plug\nBlisters on insulator \ntip, melted electrodes, gap is too wide, \nwrong or loose \nplugs, overly lean \nfuel\/air mixture, or \nincorrect timing"
+      ]
+    },
+    {
+      "id": "ch06_true_false_046",
+      "question": "It is unnecessary to check the gap of spark plugs that are sold \u201cpre-gapped.\u201d",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Keep in mind that although you don\u2019t need to clean new spark plugs, you do need to gap them. Some plugs are sold \u201cpre-gapped,\u201d but I recom- mend checking them with a feeler gauge anyway."
+      ]
+    },
+    {
+      "id": "ch06_true_false_047",
+      "question": "A worn spark plug will maintain the original spark plug gap.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "When the center electrode wears down, the gap becomes too large."
+      ]
+    },
+    {
+      "id": "ch06_true_false_048",
+      "question": "Carbon fouling is often a result of driving at high speeds.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        135
+      ],
+      "confidence": 3.0,
+      "justification": "Carbon-fouled Black, dry, fluffy soot on insulator tip and electrodes Overly rich fuel\/air mixture, dirty air filter, too much driving at low speeds, or idling for a long time"
+    },
+    {
+      "id": "ch06_true_false_049",
+      "question": "It is unnecessary to gap new spark plugs, even if the package indicates they are 'pre-gapped'.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        136
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Gap new as well as old spark plugs, even if the package says that the new plugs are \u201cpre-gapped.\u201d"
+      ]
+    },
+    {
+      "id": "ch06_true_false_050",
+      "question": "Adjusting spark plug heat range should not exceed one step hotter or cooler at a time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        136
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "Never go more than one step hotter or cooler at a time."
+      ]
+    },
+    {
+      "id": "ch06_true_false_051",
+      "question": "Checking for cracks or bubbles in the porcelain insulator is a recommended inspection step.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        136
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "You shouldn\u2019t see any cracks or bubbles in the porcelain insulator"
+      ]
+    },
+    {
+      "id": "ch06_true_false_052",
+      "question": "It is uncommon to experience adjustments that oscillate between a gap that is too large and too small.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        137
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you keep adjusting the gap too narrow or too wide, don\u2019t feel bad. Everyone I know goes through the \u201ctoo large\u2013too small\u2013too large\u201d bit a couple of times for each plug, especially the perfectionists."
+      ]
+    },
+    {
+      "id": "ch06_true_false_053",
+      "question": "Oil should be applied to both the center and side electrodes of the spark plug during installation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        137
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "being careful not to get any on the center or side electrodes."
+      ]
+    },
+    {
+      "id": "ch06_true_false_054",
+      "question": "The initial threading of the spark plug should be done with a wrench.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        137
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Carefully begin threading the spark plug into the engine by hand, turning it clockwise."
+      ]
+    },
+    {
+      "id": "ch06_true_false_055",
+      "question": "Wiping away from the spark plug hole prevents dirt from entering the cylinder.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        137
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "1. Clean the spark plug hole in the cylinder block with a clean, lint-free\ncloth.\nWipe away from the hole; don\u2019t shove any dirt into it."
+      ]
+    },
+    {
+      "id": "ch06_true_false_057",
+      "question": "It is safe to use any tool to hold a spark plug during installation as long as it fits.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        138
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Or, you can use just about anything you can wrap around or slip over the plug top, including an old spark plug wire boot, a finger cut from a vinyl glove, an old piece of thin plastic tubing, or a piece of vacuum hose."
+      ]
+    },
+    {
+      "id": "ch06_true_false_058",
+      "question": "A spark plug should be tightened so that it can easily be loosened with hand pressure.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        138
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The plug should stick a little when you try to loosen it, but you should be able to loosen it again without straining yourself."
+      ]
+    },
+    {
+      "id": "ch06_true_false_059",
+      "question": "Cars with fewer cylinders generally require less time and effort to service spark plugs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        138
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It\u2019s at times like these that owners of 4-cylinder cars have the edge on those who drive those big, expensive 8-cylinder monsters."
+      ]
+    },
+    {
+      "id": "ch06_true_false_061",
+      "question": "It is always advantageous to replace a battery yourself, regardless of the cost or difficulty.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "However, if installation and disposal are included in the price of a new battery, there may be no advantage in undertaking the job."
+      ]
+    },
+    {
+      "id": "ch06_true_false_062",
+      "question": "Regular battery checks and maintenance can help extend its lifespan.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To extend its life, your battery should be checked and maintained regularly."
+      ]
+    },
+    {
+      "id": "ch06_true_false_063",
+      "question": "A vehicle's Specifications Record should be consulted to track battery information.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To prevent being stuck on the road with a dead battery, enter that information in your Specifications Record in Appendix B and have the battery replaced before it comes to the end of its life expectancy."
+      ]
+    },
+    {
+      "id": "ch06_true_false_064",
+      "question": "If a battery is easily accessible and has a few screws or bolts securing its shield, it is likely safe to replace yourself.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        139
+      ],
+      "confidence": 3.0,
+      "justification": "If you see just a few screws or bolts, you can probably unscrew them and remove the shield without much trouble."
+    },
+    {
+      "id": "ch06_true_false_066",
+      "question": "It is advisable to purchase the most expensive battery regardless of how long you plan to keep your vehicle.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "but if you don\u2019t plan to keep your vehicle longer than five years, don\u2019t spring for an expensive long-term battery that will vastly outlive your need for it."
+      ]
+    },
+    {
+      "id": "ch06_true_false_067",
+      "question": "Wearing safety goggles is unnecessary when working with batteries.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        140
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "To protect your eyes from any deposits that can hurt them, invest in an inexpensive pair of safety goggles, too."
+      ]
+    },
+    {
+      "id": "ch06_true_false_068",
+      "question": "If your vehicle has positive ground, you should loosen the cable on the negative terminal first.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        140
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "If your vehicle has positive ground, loosen the cable with \u201c+\u201d or \u201cPOS\u201d on it first."
+      ]
+    },
+    {
+      "id": "ch06_true_false_069",
+      "question": "It is recommended to replace battery cables in the same order they were originally installed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        141
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "9. Replace the battery cables on the terminals in reverse order from which you removed them."
+      ]
+    },
+    {
+      "id": "ch06_true_false_070",
+      "question": "Replacing a blown fuse is typically an expensive repair.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        141
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "You can change fuses yourself, easily and with very little expense."
+      ]
+    },
+    {
+      "id": "ch06_true_false_071",
+      "question": "Wearing gloves is recommended when handling a battery due to potentially corrosive materials.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        141
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Wear your gloves because the battery stuff is corrosive and be sure the battery tray is completely dry before taking the next step!"
+      ]
+    },
+    {
+      "id": "ch06_true_false_072",
+      "question": "Fuse boxes are difficult to recognize due to their complex design.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        142
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "A fuse box is easy to recognize (see Figures 6-6 and 6-7)"
+      ]
+    },
+    {
+      "id": "ch06_true_false_073",
+      "question": "Shops will always recycle old batteries for free when a new battery is purchased.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        141
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "If you have your new battery installed when you buy it, the shop will recycle the old one for you. They\u2019ll probably want to charge a few dollars for this service, but try to negotiate it into the price."
+      ]
+    },
+    {
+      "id": "ch06_true_false_074",
+      "question": "It is recommended to avoid working on fuse boxes to prevent potential mistakes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        142
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Before you open or work on a fuse box, be sure that your vehicle\u2019s ignition is\n turned off."
+      ]
+    },
+    {
+      "id": "ch06_true_false_075",
+      "question": "The owner\u2019s manual can assist in locating fuse boxes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        142
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Your owner\u2019s manual can help you locate them."
+      ]
+    },
+    {
+      "id": "ch06_true_false_076",
+      "question": "Working on a fuse box is only safe if a professional mechanic is present.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        142
+      ],
+      "confidence": 2.0,
+      "justification": [
+        "Before you open or work on a fuse box, be sure that your vehicle\u2019s ignition is turned off."
+      ]
+    },
+    {
+      "id": "ch06_true_false_077",
+      "question": "If a headlight fails on both the low and high beam settings, the headlight unit itself is always the problem.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If a headlight doesn\u2019t work on either High or Low beam, you probably just have a bad connection in the wiring."
+      ]
+    },
+    {
+      "id": "ch06_true_false_078",
+      "question": "Washing headlights and taillights periodically can help improve nighttime visibility.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "It doesn\u2019t hurt to wash the outside of your headlights and taillights occasion-ally; clean lights provide better visibility at night."
+      ]
+    },
+    {
+      "id": "ch06_true_false_079",
+      "question": "Sealed-beam headlights are typically found in newer vehicles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Older vehicles have headlights with sealed-beam units (bulbs). Modern vehicles have headlamps filled with halogen or Xenon gas."
+      ]
+    },
+    {
+      "id": "ch06_true_false_080",
+      "question": "A blown fuse can be the reason for both headlights failing simultaneously.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": "If both of your headlights go out at the same time, chances are the units are okay but the fuse that controls them has blown and needs to be changed."
+    },
+    {
+      "id": "ch06_true_false_081",
+      "question": "Determining the headlight type is unnecessary before attempting replacement.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        144
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Before attempting to replace or adjust your headlights, you need to know whether you have halogen or Xenon headlamps or the old-style sealed-beam units."
+      ]
+    },
+    {
+      "id": "ch06_true_false_082",
+      "question": "Xenon lamps consume the most power of the headlight types discussed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        145
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Xenon are the brightest, have the longest life, and consume the least power."
+      ]
+    },
+    {
+      "id": "ch06_true_false_084",
+      "question": "Sealed-beam headlights offer more design flexibility compared to modern headlights.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        145
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Halogen and Xenon headlamps have also allowed designers to get pretty creative with shapes because they use small, replaceable lamps that don\u2019t have to be contained in round or rectangular housings."
+      ]
+    },
+    {
+      "id": "ch06_true_false_085",
+      "question": "It is acceptable to use any tool available to remove a headlight's exterior rings or frames.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        146
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If you need some exotic tool to do this, forget the job and have it done professionally."
+      ]
+    },
+    {
+      "id": "ch06_true_false_086",
+      "question": "Handling a replacement bulb by its plastic base is a recommended practice.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        146
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Instead, handle the bulb by its plastic base or the metallic tip, if it has one."
+      ]
+    },
+    {
+      "id": "ch06_true_false_087",
+      "question": "The primary purpose of adjusting headlight alignment is to improve vehicle aesthetics.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        146
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Because HID headlamps are so\\nin tensely bright, it\u2019s most important\\nto avoid temporarily blinding other\\ndrivers, pedestrians, or animals."
+      ]
+    },
+    {
+      "id": "ch06_true_false_088",
+      "question": "It is safe to apply excessive force to loosen stuck retaining screws.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "If the retaining screws stick, spray a little penetrating solvent (like WD-40) on them."
+      ]
+    },
+    {
+      "id": "ch06_true_false_089",
+      "question": "Rectangular headlights have fewer screws than round headlights.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "The plate has several screws; round headlights have three screws that\nloosen the plate, and rectangular headlights have four."
+      ]
+    },
+    {
+      "id": "ch06_true_false_090",
+      "question": "Professional headlight alignment is always free.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Note, though, that if you go to a repair facility that does MVB inspections just to see whether your headlights are aimed properly, you\u2019ll probably have to pay them for checking the lights and for an inspection certificate whether or not they have to adjust your lights."
+      ]
+    },
+    {
+      "id": "ch06_true_false_091",
+      "question": "The wiring connector should be checked for corrosion and wear.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Scrape any corrosion off the connector, and check its wiring for wear."
+      ]
+    },
+    {
+      "id": "ch06_true_false_092",
+      "question": "Aligning headlights according to state laws can often be done at Motor Vehicle Bureau inspection stations.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        147
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "Some are certified Motor Vehicle Bureau inspection stations."
+      ]
+    },
+    {
+      "id": "ch06_true_false_093",
+      "question": "A certificate verifying headlight adjustment is typically included in the cost of the check.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "pages": [
+        148
+      ],
+      "confidence": 3.0,
+      "justification": [
+        "This certificate is usually part of the price."
+      ]
+    },
+    {
+      "id": "ch06_true_false_094",
+      "question": "Troubleshooting information for directional signals can be found in Chapter 6.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "pages": [
+        148
+      ],
+      "confidence": 4.0,
+      "justification": [
+        "You can find information about troubleshooting directional signals in Chapter 20."
+      ]
+    }
+  ]
+}

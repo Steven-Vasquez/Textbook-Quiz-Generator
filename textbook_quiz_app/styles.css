@@ -1,0 +1,172 @@
+/* -----------------------------
+   Base / Reset
+----------------------------- */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f4f6f9;
+  color: #1f2933;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  color: #111827;
+}
+
+h2 {
+  margin-top: 40px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+/* -----------------------------
+   Layout Containers
+----------------------------- */
+.page {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 24px 28px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+}
+
+/* -----------------------------
+   Buttons
+----------------------------- */
+button {
+  background-color: #2563eb;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 18px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.15s ease, transform 0.05s ease;
+}
+
+button:hover {
+  background-color: #1d4ed8;
+}
+
+button:active {
+  transform: translateY(1px);
+}
+
+/* -----------------------------
+   Quiz List (index.html)
+----------------------------- */
+.quiz {
+  margin-bottom: 12px;
+}
+
+.quiz button {
+  width: 100%;
+  text-align: left;
+}
+
+/* -----------------------------
+   Questions
+----------------------------- */
+.question {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 20px 22px;
+  margin: 20px 0;
+}
+
+.question p {
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+
+/* Answer options */
+.question label {
+  display: block;
+  padding: 6px 0;
+  cursor: pointer;
+}
+
+.question input[type="radio"] {
+  margin-right: 8px;
+}
+
+/* Short answer */
+textarea {
+  width: 100%;
+  min-height: 80px;
+  padding: 10px 12px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+  font-family: inherit;
+  font-size: 15px;
+}
+
+textarea:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+/* -----------------------------
+   Inline Feedback
+----------------------------- */
+.inline-feedback {
+  margin-top: 16px;
+  padding: 14px 16px;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.inline-feedback.correct {
+  background-color: #ecfdf5;
+  border: 1px solid #10b981;
+  color: #065f46;
+}
+
+.inline-feedback.incorrect {
+  background-color: #fef2f2;
+  border: 1px solid #ef4444;
+  color: #7f1d1d;
+}
+
+.inline-feedback strong {
+  display: inline-block;
+  margin-bottom: 6px;
+}
+
+.inline-feedback .correct-answer,
+.inline-feedback .feedback-text,
+.inline-feedback .pages,
+.inline-feedback .justification,
+.inline-feedback .confidence {
+  margin-top: 6px;
+  font-size: 14px;
+}
+
+/* -----------------------------
+   Results
+----------------------------- */
+.result {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* -----------------------------
+   Utility
+----------------------------- */
+.center {
+  text-align: center;
+}

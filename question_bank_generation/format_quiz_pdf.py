@@ -162,7 +162,7 @@ def draw_answer_question(c, q, x, y, max_width, question_number):
     )
 
     qtype = infer_type_from_id(q['id'])
-    confidence = q.get("confidence", 0.0)
+    confidence = q.get("confidence", 1)
     pages = ", ".join(str(p) for p in q.get("pages", [])) or "N/A"
     justification = q.get("justification", [])
 

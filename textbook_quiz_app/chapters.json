@@ -1,0 +1,22 @@
+[
+    {
+        "chapter_num": "5",
+        "title": "Chapter 5 - The Electrical System: Your Car's Spark of Life",
+        "file": "chapter5.json"
+    },
+    {
+        "chapter_num": "6",
+        "title": "Chapter 6 - Keeping Your Electrical System in Tune",
+        "file": "chapter6.json"
+    },
+    {
+        "chapter_num": "7",
+        "title": "Chapter 7 - The Traditional Fuel System: The Heart and Lungs of Your Car",
+        "file": "chapter7.json"
+    },
+    {
+        "chapter_num": "8",
+        "title": "Chapter 8 - Keeping Your Fuel System in Tune",
+        "file": "chapter8.json"
+    }
+]

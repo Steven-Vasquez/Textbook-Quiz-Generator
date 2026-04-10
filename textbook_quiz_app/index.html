@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Select a Quiz</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+    <div class="page">
+        <div class="card">
+            <h1>Select a Chapter Quiz</h1>
+            <div id="quiz-list">Loading quizzes...</div>
+        </div>
+    </div>
+
+    <script>
+        fetch("chapters.json")
+            .then(res => res.json())
+            .then(chapters => {
+                const container = document.getElementById("quiz-list");
+                container.innerHTML = "";
+
+                chapters.forEach(ch => {
+                    const div = document.createElement("div");
+                    div.className = "quiz";
+                    div.innerHTML = `
+        <button onclick="startQuiz('${ch.chapter_num}')">
+          ${ch.title}
+        </button>
+      `;
+                    container.appendChild(div);
+                });
+            });
+
+        function startQuiz(chapter_num) {
+            window.location.href = `quiz.html?chapter=${chapter_num}`;
+        }
+    </script>
+
+</body>
+
+</html>

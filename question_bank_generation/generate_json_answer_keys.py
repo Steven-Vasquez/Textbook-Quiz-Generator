@@ -29,8 +29,8 @@ def is_invalid_answer(ans):
     return (
         not answer_text
         or answer_text in {"not explicitly stated", "..."}
-        or confidence == 0
-        or confidence == 0.0
+        or confidence == 1
+        or confidence == 1.0
         or pages in {"n/a", "na", ""}
     )
 
@@ -69,6 +69,11 @@ def extract_json(text):
 # Answer generation (1 question)
 # -----------------------------
 def generate_answer_for_question(chunk, question):
+    """
+    Second-pass retry with stricter evidence discipline.
+    Uses the same confidence scale as the primary pass.
+    """
+
     is_mcq = bool(question.get("options"))
 
     mcq_instruction = ""
@@ -77,37 +82,46 @@ def generate_answer_for_question(chunk, question):
 MCQ RULES:
 - Choose EXACTLY ONE of the provided options.
 - The chosen option MUST be semantically equivalent to the meaning of the justification quote(s).
-- If none of the options match the meaning of the quote(s) EXACTLY:
+- If none of the options match the meaning of the quote(s):
   - answer = "Not explicitly stated"
   - pages = []
   - justification = []
-  - confidence = 0.0
+  - confidence = 1
 """
 
     prompt = f"""
-You are generating an answer key.
+You are retrying answer generation after a failed first attempt.
 
-Use ONLY the excerpt below.
-Page markers appear as [PAGE X].
+Retry ONLY if the excerpt provides sufficient textual support.
+Do NOT lower the evidentiary standard to force an answer.
 
-CRITICAL VALIDATION RULES:
-- The answer MUST be directly supported by the justification quote(s).
-- The justification quote(s) MUST logically imply the answer.
-- If the quote(s) contradict the answer, you MUST:
-  - answer = "Not explicitly stated"
-  - pages = []
-  - justification = []
-  - confidence = 0.0
+ABSOLUTE RULES:
+- Do NOT guess.
+- Do NOT introduce outside knowledge.
+- Do NOT merge unrelated statements.
+- If support is ambiguous or contradictory, return "Not explicitly stated".
 
-Before answering:
-- Determine what the excerpt actually states.
-- Ensure the answer matches that meaning exactly.
+FIELD DEFINITIONS:
+- answer:
+  - Must exactly reflect what the excerpt states or implies
+  - Use "Not explicitly stated" if the excerpt does not support a single clear answer
+- pages:
+  - Page numbers where the justification quote(s) appear
+  - Empty list if answer is "Not explicitly stated"
+- justification:
+  - Exact quote(s) copied verbatim from the excerpt
+  - Quote(s) must logically support the answer
+- confidence (use ONLY these values):
+  - 4 = explicitly stated verbatim
+  - 3 = clearly implied by the text
+  - 2 = weak or indirect textual support
+  - 1 = not stated or contradictory
 
-Confidence scoring:
-- 1.0 = explicitly stated verbatim
-- 0.7 = clearly implied
-- 0.3 = weak or indirect support
-- 0.0 = not stated or contradictory
+If the justification quote(s) contradict the answer:
+- answer = "Not explicitly stated"
+- pages = []
+- justification = []
+- confidence = 1
 
 {mcq_instruction}
 
@@ -125,7 +139,7 @@ Return JSON ONLY:
   "question": "{question['q']}",
   "answer": "...",
   "pages": [],
-  "confidence": 0.0,
+  "confidence": 1,
   "justification": []
 }}
 """
@@ -138,7 +152,7 @@ Return JSON ONLY:
             "options": question.get("options"),  # ← PRESERVE EXACT OPTIONS
             "answer": parsed.get("answer", "Not explicitly stated"),
             "pages": parsed.get("pages", []),
-            "confidence": float(parsed.get("confidence", 0.0)),
+            "confidence": float(parsed.get("confidence", 1)),
             "justification": parsed.get("justification", [])
         }
     except Exception:
@@ -148,24 +162,66 @@ Return JSON ONLY:
             "options": question.get("options"),
             "answer": "Not explicitly stated",
             "pages": [],
-            "confidence": 0.0,
+            "confidence": 1,
             "justification": []
         }
 
 def generate_answer_retry(chunk, question):
     """
-    Second-pass retry with stricter instructions.
+    Second-pass retry with STRICTER, high-precision instructions.
+    Only answer if explicitly stated.
     """
+
+    is_mcq = bool(question.get("options"))
+
+    mcq_instruction = ""
+    if is_mcq:
+        mcq_instruction = """
+MCQ RULES:
+- Choose EXACTLY ONE option ONLY IF it is explicitly stated in the excerpt.
+- The option text MUST match the meaning of the quote verbatim.
+- If no option is explicitly stated:
+  - answer = "Not explicitly stated"
+  - pages = []
+  - justification = []
+  - confidence = 1
+"""
+
     prompt = f"""
-You previously failed to find an answer.
+You are retrying answer generation after a failed first pass.
 
-Retry ONLY if the excerpt clearly supports an answer.
-If the answer is not directly supported, return "Not explicitly stated".
+Retry ONLY if the excerpt EXPLICITLY states the answer.
+If the answer is not stated verbatim, return "Not explicitly stated".
 
-STRICT RULES:
+ABSOLUTE RULES:
 - Do NOT guess.
-- Do NOT paraphrase beyond what the text supports.
-- If support is indirect or ambiguous, return "Not explicitly stated".
+- Do NOT infer.
+- Do NOT paraphrase.
+- Do NOT combine multiple weak signals.
+- If there is any ambiguity, return "Not explicitly stated".
+
+FIELD DEFINITIONS:
+- answer:
+  - The exact fact stated in the excerpt
+  - Or "Not explicitly stated"
+- pages:
+  - List ONLY page numbers that contain the justification quote(s)
+  - Empty list if answer is "Not explicitly stated"
+- justification:
+  - Exact quote(s) copied verbatim from the excerpt
+  - Each quote must independently support the answer
+- confidence (use ONLY these values):
+  - 4 = explicitly stated verbatim
+  - 1 = not stated, ambiguous, or contradictory
+  - NEVER use 2 or 3 in this retry pass
+
+If the quote(s) contradict the answer:
+- answer = "Not explicitly stated"
+- pages = []
+- justification = []
+- confidence = 1
+
+{mcq_instruction}
 
 Question ID: {question['id']}
 Question: {question['q']}
@@ -181,32 +237,10 @@ Return JSON ONLY:
   "question": "{question['q']}",
   "answer": "...",
   "pages": [],
-  "confidence": 0.0,
+  "confidence": 1,
   "justification": []
 }}
 """
-
-    try:
-        parsed = extract_json(call_llm(prompt))
-        return {
-            "id": parsed.get("id", question["id"]),
-            "question": parsed.get("question", question["q"]),
-            "options": question.get("options"),
-            "answer": parsed.get("answer", "Not explicitly stated"),
-            "pages": parsed.get("pages", []),
-            "confidence": float(parsed.get("confidence", 0.0)),
-            "justification": parsed.get("justification", [])
-        }
-    except Exception:
-        return {
-            "id": question["id"],
-            "question": question["q"],
-            "options": question.get("options"),
-            "answer": "Not explicitly stated",
-            "pages": [],
-            "confidence": 0.0,
-            "justification": []
-        }
 
 
 # -----------------------------
@@ -234,7 +268,7 @@ def save_answer_key(out_dir, chap_key, chap, answers):
         md.append(f"**({a['id']}) {a['question']}**")
         md.append(f"Answer: {a['answer']}")
         md.append(f"Pages: {pages}")
-        md.append(f"Confidence: {a.get('confidence', 0.0):.2f}")
+        md.append(f"Confidence: {a.get('confidence', 1):.2f}")
 
         if a.get("justification"):
             md.append("Justification:")

@@ -7,7 +7,7 @@
 3. python generate_json_questions.py out/chapters_chunked.json out/json/questions/
 # For each chunk in each chapter, generate relavent questions
 
-4. python generate_json_answer_keys.py out/chapters_chunked.json out/json/answers/
+4. python generate_json_answer_keys.py out/chapters_chunked.json out/json/questions out/json/answers/
 # For each question, generate it's associated answer, validate it, and cite the textbook
 
 5. python format_quiz_pdf.py out/json/answers/ out/final_output/
