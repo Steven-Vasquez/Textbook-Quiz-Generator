@@ -134,7 +134,7 @@ async function gradeShortAnswerWithLLM(q) {
             : []
     };
 
-    const res = await fetch("http://10.1.3.50:5000/autograde", {
+    const res = await fetch("http://localhost:5000/autograde", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload)
