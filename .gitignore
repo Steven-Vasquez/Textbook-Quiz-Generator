@@ -5,3 +5,5 @@ out/
 quizzes/
 
 answer_keys/
+
+.env

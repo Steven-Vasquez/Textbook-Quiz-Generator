@@ -99,15 +99,19 @@ def extract_json(text):
     raise ValueError("No valid JSON object found.")
 
 def strip_option_labels(quiz):
-    """
-    Remove any leading A., A), B., etc. from MCQ options.
-    """
     for q in quiz.get("mcq", []):
         new_opts = []
         for opt in q.get("options", []):
-            # Remove leading A., A), B., etc.
+            # If opt is a list, flatten it
+            if isinstance(opt, list):
+                opt = " ".join(map(str, opt))
+
+            # Ensure it's a string
+            opt = str(opt)
+
             cleaned = re.sub(r"^[A-D][\.\)]\s*", "", opt.strip())
             new_opts.append(cleaned)
+
         q["options"] = new_opts
     return quiz
 
