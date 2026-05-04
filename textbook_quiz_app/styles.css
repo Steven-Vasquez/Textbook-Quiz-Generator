@@ -88,13 +88,13 @@ button:active {
 
 .question p {
   margin-top: 0;
-  margin-bottom: 14px;
+  margin-bottom: 5px;
 }
 
 /* Answer options */
 .question label {
-  display: block;
-  padding: 6px 0;
+  display: inline-flex;
+  margin-bottom: 5px;
   cursor: pointer;
 }
 
