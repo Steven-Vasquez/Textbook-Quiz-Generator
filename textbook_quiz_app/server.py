@@ -1,6 +1,7 @@
 # server.py
 
 import json
+import os
 import re
 import logging
 from typing import Dict, Any
@@ -13,8 +14,8 @@ from flask_cors import CORS
 # Configuration
 # ============================================================
 
-LLM_URL = "http://10.1.3.19:11434/api/generate"
-LLM_MODEL = "gemma3:12b"
+LLM_URL = f"{os.getenv('LLM_ENDPOINT', 'http://localhost:11434')}/api/generate"
+LLM_MODEL = os.getenv("LLM_MODEL", "gemma3:12b")
 LLM_TIMEOUT_SECONDS = 20
 MAX_STUDENT_ANSWER_LENGTH = 2000
 

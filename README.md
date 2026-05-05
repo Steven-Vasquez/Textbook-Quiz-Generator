@@ -27,7 +27,7 @@ Install [Ollama](https://ollama.com) and pull the model:
 ```
 ollama pull gemma3:12b
 ```
-The generation pipeline and grading server both expect Ollama to be running and reachable. Update the URLs in `generate_json_questions.py`, `generate_json_answer_keys.py`, and `server.py` if your Ollama instance is on a different host.
+The generation pipeline and grading server both expect Ollama to be running and reachable. Update the `LLM_URL` endpoint URL in .env if your Ollama instance is on a different host.
 
 ### Environment variables
 Copy `_env` to `.env` and adjust as needed:
@@ -36,6 +36,7 @@ CHUNK_SIZE=2500          # Max characters per text chunk
 CHUNK_OVERLAP=200        # Overlap between chunks
 EMBEDDING_MODEL=all-MiniLM-L6-v2
 LLM_MODEL=gemma3:12b
+LLM_ENDPOINT=http://localhost:11434
 ```
 
 ---
@@ -138,8 +139,6 @@ Post-submission feedback includes:
 
 ```
 generation/
-├── _env                          # Environment variable template
-├── requirements.txt
 ├── extract_and_split.py          # Step 1: PDF extraction and chunking
 ├── index_and_embed.py            # Step 2: FAISS embedding (optional)
 ├── generate_json_questions.py    # Step 3: Question generation
@@ -157,6 +156,9 @@ web/
     ├── chapter_5_answer_key.json
     ├── chapter_6_answer_key.json
     └── ...
+
+_env                              # Environment variable template
+environment.yaml                  # yaml file for dependency environment creation
 ```
 
 ---
