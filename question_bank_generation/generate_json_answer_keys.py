@@ -40,8 +40,9 @@ def is_invalid_answer(ans):
 # LLM call
 # -----------------------------
 def call_llm(prompt, max_tokens=600, temperature=0.2):
-    model = os.getenv("LLM_MODEL")
-    url = "http://10.1.3.19:11434/api/generate"
+    model = os.getenv("LLM_MODEL", "gemma3:12b")
+    llm_url = os.getenv("LLM_ENDPOINT", "http://localhost:11434")
+    url = f"{llm_url}/api/generate"
     payload = {
         "model": model,
         "prompt": prompt,
@@ -246,6 +247,23 @@ Return JSON ONLY:
 # -----------------------------
 # Save output
 # -----------------------------
+def normalize_justification(justification):
+    if not justification:
+        return []
+
+    # string → list
+    if isinstance(justification, str):
+        return [justification]
+
+    # list of single chars → join
+    if isinstance(justification, list) and all(
+        isinstance(x, str) and len(x) <= 1 for x in justification
+    ):
+        return ["".join(justification)]
+
+    # already correct
+    return justification
+
 def save_answer_key(out_dir, chap_key, chap, answers):
     os.makedirs(out_dir, exist_ok=True)
 
@@ -270,9 +288,11 @@ def save_answer_key(out_dir, chap_key, chap, answers):
         md.append(f"Pages: {pages}")
         md.append(f"Confidence: {a.get('confidence', 1):.2f}")
 
-        if a.get("justification"):
+        justification = normalize_justification(a.get("justification"))
+
+        if justification:
             md.append("Justification:")
-            for j in a["justification"]:
+            for j in justification:
                 md.append(f"> {j}")
         else:
             md.append("Justification: N/A")

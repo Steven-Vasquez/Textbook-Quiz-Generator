@@ -3,6 +3,7 @@
 format_quiz_pdf.py
 
 Usage:
+    python format_quiz_pdf.py answer_keys/ output_dir/
     python format_quiz_pdf.py ch01_answers.json output_dir/
 
 Generates:
@@ -99,6 +100,22 @@ def get_mcq_answer_label(q):
 
     return None, answer
 
+def normalize_justification(justification):
+    if not justification:
+        return []
+
+    # Case 1: string → wrap
+    if isinstance(justification, str):
+        return [justification]
+
+    # Case 2: list of single characters → join
+    if isinstance(justification, list) and all(
+        isinstance(x, str) and len(x) <= 1 for x in justification
+    ):
+        return ["".join(justification)]
+
+    # Case 3: already correct
+    return justification
 # -----------------------------
 # Use question ID to infer type
 # -----------------------------
@@ -164,7 +181,7 @@ def draw_answer_question(c, q, x, y, max_width, question_number):
     qtype = infer_type_from_id(q['id'])
     confidence = q.get("confidence", 1)
     pages = ", ".join(str(p) for p in q.get("pages", [])) or "N/A"
-    justification = q.get("justification", [])
+    justification = normalize_justification(q.get("justification", []))
 
     # Bold main answer info
     c.setFont("Helvetica-Bold", 11)
@@ -374,16 +391,28 @@ def create_sample_tests(data, out_dir, n_samples=4, num_each=10):
 # -----------------------------
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("answer_key_dir", help="Directory containing answer key JSON files")
+    parser.add_argument(
+        "answer_key_input",
+        help="Directory containing answer key JSON files, or a single answer key JSON file"
+    )
     parser.add_argument("out_dir", help="Base output directory")
     args = parser.parse_args()
 
-    # Loop over all JSON files in the input directory
-    for fname in sorted(os.listdir(args.answer_key_dir)):
-        if not fname.lower().endswith(".json"):
-            continue
+    input_path = args.answer_key_input
+    if os.path.isdir(input_path):
+        json_files = [
+            os.path.join(input_path, fname)
+            for fname in sorted(os.listdir(input_path))
+            if fname.lower().endswith(".json")
+        ]
+    elif os.path.isfile(input_path) and input_path.lower().endswith(".json"):
+        json_files = [input_path]
+    else:
+        parser.error("answer_key_input must be a directory of .json files or a single .json file")
 
-        answer_key_path = os.path.join(args.answer_key_dir, fname)
+    # Loop over all JSON files discovered from input
+    for answer_key_path in json_files:
+        fname = os.path.basename(answer_key_path)
 
         with open(answer_key_path, "r", encoding="utf-8") as f:
             data = json.load(f)

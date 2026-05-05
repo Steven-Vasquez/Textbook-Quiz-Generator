@@ -38,7 +38,8 @@ def shuffle_mcq_options(quiz, seed_prefix="mcq"):
 # LLM call
 def call_llm(prompt, max_tokens=800, temperature=0.2):
     model = os.getenv("LLM_MODEL")
-    url = "http://10.1.3.19:11434/api/generate"
+    llm_url = os.getenv("LLM_ENDPOINT", "http://localhost:11434")
+    url = f"{llm_url}/api/generate"
     payload = {
         "model": model,
         "prompt": prompt,
